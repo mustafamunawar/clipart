@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" sodipodi:docname="_svgclean2.svg" viewBox="0 0 558 522.34" version="1.1" inkscape:version="0.48.3.1 r9886">
+  <sodipodi:namedview id="namedview83" bordercolor="#666666" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" gridtolerance="10" inkscape:window-maximized="0" inkscape:zoom="0.22425739" objecttolerance="10" borderopacity="1" inkscape:current-layer="svg2" inkscape:cx="361.24724" inkscape:cy="34.158909" inkscape:window-y="0" inkscape:window-x="0" inkscape:window-width="743" showgrid="false" inkscape:pageopacity="0" inkscape:window-height="484"/>
+  <defs id="defs4">
+    <linearGradient id="lGclap" y2="163.4" gradientUnits="userSpaceOnUse" y1="98.78" x2="262.6" x1="262.6">
+      <stop id="stop7" stop-color="#6f6f00" offset="0"/>
+      <stop id="stop9" stop-color="#fff705" offset=".2"/>
+      <stop id="stop11" stop-color="#fff009" offset=".6"/>
+      <stop id="stop13" stop-color="#f2b500" offset=".8"/>
+      <stop id="stop15" stop-color="#9d8d00" offset="1"/>
+    </linearGradient>
+    <filter id="blurmedium" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur28" stdDeviation="5"/>
+    </filter>
+    <filter id="blurstrongest" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur31" stdDeviation="10"/>
+    </filter>
+    <filter id="turb" height="0.8" width="0.9" color-interpolation-filters="sRGB" y=".1" x="0.05" filterUnits="objectBoundingBox">
+      <feTurbulence id="feTurbulence34" numOctaves="4" type="fractalNoise" baseFrequency="0.3"/>
+    </filter>
+    <linearGradient id="linearGradient3060" y2="20" gradientUnits="userSpaceOnUse" x2="225" y1="220" x1="221" inkscape:collect="always">
+      <stop id="stop18" stop-color="#feac00" offset="0"/>
+      <stop id="stop20" stop-color="#fffef0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3062" y2="38" gradientUnits="userSpaceOnUse" x2="294" y1="311" x1="294" inkscape:collect="always">
+      <stop id="stop23" stop-color="#bfbf00" offset="0"/>
+      <stop id="stop25" stop-color="#bfbf00" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="mailbox" transform="translate(-10.8,-38)">
+    <path id="main" style="stroke:url(#linearGradient3062);stroke-width:4;stroke-opacity:.5;fill:url(#linearGradient3060)" inkscape:connector-curvature="0" d="m70 63s147-23 222-23c76 0 229 23 229 23 18 0 29 19 29 37v355c0 18-14 32-32 32h-448c-18 0-32-14-32-32v-355c0-18 14-37 32-37z"/>
+    <path id="emboss" style="filter:url(#blurmedium);fill:#e2c500" inkscape:connector-curvature="0" d="m84 79s138-22 208-22c71 0 215 22 215 22 17 0 27 18 27 35v336c0 17-13 30-30 30h-420c-16 0-30-13-30-30v-336c0-17 13-35 30-35z"/>
+    <rect id="clapbg" rx="3.37" height="64.68" width="405.6" y="97.6" x="87.38"/>
+    <path id="clap" style="fill:url(#lGclap)" inkscape:connector-curvature="0" d="m92.93 99.29 395.97-0.51c3.5 21.42 5.3 42.72 2 64.12l-403.02 0.5c-1.1-21.8-1.78-43.6 5.05-64.11z"/>
+    <rect id="notice" style="fill:#ffffff" ry="4.878" height="230.3" width="229.8" y="193.7" x="175.3"/>
+    <path id="bgnotice" inkscape:connector-curvature="0" d="m170.7 189.7v243.4h240.4v-243.4h-240.4zm15.2 19.2h206.1v197h-206.1v-197z"/>
+    <path id="innernotice" inkscape:connector-curvature="0" d="m199 212c-5 0-8 4-8 8v172c0 5 4 8 8 8h182c5 0 8-4 8-8v-172c0-5-4-8-8-8h-182zm0 7h183c3 0 5 2 5 5v103c0 3-2 5-5 5h-183c-3 0-5-2-5-5v-103c0-3 2-5 5-5zm-2 120h184c2 0 4 2 4 4v49c0 2-2 4-4 4h-184c-2 0-4-2-4-4v-49c0-2 2-4 4-4z"/>
+    <g id="glines" style="stroke:#000000;stroke-width:1px">
+      <line id="line45" y1="243" x2="386" x1="193" y2="244"/>
+      <line id="line47" y1="255" x2="386" x1="193" y2="256"/>
+      <line id="line49" y1="266" x2="386" x1="193" y2="267"/>
+      <line id="line51" y1="231" x2="386" x1="270" y2="232"/>
+      <line id="line53" y1="220" x2="270" x1="270" y2="266"/>
+      <line id="line55" y1="220" x2="290" x1="290" y2="266"/>
+      <line id="line57" y1="220" x2="309" x1="309" y2="266"/>
+      <line id="line59" y1="220" x2="328" x1="328" y2="266"/>
+      <line id="line61" y1="220" x2="347" x1="347" y2="266"/>
+      <line id="line63" y1="220" x2="367" x1="367" y2="266"/>
+    </g>
+    <g id="text">
+      <text id="text66" y="235" x="195">Montag - Freitag</text>
+      <text id="text68" y="253" x="195">Samstag</text>
+      <text id="text70" y="218" x="260" font-size="7px" style="font-size:7px;fill:#999999">Briefkastenleerung</text>
+      <text id="text72" y="286" x="260">Nächste Leerung</text>
+    </g>
+    <circle id="key" sodipodi:rx="11" sodipodi:ry="11" style="stroke:#999999;fill:#cccccc" d="m 301,310 c 0,6.07513 -4.92487,11 -11,11 -6.07513,0 -11,-4.92487 -11,-11 0,-6.07513 4.92487,-11 11,-11 6.07513,0 11,4.92487 11,11 z" cy="310" sodipodi:cy="310" cx="290" r="11" sodipodi:cx="290"/>
+    <rect id="rect75" style="stroke:#999999;fill:#ffffff" transform="matrix(.99619 .087156 -.087156 .99619 0 0)" height="15" width="15" y="276" x="308"/>
+    <use id="use77" style="fill-opacity:.5" xlink:href="#key" transform="matrix(.5 0 0 .5 145 155)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="dirtysurface" style="opacity:.2;filter:url(#turb)" xlink:href="#main" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <path id="shadow" d="m40 353v102c0 17 14 30 32 30h446c18 0 32-13 32-30v-102h-20v83c0 14-13 26-30 26h-416c-16 0-30-11-30-26v-83h-14z" style="opacity:.3;filter:url(#blurstrongest)" inkscape:connector-curvature="0" transform="matrix(1,0,0,1.96,-5.2,-437.3)"/>
+  </g>
+  <metadata id="metadata81">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

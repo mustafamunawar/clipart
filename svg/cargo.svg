@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3847" sodipodi:docname="cargo.svg" viewBox="0 0 640 480" version="1.1" inkscape:version="0.48.3.1 r9886">
+  <title id="title3026">cargo</title>
+  <defs id="defs3849">
+    <filter id="filter4648" height="1.3701" width="1.475" y="-.18503" x="-.23752" inkscape:collect="always">
+      <feGaussianBlur id="feGaussianBlur4650" stdDeviation="6.9734201" inkscape:collect="always"/>
+    </filter>
+    <filter id="filter4652" height="2.1165" width="1.1725" y="-.55827" x="-.086268" inkscape:collect="always">
+      <feGaussianBlur id="feGaussianBlur4654" stdDeviation="6.0810344" inkscape:collect="always"/>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="-8" pagecolor="#ffffff" inkscape:window-height="706" inkscape:window-maximized="1" inkscape:zoom="0.38736264" inkscape:window-x="-8" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="-174.07122" inkscape:cy="243.81247" inkscape:window-width="1366" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+    <g id="g4656" transform="matrix(1.2306 0 0 1.2308 -21.728 -14.111)">
+      <rect id="rect4417" style="opacity:.35398;filter:url(#filter4652);stroke-width:0;fill:#000000" transform="matrix(0 -1.0574 1.0486 .019845 -4.9672 -16.075)" height="170.57" width="22.723" y="107.27" x="-316.4"/>
+      <rect id="rect4462" style="opacity:.35398;filter:url(#filter4648);stroke-width:0;fill:#000000" transform="matrix(0 -1.0574 .79736 -.68685 -4.9672 -16.075)" height="70.797" width="22.22" y="368.65" x="-562.34"/>
+    </g>
+    <rect id="rect4369" style="stroke-linejoin:round;stroke-opacity:.14815;stroke:#372600;stroke-width:4.0886;fill:#cc9900" transform="matrix(.99972 .023741 0 1 0 0)" height="209.9" width="215.83" y="154.87" x="110.28"/>
+    <rect id="rect4411" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.0886;fill:#ffff99" transform="matrix(.99972 .023741 0 1 0 0)" height="209.9" width="35.382" y="154.87" x="110.28"/>
+    <rect id="rect4413" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.0886;fill:#ffff99" transform="matrix(0 1 -.99972 -.023741 0 0)" height="214.65" width="35.376" y="-324.93" x="155.34"/>
+    <rect id="rect4415" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.0886;fill:#ffff99" transform="matrix(-.99972 -.023741 0 -1 0 0)" height="209.9" width="35.382" y="-364.76" x="-327.29"/>
+    <rect id="rect4454" style="stroke-linejoin:round;stroke-opacity:.14815;stroke:#372600;stroke-width:4.9606;fill:#cc9900" transform="matrix(.67913 -.73402 0 1 0 0)" height="205.25" width="100.28" y="519.67" x="479.11"/>
+    <rect id="rect4456" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.9606;fill:#ffff99" transform="matrix(.67913 -.73402 0 1 0 0)" height="205.25" width="16.439" y="519.67" x="479.11"/>
+    <rect id="rect4458" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.9606;fill:#ffff99" transform="matrix(0 1 -.67913 .73402 0 0)" height="99.732" width="34.593" y="-578.84" x="520.13"/>
+    <rect id="rect4460" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.9606;fill:#ffff99" transform="matrix(-.67913 .73402 0 -1 0 0)" height="205.25" width="16.439" y="-724.92" x="-579.94"/>
+    <rect id="rect4464" style="stroke-linejoin:round;stroke-opacity:.14815;stroke:#372600;stroke-width:4.7172;fill:#cc9900" transform="matrix(-.99972 -.023775 -.67794 .73512 0 0)" height="93.143" width="219.74" y="112.46" x="-469.55"/>
+    <rect id="rect4466" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.7172;fill:#ffff99" transform="matrix(-.99972 -.023775 -.67794 .73512 0 0)" height="93.143" width="36.024" y="112.46" x="-469.55"/>
+    <rect id="rect4468" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.7172;fill:#ffff99" transform="matrix(-.67794 .73512 .99972 .023775 0 0)" height="218.54" width="15.698" y="251.01" x="112.67"/>
+    <rect id="rect4470" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.7172;fill:#ffff99" transform="matrix(.99972 .023775 .67794 -.73512 0 0)" height="93.143" width="36.024" y="-205.6" x="248.61"/>
+    <rect id="rect4472" style="opacity:.35398;stroke-linejoin:round;stroke-opacity:.74074;stroke:#ffffff;stroke-width:4.7172;fill:#ffff99" transform="matrix(.67794 -.73512 -.99972 -.023775 0 0)" height="213.74" width="15.698" y="-466.31" x="-205.6"/>
+    <path id="path4517" style="stroke-opacity:.40212;stroke:#9d6c12;stroke-width:6.5;fill:none" inkscape:connector-curvature="0" d="m252.62 92.938-41.715 60.888v215.36"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

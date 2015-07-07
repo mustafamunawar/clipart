@@ -1,0 +1,323 @@
+<?xml version="1.0" standalone="yes"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    version="1.1"
+    viewBox="0.0 0.0 400.0 631.0"
+    fill="none"
+    stroke="none"
+    stroke-linecap="square"
+    stroke-miterlimit="10"
+  >
+  <clipPath
+      id="p.0"
+    >
+    <path
+        d="m0 0l400.0 0l0 631.0l-400.0 0l0 -631.0z"
+        clip-rule="nonzero"
+    />
+  </clipPath
+  >
+  <g
+      clip-path="url(#p.0)"
+    >
+    <path
+        fill="#000000"
+        fill-opacity="0.0"
+        d="m0 0l400.7979 0l0 631.7192l-400.7979 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#434343"
+        d="m16.409449 37.151123l0 0c0 -13.923937 11.287582 -25.211517 25.21152 -25.211517l317.199 0c6.686493 0 13.099152 2.6562052 17.82724 7.384282c4.728058 4.728077 7.3842773 11.140726 7.3842773 17.827236l0 553.4195c0 13.923889 -11.287598 25.211487 -25.211517 25.211487l-317.199 0c-13.923937 0 -25.21152 -11.287598 -25.21152 -25.211487z"
+        fill-rule="nonzero"
+    />
+    <path
+        stroke="#000000"
+        stroke-width="4.0"
+        stroke-linejoin="round"
+        stroke-linecap="butt"
+        d="m16.409449 37.151123l0 0c0 -13.923937 11.287582 -25.211517 25.21152 -25.211517l317.199 0c6.686493 0 13.099152 2.6562052 17.82724 7.384282c4.728058 4.728077 7.3842773 11.140726 7.3842773 17.827236l0 553.4195c0 13.923889 -11.287598 25.211487 -25.211517 25.211487l-317.199 0c-13.923937 0 -25.21152 -11.287598 -25.21152 -25.211487z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#cccccc"
+        d="m38.96873 39.105923l319.4583 0l0 253.89609l-319.4583 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        stroke="#000000"
+        stroke-width="4.0"
+        stroke-linejoin="round"
+        stroke-linecap="butt"
+        d="m38.96873 39.105923l319.4583 0l0 253.89609l-319.4583 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m46.906883 367.08536l43.398705 0l0 36.999207l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m111.45658 367.08536l43.398705 0l0 36.999207l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m176.00627 367.08536l43.398697 0l0 36.999207l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m240.55597 367.08536l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m305.10565 367.08536l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#f1c232"
+        d="m305.10565 311.5441l43.398712 0l0 36.999176l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m240.8171 311.5441l43.398697 0l0 36.999176l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m45.96031 428.6111l43.398705 0l0 36.999176l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m110.51 428.6111l43.398705 0l0 36.999176l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m175.05971 428.6111l43.398697 0l0 36.999176l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m239.60939 428.6111l43.398697 0l0 36.999176l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m304.1591 428.6111l43.398712 0l0 36.999176l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m46.906883 493.26868l43.398705 0l0 36.999207l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m111.45658 493.26868l43.398705 0l0 36.999207l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m176.00627 493.26868l43.398697 0l0 36.999207l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m240.55597 493.26868l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m305.10565 493.26868l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#6aa84f"
+        d="m45.96684 551.66864l43.3987 0l0 36.999207l-43.3987 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#3d85c6"
+        d="m110.51653 551.66864l43.398705 0l0 36.999207l-43.398705 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m175.06622 551.66864l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m239.61592 551.66864l43.398697 0l0 36.999207l-43.398697 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        d="m304.16562 551.66864l43.398712 0l0 36.999207l-43.398712 0z"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        fill-opacity="0.0"
+        d="m39.126225 248.34319l319.145 0"
+        fill-rule="nonzero"
+    />
+    <path
+        stroke="#000000"
+        stroke-width="4.0"
+        stroke-linejoin="round"
+        stroke-linecap="butt"
+        d="m39.126225 248.34319l319.145 0"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        fill-opacity="0.0"
+        d="m114.79773 38.66665l0.9400482 253.89606"
+        fill-rule="nonzero"
+    />
+    <path
+        stroke="#000000"
+        stroke-width="4.0"
+        stroke-linejoin="round"
+        stroke-linecap="butt"
+        d="m114.79773 38.66665l0.9400482 253.89606"
+        fill-rule="nonzero"
+    />
+    <path
+        fill="#000000"
+        fill-opacity="0.0"
+        d="m38.903046 153.26633c2.686798 6.472397 8.317524 26.284073 16.120792 38.834427c7.8032646 12.550354 18.50906 27.483978 30.698803 36.467697c12.189735 8.983719 24.453568 15.187653 42.43965 17.4346c17.986084 2.2469635 43.411514 1.8587036 65.47682 -3.952835c22.065308 -5.8115234 50.32573 -19.42134 66.91502 -30.916367c16.589294 -11.495026 24.739044 -21.934723 32.620758 -38.053787c7.8816833 -16.11905 11.773529 -41.484116 14.669525 -58.66057c2.8959656 -17.176453 2.2553406 -31.845726 2.7063904 -44.39814c0.45108032 -12.552425 0 -25.763649 0 -30.916378"
+        fill-rule="nonzero"
+    />
+    <path
+        stroke="#000000"
+        stroke-width="4.0"
+        stroke-linejoin="round"
+        stroke-linecap="butt"
+        d="m38.903046 153.26633c2.686798 6.472397 8.317524 26.284073 16.120792 38.834427c7.8032646 12.550354 18.50906 27.483978 30.698803 36.467697c12.189735 8.983719 24.453568 15.187653 42.43965 17.4346c17.986084 2.2469635 43.411514 1.8587036 65.47682 -3.952835c22.065308 -5.8115234 50.32573 -19.42134 66.91502 -30.916367c16.589294 -11.495026 24.739044 -21.934723 32.620758 -38.053787c7.8816833 -16.11905 11.773529 -41.484116 14.669525 -58.66057c2.8959656 -17.176453 2.2553406 -31.845726 2.7063904 -44.39814c0.45108032 -12.552425 0 -25.763649 0 -30.916378"
+        fill-rule="nonzero"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Calculator</dc:title
+        >
+        <dc:date
+          >2014-02-27T13:38:24</dc:date
+        >
+        <dc:description
+          >An image of a calculator</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/191355/calculator-by-scout-191355</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Scout</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >calculator</rdf:li
+            >
+            <rdf:li
+              >equations</rdf:li
+            >
+            <rdf:li
+              >graphing</rdf:li
+            >
+            <rdf:li
+              >graphing calculator</rdf:li
+            >
+            <rdf:li
+              >graphs</rdf:li
+            >
+            <rdf:li
+              >homework</rdf:li
+            >
+            <rdf:li
+              >math</rdf:li
+            >
+            <rdf:li
+              >mathematics</rdf:li
+            >
+            <rdf:li
+              >school</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

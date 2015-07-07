@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 420 480"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(670 -363.79)"
+    >
+    <path
+        id="path3295"
+        d="m-549.98 841.04c0.79118-22.047 10.183-42.326 14.674-63.703 7.8363-35.668 19.131-70.194 29.953-104.98 8.2024-17.09 7.4136-37.843-7.9416-50.83-10.447-12.539-19.668-26.449-21.178-43.007-6.0323-16.504-17.488-32.265-15.432-50.67 3.07-16.466-6.2436-31.398-5.7781-47.46 11.292-12.221 30.288 3.6495 33.212 17.092 6.1366 8.7551 6.0221 29.999 13.861 32.337 2.8531-19.239-5.7091-37.398-8.1342-56.277-0.42233-17.391 2.1698-35.014 4.2632-52.393-2.9025-15.91 15.017-37.289 26.481-17.219 7.2839 16.336-2.6324 33.531-0.0179 50.448-2.037 8.6348 7.0216 39.029 7.845 15.186 5.6394-27.711 19.285-53.57 39.348-73.623 15.774-8.5528 26.992 18.276 15.677 29.143-7.3432 16.211-20.168 30.534-23.146 48.35-0.16682 15.695 12.439-13.145 17.294-16.095 12.02-11.619 18.299-32.061 35.211-37.514 19.57 3.937 10.847 30.757-0.88772 39.42-8.8591 11.916-18.956 25.614-19.436 41.203-1.3751 7.2762-2.9771 27.026 5.9965 11.491 7.036-11.627 20.724-13.288 29.231-23.02 8.7347-10.683 31.485-23.19 29.486 1.0055 2.7579 7.4474-5.8317 10.892-9.6427 15.992-12.354 10.342-24.17 21.171-33.147 34.721-11.078 15.111-5.1468 35.193-7.3239 52.564-2.5008 25.487-1.4427 52.207-13.436 75.631-11.701 32.808-13.997 68.586-16.37 103.28-1.6478 23.857-0.0614 47.921-2.9528 71.675h-117.73c0.007-0.91666 0.013-1.8334 0.0195-2.75z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Raised Hand in Silhouette</dc:title
+        >
+        <dc:date
+          >2012-01-22T22:39:26</dc:date
+        >
+        <dc:description
+          >Raised Hand in Silhouette</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/167376/raised-hand-in-silhouette-by-dripsandcastle-167376</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >dripsandcastle</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >hand</rdf:li
+            >
+            <rdf:li
+              >raised hand</rdf:li
+            >
+            <rdf:li
+              >raised hand silhouette</rdf:li
+            >
+            <rdf:li
+              >silhouette</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

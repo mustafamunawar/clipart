@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187.5 187.5">
+<g fill="#fff" stroke="#000" stroke-linejoin="round" stroke-linecap="round" stroke-width="4.501" transform="matrix(.75221 0 0 .75221 -246.96 -388.8)">
+<path d="m661.41,400.88h10a5,5 0 0,1 5,5v68a5,5 0 0,1 -5,5h-10a5,5 0 0,1 -5-5v-68a5,5 0 0,1 5-5" transform="rotate(24.33)"/>
+<path d="m502,603.36a41,41 0 1,1 -82,0 41,41 0 1,1 82,0z"/>
+</g>
+<g transform="matrix(.75221 0 0 .75221 -246.96 -388.8)">
+<path fill-rule="evenodd" d="m431.35,594.15s2.66-14.66 16.66-20.66 30.21,1.1 30.21,1.1-16.88,2-26.88,6-19.99,11.56-19.99,13.56z"/>
+</g>
+</svg>

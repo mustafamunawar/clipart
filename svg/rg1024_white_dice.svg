@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210.52 199.26" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.174" x="-.087" y="-.153" height="1.306" id="filter100969">
+<feGaussianBlur stdDeviation="5.04994"/>
+</filter>
+<linearGradient id="linearGradient100863" y1="210.8" y2="244.75" x1="221.28" gradientUnits="userSpaceOnUse" x2="229.77">
+<stop offset="0" stop-color="#babdb6"/>
+<stop offset="1" stop-color="#ededed"/>
+</linearGradient>
+<linearGradient id="linearGradient100875" y1="210.8" x1="221.28" y2="244.75" gradientUnits="userSpaceOnUse" x2="229.77">
+<stop offset="0" stop-color="#babdb6"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-230.83 8.8443)" id="linearGradient100908" y1="265.88" x1="-125.32" y2="189.51" gradientUnits="userSpaceOnUse" x2="-184.61">
+<stop offset="0" stop-color="#d6d8d4"/>
+<stop offset="1" stop-color="#e5e5e5"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(454.72 497.68)" id="linearGradient100927" y1="93.645" x1="23.573" y2="52.456" gradientUnits="userSpaceOnUse" x2="-7.654">
+<stop offset="0" stop-color="#ececec"/>
+<stop offset="1" stop-color="#ececec" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="linearGradient100853" y1="210.8" y2="244.75" x1="221.28" gradientUnits="userSpaceOnUse" x2="229.77">
+<stop offset="0" stop-color="#babdb6"/>
+<stop offset="1" stop-color="#ececec"/>
+</linearGradient>
+</defs>
+<g transform="translate(-250.83 -290.95)">
+<path fill="#ececec" filter="url(#filter100969)" d="m390.32,476.07l-95.46,14.14s-47.37-47.37-43.84-47.37c3.54,0 29.7-31.82 29.7-31.82h97.58l12.02,65.05z"/>
+<path fill="#f7f7f7" stroke="#c7c7c7" stroke-linejoin="bevel" stroke-linecap="round" stroke-width="3" d="m383.98,292.45l-74.5,37.25-.13-.06v.12l-.34,.19 .34,.16v105.53l75.25,37.62v.25l75.25-37.62v-106l-.91,.06-74.96-37.5z"/>
+<path fill="url(#linearGradient100908)" d="m-429.99,174.96h84.143v106h-84.143z" transform="matrix(-.89443 -.44721 0 1 0 0)"/>
+<path fill="url(#linearGradient100853)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 423.84 387.2)"/>
+<path fill="url(#linearGradient100853)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 402.13 376.34)"/>
+<path fill="url(#linearGradient100853)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 423.86 331.01)"/>
+<path fill="url(#linearGradient100853)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 402.15 320.15)"/>
+<path fill="url(#linearGradient100853)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 380.44 309.3)"/>
+<path fill="url(#linearGradient100863)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(-.2445 -.12225 0 .34437 380.42 365.49)"/>
+<path fill="url(#linearGradient100927)" d="m429.98,559.79h84.143v106h-84.143z" transform="matrix(.89443 -.44721 0 1 0 0)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.2445 -.12225 0 .34437 345.34 387.45)"/>
+</g>
+<g fill="url(#linearGradient100875)" transform="matrix(.71 -.355 0 1 44.62 25.76)">
+<path d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.34437 0 0 .34437 70.23 39.485)"/>
+<path d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.34437 0 0 .34437 131.39 39.485)"/>
+</g>
+<g transform="translate(-250.83 -290.95)">
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.2445 -.12225 0 .34437 388.76 365.74)"/>
+<path fill="#f7f7f7" d="m-196.14,541.62h83.8v83.8h-83.8z" transform="matrix(.89443 -.44721 .89443 .44721 0 0)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.24351 -.12175 .24351 .12175 270.16 349.59)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.24351 -.12175 .24351 .12175 230.39 329.74)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.24351 -.12175 .24351 .12175 272.42 329.13)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.24351 -.12175 .24351 .12175 273.64 308.11)"/>
+<path fill="url(#linearGradient100875)" d="m250,232.36a24.286,24.286 0 1,1 -48.57,0 24.286,24.286 0 1,1 48.57,0z" transform="matrix(.24351 -.12175 .24351 .12175 313.4 327.97)"/>
+</g>
+<g stroke="#fff" stroke-linejoin="bevel" stroke-linecap="round" transform="translate(-250.83 -290.95)">
+<path fill="none" stroke-width="2" d="m310.42,330.76l71.42,36.42 2.47,.7 73.9-36.41"/>
+<path fill="#c7c7c7" d="m384.21,368.48l.1,103.7"/>
+</g>
+<g transform="translate(-250.83 -290.95)">
+<path opacity=".6" fill="#fff" d="m129.22,76.225c.36,.707 4.25,7.424 4.42,6.717 .18-.707 3.72-7.955 3.72-7.955l-4.25,1.945-3.89-.707z" transform="translate(250.83 290.95)"/>
+</g>
+</svg>

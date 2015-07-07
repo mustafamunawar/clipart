@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="svg2" inkscape:export-ydpi="90" inkscape:export-filename="C:\Documents and Settings\User\Meus documentos\PROJ.INKSCAPE\beringela.png" viewBox="0 0 528.79376 194.71134" inkscape:export-xdpi="90" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="_svgclean2.svg">
+  <defs id="defs4">
+    <radialGradient id="radialGradient5112" gradientUnits="userSpaceOnUse" cy="4952" cx="103.57" gradientTransform="matrix(1 0 0 .25 0 3714)" r="42.992" inkscape:collect="always">
+      <stop id="stop5297" style="stop-color:#220055" offset="0"/>
+      <stop id="stop5299" style="stop-color:#220055;stop-opacity:0" offset="1"/>
+    </radialGradient>
+    <radialGradient id="radialGradient4094" gradientUnits="userSpaceOnUse" cy="4749.8" cx="555.99" gradientTransform="matrix(.99999 .0013703 .0071832 4.2518 -44.651 -15409)" r="61.469" inkscape:collect="always">
+      <stop id="stop4090" style="stop-color:#2d1650" offset="0"/>
+      <stop id="stop4092" style="stop-color:#2d1650;stop-opacity:0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="0" pagecolor="#ffffff" inkscape:zoom="0.40904745" inkscape:window-width="370" inkscape:window-maximized="0" inkscape:window-x="372" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="340.85235" inkscape:cy="98.170043" inkscape:window-height="484" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(-34.147 -547.47)">
+    <g id="g4096" transform="matrix(1.0522,0,0,1.0522,-2.0337,-77.664)">
+      <g id="g5100" transform="matrix(-.004602 -.63438 .63438 -.004602 -2612.1 764.65)">
+        <g id="g5102" transform="translate(-525.68,-152.43)">
+          <path id="path5104" d="m534.77 4422.6c-36.12 150.36-138.77 518.59 24.873 671.57 33.326 31.155 105.65 29.188 136.8-4.1455 151.06-161.66-15.877-630.29-24.873-663.28-16.561-60.721-122.07-47.455-136.8-4.1456z" sodipodi:nodetypes="caasc" style="stroke:#000000;stroke-width:1.5763px;fill:#442178" inkscape:connector-curvature="0"/>
+          <path id="path5106" d="m596.95 4377c3.2033 4.299 12.015 11.626 1.0127 7.215-8.2782-3.3189-42.935-2.8702-50.758 9.3669-14.611 20.02-15.034 44.649-18.702 61.138-3.4128 10.239-22.093 18.286-14.462 25.917 18.451 18.451 35.962-33.164 45.6-33.164 4.4551 0 14.28 45.6 16.582 45.6 9.5309 0 1.5356-40.38 4.1455-45.6 13.604-27.208 23.723 22.573 24.873 24.873 12.303 24.607 13.315-34.921 16.582-41.455 5.2724-10.545 33.396 45.6 33.164 45.6-4.1455 0 0-8.291 0-12.436 0-12.862-2.1133-20.646 0-24.873 5.538-11.076 11.474 38.489 35.252 28.006 7.0598-3.1125-14.622-78.094-35.252-90.188-7.9555-4.6636-39.74-0.5756-41.455 4.1455-3.3496-18.351-8.3568-0.7264 0.79143-19.43 19.151-63.866-41.837-26.315-17.373 15.285z" sodipodi:nodetypes="csccsssssssssssccc" style="stroke-opacity:.99526;fill-rule:evenodd;color:#000000;stroke:#44aa00;stroke-linecap:round;stroke-width:5.3594;fill:#008000" inkscape:connector-curvature="0"/>
+          <path id="path5108" d="m736.21 4799.2c7.4886 259.79-180.53 432.81 0 0z" sodipodi:nodetypes="cc" style="fill:#ffffff" inkscape:connector-curvature="0"/>
+          <path id="path3286" inkscape:connector-curvature="0" sodipodi:nodetypes="caasc" style="fill:url(#radialGradient4094)" d="m512.57 4552.4c-15.662 107.64-60.047 371.28 9.1515 480.37 14.093 22.217 44.824 20.658 58.127-3.254 64.515-115.96-5.4166-450.86-9.169-474.44-6.9077-43.403-51.761-33.691-58.11-2.6773z"/>
+        </g>
+        <ellipse id="path5110" sodipodi:rx="42.992001" sodipodi:ry="10.748" style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient5112)" d="m 146.562,4952 c 0,5.936 -19.24817,10.748 -42.992,10.748 -23.743827,0 -42.992001,-4.812 -42.992001,-10.748 0,-5.936 19.248174,-10.748 42.992001,-10.748 23.74383,0 42.992,4.812 42.992,10.748 z" cy="4952" rx="42.992" transform="translate(-5.8626,-1.9542)" ry="10.748" sodipodi:cy="4952" cx="103.57" sodipodi:cx="103.57"/>
+      </g>
+    </g>
+  </g>
+  <metadata id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

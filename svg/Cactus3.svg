@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg3751"
+    sodipodi:docname="New document 7"
+    viewBox="0 0 533.2 390"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <title
+      id="title4502"
+    >Cactus3</title
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="1"
+      pagecolor="#ffffff"
+      inkscape:window-height="1022"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="162.97827"
+      inkscape:cy="191.54097"
+      inkscape:window-width="1680"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-122.27 -142)"
+    >
+    <g
+        id="g4445"
+      >
+      <path
+          id="path3761"
+          sodipodi:nodetypes="ccc"
+          style="fill:#005500"
+          d="m411 532c350.5 0.65 303.54-377.31-10-390-376.88 8.51-369.62 389.91 10 390z"
+      />
+      <g
+          id="g4306"
+          transform="matrix(1.111 0 0 .96964 -17.75 17.482)"
+        >
+        <g
+            id="g4308"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4310"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m266.49 220.5c-84.258 125.07-40.63 156.57 24 263-31.695-112.45-64.244-142.55-24-263z"
+          />
+          <path
+              id="path4312"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m266 223c-69 122.29-24.57 152.01 26 261-31.69-112.45-66.24-140.55-26-261z"
+          />
+        </g
+        >
+      </g
+      >
+      <g
+          id="g4314"
+          transform="translate(55,-2)"
+        >
+        <g
+            id="g4316"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4318"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m305.49 181.5c-84.258 125.07-71.63 219.57-7 326-31.695-112.45-33.244-205.55 7-326z"
+          />
+          <path
+              id="path4320"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m308 181c-69 122.29-57.57 221.01-7 330-31.69-112.45-33.24-209.55 7-330z"
+          />
+        </g
+        >
+      </g
+      >
+      <g
+          id="g4322"
+          transform="matrix(1.2331 0 0 1.0254 108.32 -1.9042)"
+        >
+        <g
+            id="g4324"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4326"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m290.49 165.5c-84.258 125.07-72.63 239.57-8 346-31.695-112.45-32.244-225.55 8-346z"
+          />
+          <path
+              id="path4328"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m295 161c-69 122.29-59.57 246.01-9 355-31.69-112.45-31.24-234.55 9-355z"
+          />
+        </g
+        >
+      </g
+      >
+      <g
+          id="g4330"
+          transform="matrix(.99889 .047013 -.060394 1.2832 245.07 -114.47)"
+        >
+        <g
+            id="g4332"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4334"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m266.49 220.5c-60.087 125.07-16.802 156.57 24 263-14.73-113.65-24.563-145.36-24-263z"
+          />
+          <path
+              id="path4336"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m266 223c-27.945 119.39-9.6609 150.96 26 261-8.793-112.45-0.41266-140.55-26-261z"
+          />
+        </g
+        >
+      </g
+      >
+      <g
+          id="g4338"
+          transform="matrix(-1.5876 .13870 .17498 1.1706 735.41 -102.41)"
+        >
+        <g
+            id="g4340"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4342"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m266.49 220.5c-84.258 125.07-44.088 176.63 20.542 283.06-31.69-112.45-60.78-162.61-20.54-283.06z"
+          />
+          <path
+              id="path4344"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m266 223c-69 122.29-27.93 172.91 22.63 281.9-31.69-112.45-62.87-161.45-22.63-281.9z"
+          />
+        </g
+        >
+      </g
+      >
+      <g
+          id="g4346"
+          transform="matrix(-1.1697 .15829 .14988 1.1076 744.4 -61.226)"
+        >
+        <g
+            id="g4348"
+            transform="translate(-69,-7)"
+          >
+          <path
+              id="path4350"
+              sodipodi:nodetypes="ccc"
+              style="fill:#002b00"
+              d="m266.49 220.5c-84.258 125.07-40.63 156.57 24 263-31.695-112.45-64.244-142.55-24-263z"
+          />
+          <path
+              id="path4352"
+              sodipodi:nodetypes="ccc"
+              style="fill:#008000"
+              d="m266 223c-69 122.29-24.57 152.01 26 261-31.69-112.45-66.24-140.55-26-261z"
+          />
+        </g
+        >
+      </g
+      >
+      <path
+          id="path4387"
+          style="fill:#7fff2a"
+          d="m260.96 206 3.2676 29.387 22.873-12.373l-18.79 15.46 23.69 10.05-25.32-7.73-8.17 23.2 4.08-23.97-28.59-5.42 26.141 2.32 0.82-30.93z"
+      />
+      <path
+          id="path4389"
+          style="fill:#7fff2a"
+          d="m162.96 326 3.2676 29.387 22.873-12.373l-18.79 15.46 23.69 10.05-25.32-7.73-8.17 23.2 4.08-23.97-28.59-5.42 26.141 2.32 0.82-30.93z"
+      />
+      <path
+          id="path4391"
+          style="fill:#7fff2a"
+          d="m329.96 366 3.2676 29.387 22.873-12.373l-18.79 15.46 23.69 10.05-25.32-7.73-8.17 23.2 4.08-23.97-28.59-5.42 26.141 2.32 0.82-30.93z"
+      />
+      <path
+          id="path4393"
+          style="fill:#7fff2a"
+          d="m493.96 192 3.2676 29.387 22.873-12.373l-18.79 15.46 23.69 10.05-25.32-7.73-8.17 23.2 4.08-23.97-28.59-5.42 26.141 2.32 0.82-30.93z"
+      />
+      <path
+          id="path4395"
+          style="fill:#7fff2a"
+          d="m604.96 331 3.2676 29.387 22.873-12.373l-18.79 15.46 23.69 10.05-25.32-7.73-8.17 23.2 4.08-23.97-28.59-5.42 26.141 2.32 0.82-30.93z"
+      />
+      <path
+          id="path4397"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m475.88 199.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4399"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m306.88 375.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4401"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m407.88 376.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4403"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m339.88 192.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4405"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m240.88 215.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4407"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m142.88 336.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4409"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m232.88 303.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4411"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m404.88 278.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4413"
+          inkscape:transform-center-x="-19"
+          style="fill:#7fff2a"
+          d="m575.88 260.1 20.33 21.47 10.783-23.665-5.6589 23.669 24.96-6.2686-24.864 9.1045 7.476 23.432-11.2-21.586-26.071 12.926 22.251-13.915-18.005-25.167z"
+      />
+      <path
+          id="path4415"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m396.09 300.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4417"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m563.09 287.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4419"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m573.09 363.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4421"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m397.09 396.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4423"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m222.09 326.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4425"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m330.09 218.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4427"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m474.09 455.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4429"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m231.09 435.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4431"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m160.09 240.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4433"
+          inkscape:transform-center-x="-9.63236"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-10.204435"
+          d="m396.09 179.5 29.549 1.0568-8.9022-24.434 12.559 20.845 13.404-21.969-11.347 23.924 21.759 11.468-23.12-7.54-9.5287 27.495 6.1108-25.522-30.483-5.3233z"
+      />
+      <path
+          id="path4435"
+          inkscape:transform-center-x="1.28941"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-19.181173"
+          d="m404.4 206 20.51-21.297-24.136-9.6808 23.904 4.5624-7.4119-24.645 10.24 24.418 23.063-8.5477-21.047 12.183 14.113 25.448-14.926-21.586-24.311 19.145z"
+      />
+      <path
+          id="path4437"
+          inkscape:transform-center-x="1.28941"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-19.181173"
+          d="m481.4 478 20.51-21.297-24.136-9.6808 23.904 4.5624-7.4119-24.645 10.24 24.418 23.063-8.5477-21.047 12.183 14.113 25.448-14.926-21.586-24.311 19.145z"
+      />
+      <path
+          id="path4439"
+          inkscape:transform-center-x="1.28941"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-19.181173"
+          d="m241.4 463 20.51-21.297-24.136-9.6808 23.904 4.5624-7.4119-24.645 10.24 24.418 23.063-8.5477-21.047 12.183 14.113 25.448-14.926-21.586-24.311 19.145z"
+      />
+      <path
+          id="path4441"
+          inkscape:transform-center-x="1.28941"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-19.181173"
+          d="m172.4 268 20.51-21.297-24.136-9.6808 23.904 4.5624-7.4119-24.645 10.24 24.418 23.063-8.5477-21.047 12.183 14.113 25.448-14.926-21.586-24.311 19.145z"
+      />
+      <path
+          id="path4443"
+          inkscape:transform-center-x="8.344355"
+          style="fill:#7fff2a"
+          inkscape:transform-center-y="-11.382293"
+          d="m496.08 368.56 8.8081-28.225-25.917 2.1468 23.418-6.62-17.659-18.72 20.087 17.252 16.798-17.967-13.368 20.315 24.011 16.439-23.009-12.622-13.17 28.002z"
+      />
+      <path
+          id="path4385"
+          inkscape:transform-center-x="-14.57178"
+          inkscape:transform-center-y="6.927717"
+          style="fill:#7fff2a"
+          d="m498.31 308.93 7.532 28.592 20.817-15.587-16.324 18.049 24.906 6.479-26.183-3.945-4.6867 24.146 0.533-24.313-29.076-1.1718 26.199-1.5296-3.7177-30.72z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Cactus3</dc:title
+        >
+        <dc:date
+          >2010-09-26T06:45:19</dc:date
+        >
+        <dc:description
+          >Cactus number 3</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/87013/cactus3-by-stevepetmonkey</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >stevepetmonkey</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Cactus</rdf:li
+            >
+            <rdf:li
+              >cacti</rdf:li
+            >
+            <rdf:li
+              >desert plant</rdf:li
+            >
+            <rdf:li
+              >garden</rdf:li
+            >
+            <rdf:li
+              >gardening</rdf:li
+            >
+            <rdf:li
+              >green plant</rdf:li
+            >
+            <rdf:li
+              >plants</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

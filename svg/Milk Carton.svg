@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 744.09 1052.4"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <g
+      id="layer1"
+    >
+    <g
+        id="g2190"
+        fill-rule="evenodd"
+        transform="matrix(1.125 0 0 1.125 -16.907 -17.93)"
+      >
+      <path
+          id="path2188"
+          d="m640.22 789.36a300.57 130.75 0 1 1 -601.15 0 300.57 130.75 0 1 1 601.15 0z"
+          fill-opacity=".43784"
+      />
+      <g
+          id="g2172"
+          transform="matrix(.86070 0 0 .86070 23.023 6.5823)"
+        >
+        <path
+            id="path2130"
+            d="m166.27 158.84l102.96-31.69 48.14 163.01 53.39 95.33-144.91-26.69-59.58-199.96z"
+        />
+        <path
+            id="path1364"
+            d="m168.94 166.85l102.96-31.69 48.14 163.01 53.39 95.33-144.91-26.7-59.58-199.95z"
+            fill="#a0bcde"
+        />
+        <path
+            id="path2128"
+            d="m610.99 280.71l-67.52-156.98 7.94-76.476-317.77 28.175-3.97 72.451 63.55 189.18 317.77-56.35z"
+        />
+        <path
+            id="path1362"
+            d="m603.37 276.05l-64.83-148.72 7.63-72.45-305.06 26.693-3.82 68.637 61.02 179.22 305.06-53.38z"
+            fill="#d6e2ec"
+        />
+        <path
+            id="path2126"
+            d="m165.28 806.99l99.19 211.31 26.33-688.09-124.09-171.74-1.43 648.52z"
+        />
+        <path
+            id="path1358"
+            d="m172.2 806.73l93.34 198.47 24.36-665.51-116.47-159.77-1.23 626.81z"
+            fill="#c0d5e7"
+        />
+        <path
+            id="path2124"
+            d="m265.22 1015.1l262.94-73.25 83.84-662.75-323.91 57.8-22.87 678.2z"
+        />
+        <path
+            id="path1360"
+            d="m272.52 1011.2l251.87-72.41 80.31-655.88-310.27 57.2-21.91 671.09z"
+            fill="#d2e2f0"
+        />
+        <path
+            id="path2132"
+            d="m187.33 161.14l42.17-13.32 54.38 161.47s-38.84-105.98-56.6-129.84c-17.75-23.86-39.95-18.31-39.95-18.31z"
+            fill-opacity=".29189"
+        />
+        <path
+            id="path2136"
+            d="m251.13 143.43l271.87-23.31-280.53 28.9 8.66-5.59z"
+            fill-opacity=".43784"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Milk Carton</dc:title
+        >
+        <dc:date
+          >2005-10-11T20:07:45</dc:date
+        >
+        <dc:description
+          >Milk Carton </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/182959/milk-carton-by-Jarno-182959</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Jarno</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >carton</rdf:li
+            >
+            <rdf:li
+              >milk</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

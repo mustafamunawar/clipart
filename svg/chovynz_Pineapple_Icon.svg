@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.3 122.52" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient5220">
+<stop offset="0" stop-color="#2dbb00"/>
+<stop offset="1" stop-color="#00d400" stop-opacity="0"/>
+</linearGradient>
+<pattern width="20.05" height="20.997" patternTransform="matrix(.65287 .75747 -.75747 .65287 71.376 185.74)" patternUnits="userSpaceOnUse" id="pattern9151">
+<path fill="#ffd400" d="m0,0h20.05v20.997h-20.05z"/>
+<path fill="#b9d400" d="m206.04,145.97l-12.41,1.25-5.03-11.41 9.31-8.31 10.77,6.28-2.64,12.19z" transform="matrix(.98736 -.15852 .15852 .98736 -207.43 -94.091)"/>
+</pattern>
+<radialGradient cx="193.81" cy="100.84" gradientTransform="matrix(1 0 0 2.8021 -59.07 -127.21)" id="radialGradient9619" xlink:href="#linearGradient5220" r=".681" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="192.95" cy="98.658" gradientTransform="matrix(1 0 0 1.5711 -59.07 -1.8214)" id="radialGradient9621" xlink:href="#linearGradient5220" r=".178" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g stroke="#000" stroke-linejoin="round" stroke-width="6.879" transform="matrix(.49671 -.55927 .57629 .48205 -109.5579 65.40793)">
+<path fill="#070" fill-rule="evenodd" d="m125.71,159.24s5.05-4.04 2.53-18.17c-2.53-14.14-13.13-26.26-16.16-30.29-3.03-4.04 24.24,7.57 27.77,18.17s-7.57-30.796-15.15-38.874c-7.57-8.078 23.23,8.583 26.76,23.724 2.53-17.666-2.72-23.407 12.62-37.356-3.33,29.976-1.01,45.436-1.01,45.436 4.55,.51 17.17-21.2 23.73-31.299 8.1-12.457-6.06,40.899-16.15,48.969 0,0 32.31-3.53 28.77-3.53-32.81,19.69-20.19,27.26-20.19,27.26l-53.52-4.04z"/>
+<path fill="url(#pattern9151)" stroke-linecap="round" d="m148.71,258.14c36.23,3.84 40.03-12.2 42.53-34.53 2.49-22.32 3.6-68.53-36.71-73.11-40.43-4.6-48.44,34.96-49.21,62.41-.74,26.2 5.91,41.26 43.39,45.23z"/>
+</g>
+<g transform="matrix(.49671 -.55927 .57629 .48205 -109.5579 65.40793)">
+<path fill="url(#radialGradient9619)" d="m134.06,153.46l1.36,3.82"/>
+<path fill="url(#radialGradient9621)" d="m133.71,152.91l.15-.01 .2,.56"/>
+</g>
+</svg>

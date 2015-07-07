@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="0"
+    sodipodi:docname="EPROM02.svg"
+    viewBox="0 0 252.75 197.3"
+    version="1.0"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="namedview39"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-maximized="0"
+      inkscape:zoom="1.147561"
+      objecttolerance="10"
+      borderopacity="1"
+      inkscape:current-layer="0"
+      inkscape:cx="126.35527"
+      inkscape:cy="98.672465"
+      inkscape:window-y="0"
+      inkscape:window-x="0"
+      inkscape:window-width="640"
+      showgrid="false"
+      inkscape:pageopacity="0"
+      inkscape:window-height="483"
+  />
+  <g
+      id="1"
+      transform="translate(-4.1979 -4.1965)"
+    >
+    <path
+        id="2"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m56.693 7.6746 1.5607-1.2229 0.75928 0.084336 4.9353 2.4457 0.50618 0.80119v2.1084l-1.6029-1.1385-6.1586-3.0783z"
+    />
+    <path
+        id="3"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#000000"
+        d="m4.2604 57.602 16.999-22.096 1.9404 0.63252h1.4342l1.7295-0.46385 0.75928-0.59035 0.42182-0.96986-0.08436-0.9277-1.1811-1.3072-1.7295-1.518h-0.08436l20.036-26.102h6.2851l204.5 111.37 1.6029 1.9819v15.687l-0.80146 2.8674-38.386 52.921-2.1935 0.42168h-3.2902l-4.3447-0.50602-203.02-110.65-0.5053-1.478v-19.397l-0.084364 0.1265z"
+    />
+    <path
+        id="4"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#ffffff"
+        d="m164.93 90.956-0.0422-1.3072-0.12655-1.265-0.21091-1.265-0.29527-1.265-0.37964-1.2229-0.464-1.2229-0.54837-1.1807-0.63273-1.1385-0.67491-1.1385-0.75927-1.0964-0.84364-1.0542-0.88582-1.012-0.97019-0.9277-1.0546-0.9277-1.0967-0.84336-1.1389-0.80119-1.1811-0.75902-1.2654-0.67469-1.2655-0.59035-1.3498-0.54818-1.3498-0.50602-1.392-0.42168-1.392-0.33734-1.4342-0.25301-1.4764-0.21084-1.4342-0.1265-1.4764-0.04217h-1.4764l-1.4342 0.08434-1.4764 0.16867-1.4342 0.25301-1.4342 0.29518-1.392 0.42168-1.392 0.42168-1.3076 0.54818-1.3076 0.54818-1.2655 0.67469-1.2233 0.71686-1.1811 0.75902-1.0967 0.84336-1.0546 0.88553-1.0124 0.9277-0.928 0.96986-0.88582 1.0542-0.80146 1.0542-0.71709 1.1385-0.63273 1.1385-0.59055 1.1807-0.50618 1.1807-0.42182 1.2229-0.33746 1.265-0.25309 1.2229-0.12655 1.3072-0.0844 1.265v1.265l0.0844 1.265 0.16873 1.265 0.25309 1.265 0.33746 1.265 0.42182 1.2229 0.464 1.1807 0.59055 1.1807 0.67491 1.1385 0.71709 1.0964 0.80146 1.0964 0.88582 1.012 0.928 1.012 1.0124 0.9277 1.0546 0.88553 1.0967 0.80119 1.1811 0.75902 1.2233 0.71686 1.2655 0.67469 1.3076 0.59035 1.3498 0.50602 1.3498 0.42168 1.392 0.37951 1.4342 0.33734 1.4342 0.21084 1.4764 0.16868 1.4764 0.0843 1.4342 0.0422 1.4764-0.0843 1.4764-0.12651 1.4342-0.16867 1.4342-0.29518 1.4342-0.33734 1.3498-0.42168 1.392-0.50602 1.3076-0.54818 1.2655-0.59036 1.2655-0.71685 1.1811-0.71686 1.1389-0.80119 1.0967-0.88553 1.0124-0.88553 0.97019-0.96987 0.928-1.012 0.84364-1.0542 0.75927-1.0964 0.67492-1.0964 0.63272-1.1807 0.50619-1.1807 0.464-1.2229 0.37964-1.2229 0.29527-1.265 0.21091-1.265 0.12655-1.265 0.0422-1.265z"
+    />
+    <path
+        id="5"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m122.96 93.107 11.938-14.759h3.5011l16.282 8.3071 0.50619 3.9638-11.473 16.446-2.8262-0.33734-17.463-10.795-0.46401-2.8253z"
+    />
+    <path
+        id="6"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m10.039 71.264-2.2778 2.4457-0.42182 2.1506v9.3613l0.84364 1.8132v8.8553l3.4167 2.4457 1.5607-0.46385v-8.6444l2.1513-2.0241v-7.2529l2.3622-2.7831v-2.2349l-0.63273-0.96986-5.6102-2.8674-1.392 0.16867z"
+    />
+    <path
+        id="7"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m22.23 78.433-2.32 2.4879-0.42182 2.1927v9.277l0.84364 1.8132v8.8553l3.4589 2.4458 1.5607-0.42169v-8.6444l2.1513-2.0662v-7.2107l2.3622-2.7831v-2.2349l-0.63273-0.9277-5.6102-2.9518-1.392 0.16867z"
+    />
+    <path
+        id="8"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m34.842 85.264-2.3622 2.4457-0.42182 2.1927v9.3191l0.84364 1.8132v8.8553l3.4589 2.4458 1.5607-0.46385v-8.6444l2.1935-2.0241v-7.2529l2.32-2.7831v-2.2349l-0.59055-0.96986-5.6524-2.8674-1.3498 0.16867z"
+    />
+    <path
+        id="9"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m47.455 91.715-2.32 2.4879-0.464 2.1506v9.3191l0.88582 1.8132v8.8975l3.4589 2.3614 1.5186-0.37951v-8.6444l2.1513-2.0662v-7.2107l2.32-2.7831v-2.2349l-0.59055-0.96986-5.568-2.9518-1.392 0.21084z"
+    />
+    <path
+        id="10"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m60.025 99.221-2.32 2.4879-0.42182 2.1084v9.3613l0.84364 1.8132v8.8553l3.4589 2.4036 1.5607-0.42168v-8.6023l2.1513-2.0662v-7.2529l2.3622-2.7831v-2.2349l-0.63273-0.9277-5.6102-2.9518-1.392 0.21084z"
+    />
+    <path
+        id="11"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m72.637 105.63-2.32 2.5301-0.42182 2.1506v9.277l0.80146 1.8132v8.9396l3.5011 2.4036 1.5186-0.42168v-8.6444l2.1935-2.0662v-7.2529l2.32-2.7409v-2.2771l-0.59055-0.9277-5.6524-2.9518-1.3498 0.16867z"
+    />
+    <path
+        id="12"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m85.25 112.46-2.32 2.5301-0.464 2.1506v9.277l0.88582 1.8132v8.8553l3.4589 2.4458 1.5607-0.42168v-8.6023l2.1091-2.1084v-7.2529l2.32-2.7409v-2.2349l-0.59055-0.9277-5.568-2.9518-1.392 0.16867z"
+    />
+    <path
+        id="13"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m97.82 119.25-2.32 2.4879-0.42182 2.1927v9.3191l0.84364 1.7711v8.8974l3.4589 2.4458 1.5607-0.46385v-8.6444l2.1513-2.0662v-7.2107l2.3622-2.7831v-2.2349l-0.63273-0.96987-5.6102-2.9096-1.392 0.16867z"
+    />
+    <path
+        id="14"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m110.09 126.42-2.32 2.4879-0.42182 2.1506v9.3191l0.84364 1.8132v8.8553l3.4167 2.4458 1.5607-0.46385v-8.6023l2.1935-2.0662v-7.2529l2.32-2.7409v-2.2349l-0.59055-0.96986-5.6524-2.9096-1.3498 0.16868z"
+    />
+    <path
+        id="15"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m122.71 133.25-2.3622 2.4457-0.42182 2.1506v9.3613l0.88583 1.8132v8.8553l3.4589 2.4036 1.5607-0.42168v-8.6444l2.1513-2.0241v-7.2529l2.32-2.7831v-2.2349l-0.59054-0.96987-5.6102-2.9096-1.392 0.21084z"
+    />
+    <path
+        id="16"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m135.28 140-2.32 2.5301-0.42182 2.1506v9.277l0.84364 1.8554v8.8975l3.4589 2.3614 1.5607-0.42168v-8.6023l2.1513-2.0662v-7.2529l2.3622-2.7409v-2.2771l-0.63273-0.92769-5.6102-2.9518-1.392 0.16868z"
+    />
+    <path
+        id="17"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m147.93 146.83-2.3622 2.4879-0.42182 2.1506v9.3191l0.84364 1.8132v8.8553l3.4589 2.4457 1.5186-0.42168v-8.6444l2.1935-2.0662v-7.2529l2.32-2.7831v-2.2349l-0.59055-0.9277-5.6102-2.9096-1.3498 0.16867z"
+    />
+    <path
+        id="18"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m160.5 153.62-2.32 2.4879-0.46401 2.1927v9.277l0.88583 1.8132v8.8975l3.4589 2.4036 1.5607-0.42168v-8.6444l2.1513-2.0662v-7.2107l2.32-2.7831v-2.2349l-0.59055-0.96986-5.6102-2.9096-1.392 0.16867z"
+    />
+    <path
+        id="19"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m173.07 160.79-2.32 2.4879-0.37964 2.1506v9.3191l0.80146 1.8132v8.8553l3.4589 2.4457 1.5607-0.46384v-8.6023l2.1513-2.0662v-7.2529l2.3622-2.7831v-2.1927l-0.63273-0.96987-5.6102-2.9096-1.392 0.16867z"
+    />
+    <path
+        id="20"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m185.73 167.58-2.3622 2.4879-0.42182 2.1506v9.3191l0.84364 1.8132v8.8975l3.4589 2.4036 1.5607-0.42168v-8.6444l2.1513-2.0662v-7.2107l2.32-2.7831v-2.2349l-0.59055-0.96986-5.6102-2.9096-1.3498 0.16868z"
+    />
+    <path
+        id="21"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m198.3 174.36-2.32 2.5301-0.46401 2.1506v9.3191l0.88583 1.8132v8.8553l3.4589 2.4036 1.5607-0.42168v-8.6023l2.1513-2.0662v-7.2529l2.32-2.7409v-2.2349l-0.59055-0.96987-5.6102-2.9518-1.392 0.16867z"
+    />
+    <path
+        id="22"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m69.431 14.506 1.5607-1.1807 0.75928 0.04217 4.9353 2.4879 0.50618 0.84336v2.1084l-1.6029-1.1385-6.1586-3.1626z"
+    />
+    <path
+        id="23"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m81.664 21.042 1.6029-1.1807 0.75928 0.04217 4.9353 2.4879 0.50618 0.84336v2.0662l-1.6029-1.0964-6.2007-3.1626z"
+    />
+    <path
+        id="24"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m94.53 28.168 1.5607-1.1807 0.80146 0.04217 4.8931 2.4879 0.54837 0.84336v2.1084l-1.6451-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="25"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m107.52 35.126 1.5607-1.1807 0.80146 0.04217 4.8509 2.4879 0.54837 0.84336v2.1084l-1.6451-1.1807-6.1164-3.1204z"
+    />
+    <path
+        id="26"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m119.97 41.831 1.5607-1.1807 0.75927 0.04217 4.9353 2.4879 0.54837 0.84336v2.1084l-1.6451-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="27"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m132.66 48.788 1.5607-1.1807 0.75927 0.04217 4.9353 2.4879 0.50618 0.84336v2.1084l-1.6029-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="28"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m144.94 55.535 1.5607-1.1807 0.75928 0.04217 4.8931 2.4457 0.50618 0.84336v2.1084l-1.6029-1.1807-6.1164-3.0783z"
+    />
+    <path
+        id="29"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m157.38 62.24 1.5607-1.1807 0.75928 0.04217 4.9353 2.4879 0.50619 0.84336v2.1084l-1.6029-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="30"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m169.87 69.198 1.5607-1.1807 0.75927 0.04217 4.9353 2.4879 0.50619 0.84336v2.0662l-1.6029-1.1807-6.1586-3.0783z"
+    />
+    <path
+        id="31"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m182.73 76.113 1.5607-1.1807 0.80145 0.04217 4.8931 2.4879 0.54836 0.80119v2.1506l-1.6451-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="32"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m194.96 82.86 1.5607-1.1807 0.80146 0.04217 4.8931 2.4879 0.54836 0.84336v2.1084l-1.6451-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="33"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m207.66 89.776 1.5607-1.1807 0.75927 0.04217 4.8931 2.4879 0.54837 0.80119v2.1506l-1.6451-1.1807-6.1164-3.1204z"
+    />
+    <path
+        id="34"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m220.4 96.733 1.5607-1.1807 0.75927 0.04217 4.9353 2.4457 0.54837 0.84336v2.1506l-1.6451-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="35"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m233.06 103.44 1.5607-1.1385 0.75927 0.0422 4.9353 2.4458 0.50618 0.80119v2.1506l-1.6029-1.1807-6.1586-3.1204z"
+    />
+    <path
+        id="36"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:.042182px;fill:#c0c0c0"
+        d="m245.71 110.4 1.5607-1.2229 0.80146 0.0843 4.8509 2.4458 0.54837 0.84336v2.1506l-1.6029-1.1807-6.1586-3.1204z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >EPROM chip integrated circuit memory IC</dc:title
+        >
+        <dc:date
+          >2010-04-14T21:00:49</dc:date
+        >
+        <dc:description
+          >EPROM chip integrated circuit memory IC - EPROM puce circuit intégré - EPROM integrierte Schaltung - EPROM circuito integrato</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/46993/eprom-chip-integrated-circuit-memory-ic-by-palomaironique</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >palomaironique</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >EPROM</rdf:li
+            >
+            <rdf:li
+              >Erasable</rdf:li
+            >
+            <rdf:li
+              >Fenster</rdf:li
+            >
+            <rdf:li
+              >IC</rdf:li
+            >
+            <rdf:li
+              >Schaltung</rdf:li
+            >
+            <rdf:li
+              >Speicher</rdf:li
+            >
+            <rdf:li
+              >UV</rdf:li
+            >
+            <rdf:li
+              >bit</rdf:li
+            >
+            <rdf:li
+              >cancellabile</rdf:li
+            >
+            <rdf:li
+              >chip</rdf:li
+            >
+            <rdf:li
+              >circuit</rdf:li
+            >
+            <rdf:li
+              >circuito</rdf:li
+            >
+            <rdf:li
+              >effaçable</rdf:li
+            >
+            <rdf:li
+              >fenêtre</rdf:li
+            >
+            <rdf:li
+              >finestra</rdf:li
+            >
+            <rdf:li
+              >integrated</rdf:li
+            >
+            <rdf:li
+              >integrato</rdf:li
+            >
+            <rdf:li
+              >integrierte</rdf:li
+            >
+            <rdf:li
+              >intégré</rdf:li
+            >
+            <rdf:li
+              >lecture</rdf:li
+            >
+            <rdf:li
+              >lesen</rdf:li
+            >
+            <rdf:li
+              >lettura</rdf:li
+            >
+            <rdf:li
+              >löschbaren</rdf:li
+            >
+            <rdf:li
+              >memoria</rdf:li
+            >
+            <rdf:li
+              >memory</rdf:li
+            >
+            <rdf:li
+              >mémoire</rdf:li
+            >
+            <rdf:li
+              >only</rdf:li
+            >
+            <rdf:li
+              >programmabile</rdf:li
+            >
+            <rdf:li
+              >programmable</rdf:li
+            >
+            <rdf:li
+              >programmierbar</rdf:li
+            >
+            <rdf:li
+              >puce</rdf:li
+            >
+            <rdf:li
+              >read</rdf:li
+            >
+            <rdf:li
+              >seule</rdf:li
+            >
+            <rdf:li
+              >sola</rdf:li
+            >
+            <rdf:li
+              >window</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

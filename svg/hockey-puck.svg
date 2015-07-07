@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3766"
+    sodipodi:docname="hockey_puck_canada.svg"
+    viewBox="0 0 299.28 199.96"
+    version="1.1"
+    inkscape:version="0.47pre4 r22446"
+  >
+  <defs
+      id="defs3768"
+    >
+    <linearGradient
+        id="linearGradient4601"
+        y2="306.25"
+        gradientUnits="userSpaceOnUse"
+        x2="346.39"
+        gradientTransform="matrix(1 0 0 .97480 0 8.9973)"
+        y1="306.25"
+        x1="145.51"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4582"
+          style="stop-color:#000000"
+          offset="0"
+      />
+      <stop
+          id="stop4586"
+          style="stop-color:#ffffff;stop-opacity:.20280"
+          offset=".21087"
+      />
+      <stop
+          id="stop4584"
+          style="stop-color:#000000;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-3"
+      pagecolor="#ffffff"
+      inkscape:window-height="850"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1.38048"
+      inkscape:window-x="-4"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="90.616697"
+      inkscape:cy="127.39119"
+      inkscape:window-width="1440"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-144.88 -178.01)"
+    >
+    <g
+        id="g4610"
+      >
+      <path
+          id="path3776-8-7"
+          style="color:#000000;fill:#333333"
+          d="m144.88 228.34v99.625 0.375h0.0312c0.59548 27.444 67.321 49.625 149.59 49.625 82.273 0 149.03-22.181 149.62-49.625h0.0312v-0.375-99.625h-299.28z"
+      />
+      <path
+          id="path3776-8"
+          sodipodi:rx="110.10663"
+          sodipodi:ry="42.426407"
+          style="color:#000000;fill:#000000"
+          sodipodi:type="arc"
+          d="m363.65 236.16a110.11 42.426 0 1 1 -220.21 0 110.11 42.426 0 1 1 220.21 0z"
+          transform="matrix(1.359 0 0 1.1785 -50.064 -50.305)"
+          sodipodi:cy="236.15892"
+          sodipodi:cx="253.54829"
+      />
+      <path
+          id="path3776-8-3"
+          sodipodi:rx="110.10663"
+          sodipodi:ry="42.426407"
+          style="color:#000000;stroke:#393939;stroke-width:5;fill:#000000"
+          sodipodi:type="arc"
+          d="m363.65 236.16a110.11 42.426 0 1 1 -220.21 0 110.11 42.426 0 1 1 220.21 0z"
+          transform="matrix(1.063 0 0 .85411 25 26.306)"
+          sodipodi:cy="236.15892"
+          sodipodi:cx="253.54829"
+      />
+      <path
+          id="path3776-8-3-1"
+          sodipodi:rx="110.10663"
+          sodipodi:ry="42.426407"
+          style="color:#000000;stroke:#272d39;stroke-width:5.1839;fill:#000000"
+          sodipodi:type="arc"
+          d="m363.65 236.16a110.11 42.426 0 1 1 -220.21 0 110.11 42.426 0 1 1 220.21 0z"
+          transform="matrix(1.0301 0 0 .81996 33.34 35.819)"
+          sodipodi:cy="236.15892"
+          sodipodi:cx="253.54829"
+      />
+      <path
+          id="path4570"
+          style="color:#000000;fill:url(#linearGradient4601)"
+          d="m272.26 376.64c-65.93-3.82-114.87-19.82-125.05-40.87l-1.706-3.5307 0.0388-47.664c0.0254-31.133 0.27956-47.077 0.73293-45.972 2.6679 6.5016 12.483 14.608 24.728 20.423 53.133 25.233 163.69 28.467 230.06 6.7295 21.084-6.9052 37.115-17.229 41.486-26.715 1.2729-2.763 1.3028-1.597 1.1659 45.535l-0.14053 48.37-1.925 3.5547c-9.9196 18.318-49.199 32.822-104.2 38.477-13.645 1.4029-52.537 2.394-65.195 1.6614z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Hockey Puck</dc:title
+        >
+        <dc:date
+          >2010-03-30T04:28:04</dc:date
+        >
+        <dc:description
+          >A hockey puck, drawn in Inkscape.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/35551/hockey-puck-by-j_alves</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >J_Alves</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >hockey</rdf:li
+            >
+            <rdf:li
+              >ice hockey</rdf:li
+            >
+            <rdf:li
+              >puck</rdf:li
+            >
+            <rdf:li
+              >sport</rdf:li
+            >
+            <rdf:li
+              >sports2010</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

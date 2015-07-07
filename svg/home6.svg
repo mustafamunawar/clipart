@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg32"
+    viewBox="0 0 437.5 437.5"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <defs
+      id="defs34"
+    >
+    <linearGradient
+        id="linearGradient57"
+      >
+      <stop
+          id="stop58"
+          style="stop-color:#ffff9f;stop-opacity:.9608"
+          offset="0"
+      />
+      <stop
+          id="stop59"
+          style="stop-color:#000000;stop-opacity:.4588"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient132"
+        y2="1"
+      >
+      <stop
+          id="stop130"
+          style="stop-color:#ffffff;stop-opacity:.2706"
+          offset="0"
+      />
+      <stop
+          id="stop131"
+          style="stop-color:#000000;stop-opacity:.6784"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient142"
+        y2="1"
+        xlink:href="#linearGradient57"
+    />
+  </defs
+  >
+  <path
+      id="path19"
+      style="fill-rule:evenodd;fill:#42aa44"
+      d="m48.301 326.49c2.643 16.2-13.587 18.45-15.657 25.21 14.631 11.47-23.366 28.94-16.284 34.07 5.028 4.79 79.782 37.57 92.07 38.85 75.23 15.79 231.35 4.5 259.92-10.22 34.23-20.97 51.54-23.24 56.99-33.4-3.22-8.41-33.48-24.12-26.93-30.66-5.46-7.43-29.01-6.66-23.8-22.49-16.5-5.13-3.22-0.03-15.03-9.54-4.41-1.2-5.56-11.59-10.02-11.59-40.23-29.38-236.53-19.76-278.08 4.77-5.933 12.83-16.253 12.48-23.179 15z"
+  />
+  <path
+      id="path20"
+      style="fill-rule:evenodd;fill-opacity:.22660"
+      d="m77.344 316.73c5.844 22.82-25.757 78.92-14.792 88.87 125.5-23.79 163.64-39.4 232.69 5.28 7.96-10.83 76.94-91.63 60.6-99.42-47.7-19.24-177.88-9-278.5 5.27z"
+  />
+  <path
+      id="path77"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:12.5;fill:#ffffff"
+      d="m72.554 159.37c0 18.55 14.046 167.2 17.139 175.1 41.857-7.7 182.74 27.04 252.06-5.15 1.99-2.54 20.16-151.85 20.16-167.37 3.55-12.48-285.94-6.44-289.36-2.58z"
+  />
+  <path
+      id="path48"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;fill:#ffc900"
+      d="m42.284 9.1677c13.555 34.896 32.871 105.83-17.635 190.19 134.55-42.19 260.73-40.74 383.13 5.13-38.33-57.79-54.49-144.09-31.23-191.39-27.8 9.278-141.93 12.144-165.67 12.705-18.24 0.43-146.74 0.723-168.6-16.637z"
+  />
+  <path
+      id="path49"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m86.318 47.903c0.451 22.593-4.591 73.127-16.588 116.34-1.687 5.17 0.803 5.59 2.29 1.03 6.451-6.43 16.702-34.71 21.361-66.602 3.32-23.16-6.052-52.955-7.063-50.765z"
+  />
+  <path
+      id="path50"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m121.68 38.399c0.45 22.592-4.59 73.131-16.59 116.34-1.69 5.17 0.8 5.58 2.29 1.03 6.45-6.44 16.7-34.71 21.36-66.607 3.32-23.159-6.05-52.955-7.06-50.764z"
+  />
+  <path
+      id="path51"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m161.77 38.536c0.45 22.592-4.6 73.124-16.59 116.34-1.69 5.17 0.8 5.58 2.29 1.03 6.45-6.44 16.7-34.71 21.36-66.61 3.32-23.159-6.05-52.954-7.06-50.764z"
+  />
+  <path
+      id="path52"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m201.73 32.173c0.45 22.593-4.6 73.127-16.59 116.34-1.69 5.17 0.8 5.59 2.29 1.03 6.45-6.43 16.7-34.71 21.36-66.602 3.32-23.16-6.05-52.955-7.06-50.765z"
+  />
+  <path
+      id="path53"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m230.74 36.907c0.45 22.592 7.5 72.843 21.21 115.44 1.89 5.09-0.58 5.62-2.25 1.14-6.7-6.12-18.07-33.89-24-65.533-4.24-22.981 3.94-53.191 5.04-51.05z"
+  />
+  <path
+      id="path54"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m270.13 40.311c0.45 22.592 7.51 72.839 21.22 115.45 1.89 5.08-0.58 5.62-2.25 1.14-6.7-6.13-18.07-33.89-24-65.539-4.24-22.981 3.94-53.191 5.03-51.05z"
+  />
+  <path
+      id="path55"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m306.53 44.869c0.45 22.592 7.5 72.841 21.21 115.45 1.89 5.08-0.58 5.62-2.24 1.14-6.71-6.13-18.08-33.89-24-65.541-4.24-22.981 3.93-53.19 5.03-51.05z"
+  />
+  <path
+      id="path56"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.53846"
+      d="m340.61 47.316c0.45 22.593 7.51 72.844 21.22 115.44 1.89 5.09-0.58 5.62-2.25 1.14-6.7-6.13-18.07-33.89-24-65.534-4.24-22.981 3.94-53.19 5.03-51.05z"
+  />
+  <path
+      id="path58"
+      style="fill-rule:evenodd;stroke-width:10.963;fill:#7f470e"
+      d="m189.36 338.49c0-5.77-2.95-108.78-4.64-125.09 9.08 0 41.42-1.52 55.37 2.17 2.66 18.01-5.63 90.14-5.63 126.8-7.08 0-42.59 0.43-45.1-3.88z"
+  />
+  <path
+      id="path59"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:6.25;fill:url(#linearGradient142)"
+      d="m257.91 263.5c14.25-2.79 63.78 5.29 74.28 2.75 1.93-14.71 3.46-28.18 4.35-43.66-6.88-0.73-66.43-8.4-77.74-8.32 0.13 14.29 0.02 33.11-0.89 49.23z"
+  />
+  <path
+      id="path60"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m289.89 216.93c-0.7 12.47-7.24 29.31-2.74 48.49"
+  />
+  <path
+      id="path63"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m319.69 219.81c-3.01 13.76-6.14 28.66-3.87 45.05"
+  />
+  <path
+      id="path64"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m258.45 239.15c6.87 0.74 68.28 5.32 75.96 7.74"
+  />
+  <path
+      id="path67"
+      style="stroke:#000000;stroke-width:6.25;fill:url(#linearGradient142);fill-rule:evenodd"
+      d="m170.4 258.52c-14.25-2.77-63.77 5.38-74.28 2.86-1.937-14.71-3.481-28.18-4.379-43.66 6.884-0.74 66.419-8.49 77.739-8.42-0.13 14.29 0 33.11 0.92 49.22z"
+  />
+  <path
+      id="path69"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m116.22 212.59c0.72 12.47 7.26 29.31 2.77 48.49"
+  />
+  <path
+      id="path70"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m138.5 212.8c-0.98 11 9.27 33.4 6.46 47.8"
+  />
+  <path
+      id="path73"
+      style="stroke:#000000;stroke-width:6.25;fill:none"
+      d="m170.77 234.02c-6.87 0.74-68.28 5.4-75.957 7.84"
+  />
+  <path
+      id="path76"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:11.25;fill:url(#linearGradient132)"
+      d="m191.88 338.49c0-5.77-1.99-108.78-3.68-125.09 9.08 0 39.5-0.52 55.37 2.17 2.66 18.01-4.68 88.14-6.59 126.8-7.08 0-42.59 0.43-45.1-3.88z"
+  />
+  <path
+      id="path78"
+      style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.66346"
+      d="m54.93 21.754c70.94 15.862 249.62 13.563 312.9-1.06-12.02 33.588-10.5 50.717-2.77 93.806-176.75-58.498-203.74-33.346-302.51-5.79 8.237-41.135-2.835-53.337-7.62-86.956z"
+  />
+  <path
+      id="path190"
+      style="fill-rule:evenodd;fill:#000059;fill-opacity:.33498"
+      d="m77.633 188.66c65.897-22.57 221.4-24.84 278.68 0.68-4.1 25.57-3.99 46.04-6.48 65.08-88.46-55.75-222.35-43.26-268.14-10.22-4.381-38.39-3.101-21.92-4.057-55.54z"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >home6</dc:title
+        >
+        <dc:date
+          >2011-01-21T17:04:57</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Jose Hevia for OCAL 0.18</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/109555/home6-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >fix</rdf:li
+            >
+            <rdf:li
+              >keyword</rdf:li
+            >
+            <rdf:li
+              >librarians</rdf:li
+            >
+            <rdf:li
+              >tag</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

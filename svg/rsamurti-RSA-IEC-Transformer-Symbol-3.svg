@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="rsa_iec_transformer-3.svg"
+    viewBox="0 0 27.626 28.034"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:showpageshadow="true"
+      inkscape:zoom="8.9533946"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="47.910484"
+      inkscape:cy="23.722752"
+      borderlayer="false"
+      showgrid="false"
+      inkscape:guide-bbox="true"
+      units="mm"
+      showguides="true"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      guidetolerance="10"
+      objecttolerance="10"
+      inkscape:window-y="21"
+      inkscape:window-width="1024"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:document-units="mm"
+      inkscape:window-height="723"
+      showborder="true"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-198.17 -79.69)"
+    >
+    <path
+        id="path2588"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m246.99 81.615a4.5342 4.7889 0 1 1 -6.42 -0.006"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 1 -23.789 -.40757)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="10.210176"
+        sodipodi:start="5.4995553"
+    />
+    <path
+        id="path3368"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m246.99 81.615a4.5342 4.7889 0 1 1 -6.42 -0.006"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 1 -17.777 -.40757)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="10.210176"
+        sodipodi:start="5.4995553"
+    />
+    <path
+        id="path3370"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m248.31 84.995a4.5342 4.7889 0 1 1 -7.74 -3.386"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 1 -11.664 -.40757)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="3.9269907"
+        sodipodi:start="0"
+    />
+    <path
+        id="path3372"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m248.31 84.995a4.5342 4.7889 0 1 1 -7.74 -3.386"
+        sodipodi:open="true"
+        transform="matrix(-.95506 0 0 1 435.73 -.40757)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="3.9269907"
+        sodipodi:start="0"
+    />
+    <path
+        id="path3376"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m198.49 84.894v-4.891"
+    />
+    <path
+        id="path3378"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m198.49 84.894v-4.891"
+    />
+    <path
+        id="path3380"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m225.49 84.894v-4.891"
+    />
+    <path
+        id="path3395"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m246.99 81.615a4.5342 4.7889 0 1 1 -6.42 -0.006"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 -1 -23.789 187.82)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="10.210176"
+        sodipodi:start="5.4995553"
+    />
+    <path
+        id="path3397"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m246.99 81.615a4.5342 4.7889 0 1 1 -6.42 -0.006"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 -1 -17.777 187.82)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="10.210176"
+        sodipodi:start="5.4995553"
+    />
+    <path
+        id="path3399"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m248.31 84.995a4.5342 4.7889 0 1 1 -7.74 -3.386"
+        sodipodi:open="true"
+        transform="matrix(.95506 0 0 -1 -11.664 187.82)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="3.9269907"
+        sodipodi:start="0"
+    />
+    <path
+        id="path3401"
+        sodipodi:rx="4.5342131"
+        sodipodi:ry="4.7889442"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.63954;fill:none"
+        sodipodi:type="arc"
+        d="m248.31 84.995a4.5342 4.7889 0 1 1 -7.74 -3.386"
+        sodipodi:open="true"
+        transform="matrix(-.95506 0 0 -1 435.73 187.82)"
+        sodipodi:cy="84.995445"
+        sodipodi:cx="243.77763"
+        sodipodi:end="3.9269907"
+        sodipodi:start="0"
+    />
+    <path
+        id="path3403"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m198.49 102.52v4.89"
+    />
+    <path
+        id="path3405"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m198.49 102.52v4.89"
+    />
+    <path
+        id="path3407"
+        style="stroke-opacity:.96078;stroke:#000000;stroke-width:.625;fill:none"
+        d="m225.49 102.52v4.89"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >RSA IEC Transformer Symbol-3</dc:title
+        >
+        <dc:date
+          >2008-09-10T02:22:06</dc:date
+        >
+        <dc:description
+          >Another transformer symbol</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/19154/rsa-iec-transformer-symbol-3-by-rsamurti</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >rsamurti</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >circuit</rdf:li
+            >
+            <rdf:li
+              >iec</rdf:li
+            >
+            <rdf:li
+              >symbol</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

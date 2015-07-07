@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="Novo documento 1"
+    viewBox="0 0 146.38 146.38"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="838"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.49497475"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="g3612"
+      inkscape:cx="-385.99158"
+      inkscape:cy="193.8728"
+      inkscape:window-width="1600"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-165.77 -450.94)"
+    >
+    <g
+        id="g3612"
+        transform="matrix(1.3304 0 0 1.3304 -103.13 -148.96)"
+      >
+      <g
+          id="g3619"
+          transform="matrix(.94554 .32550 -.32550 .94554 178.67 -56.15)"
+        >
+        <path
+            id="path2830"
+            sodipodi:rx="52.5"
+            sodipodi:ry="52.5"
+            style="stroke:#000000;stroke-width:5;fill:#ea8e0b"
+            sodipodi:type="arc"
+            d="m317.86 503.08c0 28.995-23.505 52.5-52.5 52.5s-52.5-23.505-52.5-52.5 23.505-52.5 52.5-52.5 52.5 23.505 52.5 52.5z"
+            transform="translate(-8.2143 2.8571)"
+            sodipodi:cy="503.07648"
+            sodipodi:cx="265.35715"
+        />
+        <path
+            id="path3604"
+            sodipodi:nodetypes="cc"
+            style="stroke:#000000;stroke-width:3;fill:none"
+            d="m251.07 452.36c13.67 21.37 31.69 32.56 53.93 33.93"
+        />
+        <path
+            id="path3606"
+            sodipodi:nodetypes="cc"
+            style="stroke:#000000;stroke-width:3;fill:none"
+            d="m211.79 479.51c41.883-8.77 75.922 0.43681 95 43.929"
+        />
+        <path
+            id="path3608"
+            sodipodi:nodetypes="cc"
+            style="stroke:#000000;stroke-width:3;fill:none"
+            d="m207.5 523.79c51.186-44.221 82.415-49.421 70 30.714"
+        />
+        <path
+            id="path3610"
+            sodipodi:nodetypes="cc"
+            style="stroke:#000000;stroke-width:3;fill:none"
+            d="m282.86 459.86c-8.953 35.104-28.318 63.961-46.429 93.571"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Basketball</dc:title
+        >
+        <dc:date
+          >2010-07-23T05:55:11</dc:date
+        >
+        <dc:description
+          >A ball used in the game of basketball.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/74377/basketball-by-laobc</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >laobc</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >ball</rdf:li
+            >
+            <rdf:li
+              >basketball</rdf:li
+            >
+            <rdf:li
+              >orange</rdf:li
+            >
+            <rdf:li
+              >sports</rdf:li
+            >
+            <rdf:li
+              >sports2010</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

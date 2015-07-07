@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 480 360">
+<symbol viewBox="-4.162 -9.471 8.324 18.943" id="leaf">
+<path fill="#a4c44e" d="m4.162-1.384c0-5.995-1.863-8.087-4.162-8.087s-4.162,2.092-4.162,8.087 4.162,10.856 4.162,10.856 4.162-4.861 4.162-10.856z"/>
+</symbol>
+<path fill="#bae0d5" d="m0,0h480v360h-480z"/>
+<path fill="#a7d398" d="m0,233.65s236.33-55.317 481-2.651c-1,29-1,129-1,129h-480v-126.35z"/>
+<path fill="#cfe0aa" d="m192.13,120.08c-.191,41.964-27.684,86.322-81.73,86.322-42.14,0-76.301-44.509-76.301-75.983 0-52.457 51.03-74.949 82.139-74.949 53.78,.003 76.03,32.758 75.89,64.609z"/>
+<path fill="#baa06a" d="m100.58,191.85s-11.148,103.56-5.946,111.65c5.202,8.092 16.414,9.863 28.489,1.066 4.065-2.961-2.313-102.31-2.313-102.31s31.792-26.011 31.792-34.104c0-8.672-37.16,20.321-35.426,18.008 1.734-2.311 1.734-53.179-2.89-56.069s-12.716,42.196-10.982,44.509-18.91-22.055-26.012-20.809c-4.405,.76 20.974,34 23.292,38.05"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9896 -.144 -.144 -.9896 111.82 101.12)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9926 .1211 .1211 -.9926 119.2 87.6)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.8483 .5295 .5295 -.8483 167.73 124.74)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9909 -.1345 -.1345 -.9909 155.68 125.08)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.8101 .5863 .5863 -.8101 156.29 144.81)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9874 .1585 .1585 -.9874 147.46 135.89)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9391 -.3436 -.3436 -.9391 65.138 122.28)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9575 -.2886 -.2886 -.9575 91.297 136.95)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.4215 .9068 .9068 -.4215 153.93 182.32)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.8721 .4893 .4893 -.8721 182.2 108.73)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 166.68 87.613)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9453 .3261 .3261 -.9453 172.55 101.81)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 83.126 143.83)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.1444 .9895 .9895 -.1444 163.18 170.01)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.1879 .9822 .9822 -.1879 143.05 193.56)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 144.18 156.75)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 162.52 108.95)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.7823 .6229 .6229 -.7823 159.24 157.83)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.97 .2433 .2433 -.97 180.04 129.95)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.5005 .8657 .8657 -.5005 175.44 151.59)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.917 .3989 .3989 -.917 116.9 118.28)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9429 .3329 .3329 -.9429 170.02 139.42)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9721 -.2344 -.2344 -.9721 113.17 68.485)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.8897 .4565 .4565 -.8897 123.97 100.29)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 133.93 160.89)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.7127 -.7015 -.7015 -.7127 53.707 145.81)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9204 -.391 -.391 -.9204 125.62 77.797)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.7299 -.6836 -.6836 -.7299 50.161 116.98)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9602 -.2794 -.2794 -.9602 107.26 80.238)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9027 -.4303 -.4303 -.9027 95.459 156.42)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.7265 -.6872 -.6872 -.7265 45.177 126.8)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(-.4251 -.9052 -.9052 .4251 89.137 194.58)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.5832 -.8123 -.8123 -.5832 70.331 161.11)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.3004 -.9538 -.9538 -.3004 74.347 173.51)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(-.3842 -.9233 -.9233 .3842 80.807 185.06)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 76.775 127.24)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.8855 -.4646 -.4646 -.8855 58.959 135.06)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9469 -.3217 -.3217 -.9469 71.391 144.22)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.4074 -.9133 -.9133 -.4074 61.037 177.67)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.921 .3895 .3895 -.921 124.38 124.1)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9084 -.4181 -.4181 -.9084 104.09 112.44)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 92.459 106.81)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 71.958 108.95)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9526 .3043 .3043 -.9526 135.09 140.06)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 123.27 144.24)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9614 -.2751 -.2751 -.9614 84.541 116.95)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 98.434 123.99)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9186 .3953 .3953 -.9186 135.68 121.35)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 124.54 166.77)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9607 .2776 .2776 -.9607 103.59 139.45)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9022 -.4313 -.4313 -.9022 44.682 150.1)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.1888 -.982 -.982 -.1888 54.672 164.44)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9003 .4353 .4353 -.9003 132.39 105.81)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 142.85 101.61)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9295 .3687 .3687 -.9295 147.02 117.28)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 146.46 80.308)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9287 .3708 .3708 -.9287 137.09 85.25)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 97.379 70.836)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 101.54 92.779)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 91.459 86.307)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9347 -.3553 -.3553 -.9347 67.98 87.372)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 61.324 102.25)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.9454 .3259 .3259 -.9454 81.12 74.979)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(.7099 -.7043 -.7043 -.7099 49.669 104.47)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 134.02 68.08)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 156.93 76.835)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 81.938 96.75)"/>
+<use width="8.324" x="-4.162" y="-9.471" height="18.943" xlink:href="#leaf" transform="matrix(1 0 0 -1 152.77 98.28)"/>
+<path fill="#ffeda1" d="m362.12,91.675-9.8,6.836-2.09-11.77-11.68,2.559 2.56-11.678-11.77-2.092 6.84-9.802-10.07-6.451 10.07-6.45-6.84-9.803 11.77-2.091-2.56-11.678 11.68,2.558 2.09-11.771 9.8,6.842 6.45-10.065 6.45,10.065 9.8-6.839 2.1,11.771 11.67-2.561-2.55,11.678 11.76,2.091-6.84,9.803 10.07,6.45-10.07,6.451 6.84,9.802-11.77,2.092 2.56,11.682-11.67-2.563-2.1,11.772-9.8-6.842-6.45,10.069z"/>
+<circle fill="#ffc578" cx="368.57" cy="59.616" r="27.25"/>
+</svg>

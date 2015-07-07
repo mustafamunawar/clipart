@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter id="filter3318">
+<feGaussianBlur stdDeviation=".37981"/>
+</filter>
+<linearGradient gradientTransform="matrix(.8601 0 0 .84957 -121.76 -97.026)" id="linearGradient3310" y1="116.56" y2="126.3" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#d1f3ff" stop-opacity=".256"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.98868 0 0 1.0175 -144.01 -116.21)" id="linearGradient3313" y1="132.36" y2="119.36" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" stop-color="#bce6ff"/>
+<stop offset=".623" stop-color="#72a2db"/>
+<stop offset="1" stop-color="#00448f"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.98868 0 0 1.0175 -144.01 -116.21)" id="linearGradient3315" y1="119.26" y2="144.65" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" stop-color="#001e6e"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.93125 0 0 .71898 -134.13 -76.186)" id="linearGradient3307" y1="135.46" y2="125.44" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" stop-color="#d1fdff"/>
+<stop offset="1" stop-color="#c4e6ff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<path filter="url(#filter3318)" fill-opacity=".14" d="m12.2356,1h28.561a11.93,11.771 0 0,1 11.93,11.771 11.93,11.771 0 0,1 -11.93,11.771h-28.561a11.93,11.771 0 0,1 -11.93-11.771 11.93,11.771 0 0,1 11.93-11.771" transform="matrix(.99198 0 0 .97699 -.30316 .02301)"/>
+<path fill="url(#linearGradient3313)" stroke="url(#linearGradient3315)" stroke-width="1.022" d="m11.7029,1.5109h28.594a10.192,10.489 0 0,1 10.192,10.489 10.192,10.489 0 0,1 -10.192,10.489h-28.594a10.192,10.489 0 0,1 -10.192-10.489 10.192,10.489 0 0,1 10.192-10.489"/>
+<path opacity=".884" fill="url(#linearGradient3310)" d="m11.578,2h28.874c5.047,.1363 8.047,7 3.047,7h-35c-4.9997,0-1.9997-6.8637 3.079-7z"/>
+<path fill="url(#linearGradient3307)" d="m11.5461,14h28.9078a3.5461,3.2941 0 0,1 3.5461,3.2941v.4118a3.5461,3.2941 0 0,1 -3.5461,3.2941h-28.9078a3.5461,3.2941 0 0,1 -3.5461-3.2941v-.4118a3.5461,3.2941 0 0,1 3.5461-3.2941"/>
+</svg>

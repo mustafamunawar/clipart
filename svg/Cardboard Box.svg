@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 744.09 1052.4"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <g
+      id="layer1"
+    >
+    <g
+        id="g2964"
+        fill-rule="evenodd"
+        transform="matrix(1.4345 0 0 1.4345 -116.43 -160.39)"
+      >
+      <path
+          id="path2939"
+          d="m359.93 276.04l-35.91 76.35 0.16 0.06-1.15 0.57-61.88-54.36-135.29 57.92 64.59 66.36 0.25-0.13 0.42 1.7-6.62-3.06-92.13 8.64 98.65 45.09 7.39 78.99 178.58 90.18 0.07 2.02 1.14-0.79 0.03 0.69v-0.69l139.53-95.03v-99.51l73.12-46.47-72.1 13.8 54.46-75.97-213.31-66.36zm156.94 142.99l0.12 0.06-0.15 0.06 0.03-0.12z"
+          fill="#00002f"
+      />
+      <path
+          id="path2933"
+          d="m193.04 421.28l135.12-68.31 185.62 65.34-14.85 117.31-142.55 56.42-139.58-69.79-23.76-100.97z"
+          fill="#8d622f"
+      />
+      <path
+          id="path1358"
+          d="m193.22 423.25l132.82-67-63.41-56.24-132.82 57.43 63.41 65.81z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path1360"
+          d="m324.35 353.27l35.24-75.71 209.4 65.81-54.22 76.4-190.42-66.5z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path2935"
+          d="m203.43 547.5l127.07-82.39-3.82-112.14 8.66 111.73 172.5 81.31-175.17-75.91-129.24 77.4z"
+          fill-opacity=".57838"
+      />
+      <path
+          id="path2126"
+          d="m376.41 644.84l-4.11-134.12 142.23-80.57v119.65l-138.12 95.04z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path2888"
+          d="m514.69 418.87l-148.13 90.25 79.68-14.14 140.09-89.96-71.64 13.85z"
+      />
+      <path
+          id="path1362"
+          d="m513.95 419.41l-141.82 86.12 74.19-13.16 130.43-83.76-62.8 10.8z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path1366"
+          d="m189.06 424.16l11.96 129.23 175.9 89.75-5.98-134.02-181.88-84.96z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path2886"
+          d="m187.36 421.77l189.56 88.18-73.1 15.92-206.9-95.53 90.44-8.57z"
+      />
+      <path
+          id="path1364"
+          d="m189.06 422.97l183.07 85.14-70.59 15.37-199.83-92.24 87.35-8.27z"
+          fill="#9d6e2d"
+      />
+      <path
+          id="path2890"
+          d="m377.55 644.77l-8.4-136.66h5.6l2.8 136.66z"
+      />
+      <path
+          id="path2937"
+          d="m193.04 421.28l132.15-68.31 190.07 66.82-191.55-62.36-130.67 63.85z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Cardboard Box</dc:title
+        >
+        <dc:date
+          >2005-10-11T20:07:45</dc:date
+        >
+        <dc:description
+          >Cardboard Box </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/182944/cardboard-box-by-Jarno-182944</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Jarno</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >box</rdf:li
+            >
+            <rdf:li
+              >cardboard</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

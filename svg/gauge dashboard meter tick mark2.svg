@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.5393 122.8462">
+<defs>
+<filter color-interpolation-filters="sRGB" id="filter4419">
+<feGaussianBlur stdDeviation=".28513"/>
+</filter>
+</defs>
+<g fill-rule="evenodd" transform="translate(-357.72809 -470.94155)">
+<path fill="#c83e30" d="m372.8015,470.9416-4.655,104.095 13.715,.035-4.685-104.13h-4.375z"/>
+<path fill="#ca4136" filter="url(#filter4419)" stroke="#000" stroke-width="1.634" d="m459.8,214.84c0,15.11-12.26,27.36-27.36,27.36-15.1,0-27.36-12.25-27.36-27.36 0-15.1 12.26-27.36 27.36-27.36 15.1,0 27.36,12.26 27.36,27.36z" transform="matrix(0 .59815 -.59815 0 503.50655 317.85555)"/>
+</g>
+</svg>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2562"
+    sodipodi:docname="perspectival_house_01.svg"
+    viewBox="0 0 475.12 254.25"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+    sodipodi:docbase="/home/phillipsjd/Documents/projects/clipart-project/art"
+  >
+  <defs
+      id="defs2564"
+    >
+    <pattern
+        id="pattern3180"
+        xlink:href="#pattern3176"
+        patternTransform="matrix(.031113 -.048507 -.048507 -.031113 139.55 2993.4)"
+        inkscape:collect="always"
+    />
+    <pattern
+        id="pattern3178"
+        xlink:href="#pattern3176"
+        patternTransform="matrix(.080589 -.048488 -.048488 -.080589 -100.98 2912.7)"
+        inkscape:collect="always"
+    />
+    <pattern
+        id="pattern3181"
+        xlink:href="#pattern3176"
+        patternTransform="matrix(.049378 -.029709 -.029709 -.049378 107.05 2920.4)"
+        inkscape:collect="always"
+    />
+    <pattern
+        id="pattern3182"
+        xlink:href="#pattern3173"
+        patternTransform="matrix(.049378 .029709 -.029709 .049378 50.081 2871.3)"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-width="756"
+      pagecolor="#ffffff"
+      inkscape:zoom="0.43415836"
+      inkscape:window-x="240"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="svg2562"
+      inkscape:cx="305.25953"
+      inkscape:cy="417.84947"
+      inkscape:window-y="101"
+      inkscape:window-height="667"
+      inkscape:pageopacity="0.0"
+  />
+  <g
+      id="g1853"
+      transform="matrix(4.0229 0 0 4.0229 -972.11 -11488)"
+    >
+    <path
+        id="path3143"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:1.2689pt;fill:#523304"
+        d="m245.09 2872.1l0.01 12 57.58 33.3 1.31-24.4-58.9-20.9z"
+    />
+    <path
+        id="path3144"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:1.2689pt;fill:#523304"
+        d="m302.68 2917.4l1.31-24.9 52.09-14.4v23.6l-53.4 15.7z"
+    />
+    <path
+        id="path3141"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:1.2689pt;fill:#730c05"
+        d="m242.44 2871.1l21.06-14.7 67.54 6.5-29.66 30.9-58.94-22.7z"
+    />
+    <path
+        id="path3517"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:.74943pt;fill:#684105"
+        d="m314.63 2914l0.78-17.7 30.76-8.5v16.9l-31.54 9.3z"
+    />
+    <path
+        id="path3142"
+        sodipodi:nodetypes="cccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:1.2689pt;fill:#522804"
+        d="m331.47 2862.9l27.48 15.2-57.14 15.7 29.66-30.9z"
+    />
+    <path
+        id="rect3172"
+        sodipodi:nodetypes="ccccc"
+        style="fill:url(#pattern3182)"
+        d="m242.92 2872.4v13.2l57.42 33.2 3.21-24.8-60.63-21.6z"
+    />
+    <path
+        id="path3175"
+        sodipodi:nodetypes="ccccc"
+        style="fill:url(#pattern3181)"
+        d="m303.46 2916.8l-1.48-21.5 53.18-15v20.8l-51.7 15.7z"
+    />
+    <path
+        id="path3177"
+        sodipodi:nodetypes="ccccc"
+        style="fill:url(#pattern3178)"
+        d="m242.87 2870.7l21.42-13.9 64.07 7.7-25.24 27.5-60.25-21.3z"
+    />
+    <path
+        id="path3179"
+        sodipodi:nodetypes="cccc"
+        style="fill:url(#pattern3180)"
+        d="m304.08 2892.8l27.25-30 26.11 15.1-53.36 14.9z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >perspectival house</dc:title
+        >
+        <dc:date
+          >2010-04-03T06:52:16</dc:date
+        >
+        <dc:description
+          >Graphics by Jon Phillips. From OCAL 0.18 release.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/36295/perspectival-house-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >building</rdf:li
+            >
+            <rdf:li
+              >cartoon</rdf:li
+            >
+            <rdf:li
+              >house</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

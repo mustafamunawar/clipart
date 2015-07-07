@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg1"
+    space="preserve"
+    overflow="visible"
+    viewBox="0 0 470.459 547.583"
+    version="1.0"
+    enable-background="new 0 0 470.459 547.583"
+  >
+  <g
+      transform="matrix(-.98910 0 0 .98910 467.49 4.4426)"
+    >
+    <path
+        id="path69"
+        d="m287.56 298.94c33.33-87.5-209.83-99.63-218.75 31.25-6.251 91.67-37.5 137.5 27.083 189.58 62.977 50.79 189.59 31.25 202.09-52.08 12.5-83.34-14.59-62.5-25-93.75-10.42-31.25 14.58-75 14.58-75z"
+    />
+    <path
+        id="path71"
+        d="m434.76 341.58c68.44-26.49 29.78-85.73-42.28-48.95-51.3 26.18-68.18 57.37-76.27 71.49-30.69 53.57 31.26 101.94 46.27 54.2 16.98-53.98 72.28-76.74 72.28-76.74z"
+    />
+    <path
+        id="path73"
+        d="m354.22 109.36c30.16-55.102-21.92-82.186-52.08-27.088s-32.82 45.938-48.22 98.248 24.3 60.09 47.66 15.69 52.64-86.85 52.64-86.85z"
+    />
+    <path
+        id="path75"
+        d="m238.23 52.956c18.08-60.266-52.67-81.578-60.41 2.179-6.93 75.055-5.62 41.855-0.97 104.5 4.46 60.13 58.62 85.13 53.88-5.9-4.27-82.1 7.5-100.78 7.5-100.78z"
+    />
+    <path
+        id="path77"
+        d="m120.89 73.939c-11.11-65.158-69.447-38.688-51.915 16.203 17.532 54.888 12.152 55.398 41.095 107.14 25.4 45.41 71.24 39.16 43.77-24.89-24.32-56.7-32.95-98.451-32.95-98.451z"
+    />
+    <path
+        id="path79"
+        d="m45.891 136.44c-18.75-43.75-62.5-20.83-39.292 30.43 19.613 43.32 30.086 44.94 54.561 70.62 34.731 36.45 59.73 3.12 30.987-29.74-37.442-42.79-46.256-71.31-46.256-71.31z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Right Handprint</dc:title
+        >
+        <dc:date
+          >2009-05-27T08:23:33</dc:date
+        >
+        <dc:description
+          >A black right hand print by Benji Park. From old OCAL site.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/26275/right-handprint-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >hand</rdf:li
+            >
+            <rdf:li
+              >print</rdf:li
+            >
+            <rdf:li
+              >silhouette</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

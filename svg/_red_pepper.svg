@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 547.5 803.35" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="-148.81" cy="555.36" gradientTransform="matrix(1 0 0 3.3951 44.759 -1240.6)" spreadMethod="reflect" id="radialGradient2196" r="78.781" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="-148.81" cy="555.36" gradientTransform="matrix(1 0 0 3.38 0 -1321.7)" id="radialGradient2821" r="79.281" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ffe6e6"/>
+<stop offset="1" stop-color="#ffe6e6" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<g stroke="#e0cbc3">
+<g fill="#1d650b" stroke-width="1.245" transform="translate(-56.305 -110.4)">
+<path d="m259.52,118.22l154.16-7.19-92.99,273.36h-4.89l-56.28-266.17z"/>
+<path d="m570.09,292.07c0,35.08-108.17,55.2-240.83,63.54-152.52,9.6-237.03-31.36-240.83-63.54-21.865-185.14 171.15-12.12 292.21-65.94 140.24-62.35 204.06,21.25 189.45,65.91"/>
+</g>
+<g fill="#cf1114" transform="translate(-56.305 -110.4)">
+<path d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.201 -.36687 .37438 1.1769 165.47 -128.36)"/>
+<path d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.2207 .29769 -.30378 1.1962 827.67 -43.825)"/>
+<path d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.2524 .11555 -.11791 1.2273 663.09 -92.972)"/>
+<path d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.2379 -.21943 .22392 1.213 319.37 -130.1)"/>
+<path d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.258 0 0 1.2327 522.57 -105.99)"/>
+</g>
+</g>
+<g transform="translate(-56.305 -110.4)">
+<path opacity=".612" fill="url(#radialGradient2821)" stroke="url(#radialGradient2196)" d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.258 0 0 1.2327 525.02 -101.19)"/>
+<path opacity=".612" fill="url(#radialGradient2821)" d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.238 .22311 -.21864 1.2132 780.51 -69.126)"/>
+<path opacity=".612" fill="url(#radialGradient2821)" d="m-70.028,555.36a78.781,267.47 0 1,1 0-.13" transform="matrix(1.1973 -.20172 .20108 1.1534 254.54 -93.949)"/>
+</g>
+</svg>

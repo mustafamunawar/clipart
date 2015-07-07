@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="Novo documento 1"
+    viewBox="0 0 598.29 345"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="838"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.7"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="170.58099"
+      inkscape:cy="79.753342"
+      inkscape:window-width="1600"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-88.214 -154.15)"
+    >
+    <g
+        id="g3635"
+      >
+      <rect
+          id="rect2830"
+          style="stroke:#000000;stroke-width:5;fill:none"
+          height="340"
+          width="590.71"
+          y="156.65"
+          x="92.857"
+      />
+      <path
+          id="path3604"
+          sodipodi:nodetypes="cssc"
+          style="stroke:#000000;stroke-width:5;fill:none"
+          d="m90.714 225.22c40.129 4.2665 59.154 21.071 71.222 42.834 15.725 28.358 13.79 83.337-0.0617 113.04-11.603 24.885-41.564 42.638-68.759 45.308"
+      />
+      <path
+          id="path3609"
+          sodipodi:rx="45"
+          sodipodi:ry="44.285713"
+          style="stroke:#000000;stroke-width:5;fill:none"
+          sodipodi:type="arc"
+          d="m430.71 323.08c0 24.458-20.147 44.286-45 44.286s-45-19.827-45-44.286c0-24.458 20.147-44.286 45-44.286s45 19.827 45 44.286z"
+          transform="matrix(.93893 0 0 .93893 25.698 22.587)"
+          sodipodi:cy="323.07648"
+          sodipodi:cx="385.71429"
+      />
+      <path
+          id="path3611"
+          style="stroke:#000000;stroke-width:5;fill:none"
+          d="m387.86 156.65v338.57"
+      />
+      <path
+          id="path3604-1"
+          sodipodi:nodetypes="cssc"
+          style="stroke:#000000;stroke-width:5;fill:none"
+          d="m684 225.22c-40.129 4.2665-59.154 21.071-71.222 42.834-15.725 28.358-13.79 83.337 0.0617 113.04 11.603 24.885 41.564 42.638 68.759 45.308"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Beach soccer field</dc:title
+        >
+        <dc:date
+          >2010-08-02T02:49:11</dc:date
+        >
+        <dc:description
+          >The outline of a beach soccer field.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/75973/beach-soccer-field-by-laobc</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >laobc</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >beach soccer</rdf:li
+            >
+            <rdf:li
+              >black</rdf:li
+            >
+            <rdf:li
+              >black and white</rdf:li
+            >
+            <rdf:li
+              >field</rdf:li
+            >
+            <rdf:li
+              >sports</rdf:li
+            >
+            <rdf:li
+              >sports2010</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

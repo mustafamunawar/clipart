@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" sodipodi:docname="_svgclean2.svg" viewBox="0 0 457.22 691.27" version="1.1" inkscape:version="0.48.3.1 r9886">
+  <sodipodi:namedview id="namedview164" bordercolor="#666666" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" gridtolerance="10" inkscape:window-maximized="0" inkscape:zoom="0.22425739" objecttolerance="10" borderopacity="1" inkscape:current-layer="svg2" inkscape:cx="308.76447" inkscape:cy="173.76515" inkscape:window-y="0" inkscape:window-x="0" inkscape:window-width="743" showgrid="false" inkscape:pageopacity="0" inkscape:window-height="484"/>
+  <defs id="defs4">
+    <radialGradient id="rGpearmain" gradientUnits="userSpaceOnUse" cy="645" cx="490" gradientTransform="matrix(.2 -1.9 1.4 .15 -425 1496)" r="221">
+      <stop id="stop16" stop-color="#ffc900" offset="0"/>
+      <stop id="stop18" stop-color="#e5e442" stop-opacity=".9" offset=".4"/>
+      <stop id="stop20" stop-color="#cbff0b" stop-opacity=".6" offset=".7"/>
+      <stop id="stop22" stop-color="#FFF" offset="1"/>
+    </radialGradient>
+    <radialGradient id="rGbump" gradientUnits="userSpaceOnUse" gradientTransform="translate(-150,500)">
+      <stop id="stop25" stop-color="black" offset="0"/>
+      <stop id="stop27" stop-color="black" stop-opacity="0" offset=".9"/>
+    </radialGradient>
+    <linearGradient id="lGstem" y2="138" gradientUnits="userSpaceOnUse" y1="149" x2="379" x1="332">
+      <stop id="stop30" stop-color="#dff100" offset="0"/>
+      <stop id="stop32" stop-color="#484400" offset=".85"/>
+      <stop id="stop34" stop-color="#110700" offset="1"/>
+    </linearGradient>
+    <radialGradient id="rGshadowleaf" gradientUnits="userSpaceOnUse" cy="230" cx="255" gradientTransform="matrix(1,0,0,2.331,0,-306)" r="14">
+      <stop id="stop42" stop-color="#ffb800" stop-opacity=".9" offset="0"/>
+      <stop id="stop44" stop-color="#ffd500" stop-opacity=".5" offset=".7031"/>
+      <stop id="stop46" stop-color="#ffd500" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <path id="patternbase" inkscape:connector-curvature="0" d="m-278.72-209.71a2.8861 7.8338 0 1 1 -5.77 0 2.8861 7.8338 0 1 1 5.77 0z"/>
+    <pattern id="stainbase" height="50" width="40" patternUnits="userSpaceOnUse" patternTransform="translate(163.81 -152.85)" fill="lightbrown">
+      <use id="use55" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 262.24 100.97)"/>
+      <use id="use57" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 253.16 126.8)"/>
+      <use id="use59" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 241.64 111.22)"/>
+      <use id="use61" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 219.23 100.01)"/>
+      <use id="use63" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 236.44 139.47)"/>
+      <use id="use65" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 210.79 125.5)"/>
+      <use id="use67" xlink:href="#patternbase" transform="matrix(.74 0 0 .46 210.79 125.5)"/>
+    </pattern>
+    <pattern id="staintransform" xlink:href="#stainbase" patternTransform="matrix(.59 0 0 .41 1.72 5.44)"/>
+    <pattern id="stain" width="50" patternUnits="userSpaceOnUse" patternTransform="translate(161 -166)" height="30">
+      <rect id="rect71" height="30" width="55" y="5.4" x="1.7" fill="url(&quot;#staintransform&quot;)"/>
+    </pattern>
+    <filter id="fblur1" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur74" stdDeviation="1"/>
+    </filter>
+    <filter id="fblur5" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur77" stdDeviation="5"/>
+    </filter>
+    <filter id="crinkled" width="1.5" y="-.25" x="-.25" height="1.5" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur80" stdDeviation="1" result="result9" in="SourceGraphic"/>
+      <feTurbulence id="feTurbulence82" baseFrequency="0.015" seed="0" result="result7" numOctaves="5" type="fractalNoise"/>
+      <feComposite id="feComposite84" operator="out" result="result6" in2="result7" in="result9"/>
+      <feGaussianBlur id="feGaussianBlur86" stdDeviation="2" result="result11"/>
+      <feDisplacementMap id="feDisplacementMap88" scale="100" yChannelSelector="G" in2="result11" result="result4" xChannelSelector="A" in="result7"/>
+      <feComposite id="feComposite90" operator="in" result="result2" in2="result4" in="result9"/>
+      <feComposite id="feComposite92" operator="in" result="fbSourceGraphic" in2="SourceGraphic"/>
+      <feBlend id="feBlend94" mode="multiply" in2="fbSourceGraphic" result="fbSourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur96" stdDeviation="0.5" result="result13"/>
+      <feSpecularLighting id="feSpecularLighting98" in="result13" surfaceScale="15" specularExponent="5" result="result12">
+        <feDistantLight id="feDistantLight100" elevation="35" azimuth="225"/>
+      </feSpecularLighting>
+      <feComposite id="feComposite102" operator="in" result="result2" in2="fbSourceGraphic" in="result12"/>
+      <feComposite id="feComposite104" k4="0" in2="result2" k3="1" k2="1" k1="0" result="result4" in="fbSourceGraphic" operator="arithmetic"/>
+    </filter>
+    <path id="pearmain" inkscape:connector-curvature="0" transform="translate(-119,11)" d="m730 574c-1 103-13 124-38 179-17 39-69 91-153 86-29-2-62-1-92-12-84-31-157-108-160-223-2-83 46-168 87-254 29-61 35-97 75-123 16-10 41-40 72-37 67 5 126 167 176 265 29 56 30 110 32 119z"/>
+    <path id="stem" inkscape:connector-curvature="0" d="m345 48c11-2 15 0 18 3 20-9 14-3 21-4 4 9 7 24 3 32-21 36-21 96 5 131-9 13-21 20-34 20-5-30-13-73-10-90 0-2-11-12-10-25 0-5 6-5 6-10 2-11 0-26 1-40 0-1 14-3 15-4s-11 2-17-1c-5-3-2-10 2-11z"/>
+    <radialGradient id="radialGradient3141" gradientUnits="userSpaceOnUse" cy="844.2" cx="464.4" gradientTransform="matrix(1 0 0 .5092 0 434.8)" r="234.3" inkscape:collect="always">
+      <stop id="stop37" stop-color="#6d661b" offset="0"/>
+      <stop id="stop39" stop-color="#6d661b" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient3143" y2="148" gradientUnits="userSpaceOnUse" x2="482.9" y1="148" x1="379" inkscape:collect="always">
+      <stop id="stop7" stop-color="#002300" offset="0"/>
+      <stop id="stop9" stop-color="#00473d" offset=".3"/>
+      <stop id="stop11" stop-color="#004139" offset=".65"/>
+      <stop id="stop13" stop-color="#000611" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3145" gradientUnits="userSpaceOnUse" cy="68.09" cx="366.1" gradientTransform="matrix(1 0 0 .2676 0 49.87)" r="8.965" inkscape:collect="always">
+      <stop id="stop49" stop-color="#FFF" offset="0"/>
+      <stop id="stop51" stop-color="#FFF" stop-opacity="0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="pear" transform="matrix(.7 0 0 .7 -63.283 -8.68)">
+    <path id="shadow" inkscape:connector-curvature="0" style="opacity:.6;fill:url(#radialGradient3141)" transform="matrix(1 .346 -.3313 1.045 279.8 -254.4)" d="m754 886a234.5 119.25 0 1 1 -469 0 234.5 119.25 0 1 1 469 0z"/>
+    <use id="use110" style="opacity:.6;filter:url(#fblur5)" xlink:href="#shadow" transform="matrix(.6157 -.788 .788 .6157 -559.1 671.8)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="pearbg" style="fill:#8beb1a" xlink:href="#pearmain" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="turb" style="opacity:0.17;filter:url(#crinkled)" xlink:href="#pearmain" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <path id="bump" style="opacity:.4;filter:url(#fblur5);fill:url(#rGbump)" inkscape:connector-curvature="0" d="m372 840c-81 0-146-92-146-204s108-294 186-276c256 60 278 483-40 480z"/>
+    <use id="pearspecks" style="opacity:.3;fill:url(#stain)" xlink:href="#pearmain" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="pearvg" style="opacity:.8;fill:url(#rGpearmain)" xlink:href="#pearmain" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="use117" style="fill:url(#lGstem)" xlink:href="#stem" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <path id="leaftop" style="fill:url(#linearGradient3143)" inkscape:connector-curvature="0" d="m403 66c-27 29-31 72-14 107 10 21 34 34 56 44 3 1 6 5 9 6 10 5 19 6 29 6-4-10-8-29-14-46-2-5 1-8-2-13-17-32-37-76-65-104z"/>
+    <rect id="leafpem" style="fill:#550000" transform="matrix(.86 .5102 -.4998 .8661 0 0)" height="4" width="17.5" y="-147" x="365"/>
+    <g id="leafstripes" style="opacity:.4;filter:url(#fblur1);fill:#00ff00" transform="translate(.92 .2)">
+      <path id="path122" inkscape:connector-curvature="0" d="m436 111v16 1 1s0 1-1 1 0 1-1 1v6s0 1-1 1l-1 1c0 1-1 1-1 1l-1 1v4 1s0 1-1 1 0 1-1 1c0 0 0 1-1 1s0 1 0 1v3 1 11s0 1-1 1 0 1-1 1 0 1-1 1v1 1 1 4 1l-1 1-1 1-1 1-1 1v1 1 1 2l-1 1v-5l1-1s0-1 1-1 0-1 1-1c0 0 0-1 1-1v-6-1-1-1s0-1 1-1 0-1 1-1v-3-1-1-5-1-1-1-1-2s0-1 1-1 0-1 1-1 0-1 1-1v-1-1-3s0-1 1-1c0-1 1-1 1-1l1-1s0-1 1-1v-1-1-4s0-1 1-1c0-1 0-1 1-1v-1-1-1-15l1-1z"/>
+      <path id="path124" inkscape:connector-curvature="0" d="m424 184v1l-1 1-1 1-1 1c-1 1-2 1-2 1h-1c1 0-1 1-1 0 2-1 1-1 1-1s-1 0-1 1l-1 1v2l-1 1v-1-1c0-1 0-1 1-1s1 0 1-1c1-1 1-1 2-1 0 0 1 0 1-1 1 0 0 0-1 1l1-1 1-1 1-1v-1l1-1z"/>
+      <path id="path126" inkscape:connector-curvature="0" d="m441 162v15 2 6c0 1 0 1-1 2 0 0 0 1-1 1l-1 1-1 1-1 1-1 1-1 1-1 1s0 1-1 1l-1 1v-1l1-1 1-1 1-1 1-1 1-1 1-1s0-1 1-1 0-1 1-1v-22l1-1z"/>
+      <path id="path128" inkscape:connector-curvature="0" d="m419 87v19 2 2 2 2c0 1-1 1-1 2s-1 1-1 1c0 1-1 1-1 1l-1 1-1 1s-1 1-2 1-1 1-2 2c-1 0-1 1-2 1s-1 1-1 1l-1 1-1 1s0 1-1 1 0 1-1 1c0 0 0 1-1 1s-1 1-1 1 0 1-1 1 0 1-1 1l-1 1-1 1v1 1c0 1-1 1-2 1l1-1s-2 1-1 1v-1-1s0-1 1-1l1-1 1-1 1-1 1-1s0-1 1-1l1-1s0-1 1-1l1-1 1-1c1 0 1-1 1-1 1-1 1-1 2-1s1-1 2-1l2-2 1-1 1-1 1-1 1-1 1-1c0-1 0-1 1-2v-4-2-19l1-1z"/>
+      <path id="path130" inkscape:connector-curvature="0" d="m416 102v1c0 1 0 1-1 1 0 1-1 1-1 2l-2 2c-1 1-2 1-4 2-1 0-1 1-2 1s-3 1 0 0l-1 1-1 1-1 1-1 1-1 1v4 1l-1 1v-3-1s0-1 1-1 0-1 1-1l1-1 1-1 1-1 1-1c1-1 2-1 3-2 1 0 1-1 2-1 0 0 1 0 0 0 0 0-1 0-1 1h1l2-2 2-2 1-1v-1l1-1z"/>
+      <path id="path132" inkscape:connector-curvature="0" d="m422 155v1l-1 1-1 1-1 1-1 1s-1 0-1 1c-1 0-1 1-2 1h-1-1-1-1c2-1 1-1 1-1s-1 0-1 1-1 0-1 1-1 0-1 1-1 0-1 1-1 0-1 1-1 0-1 1l-1 1s0 1-1 1 0 1-1 1v2 1 3 1 1l-1 1v1 1 1l-1 1v-2s0-1 1-1v-1l1-1v-1-1-5s0-1 1-1 0-1 1-1l1-1 1-1s1 0 1-1 1 0 1-1 1-1 1-1 1 0 1-1 1 0 1-1c1 0 1-1 2-1h1 1 1 1c-2 1-1 1-1 0 0 0 1 0 1-1 0 0 1 0 1-1l1-1 1-1 1-1h1l1-1z"/>
+      <path id="path134" inkscape:connector-curvature="0" d="m432 124-1 1-1 1c-1 1-1 1-2 1s-1 1-2 1-1 1-1 1l-1 1-1 1-1 1-1 1-1 1-1 1-1 1-1 1s0 1-1 1l-1 1-1 1s-1 0-1 1l-1 1-1 1-1 1-1 1s-1 0-1 1-1 0-1 1l-1 1-1 1-1 1s-1 0-1 1 0 0-1 1h-1l-1 1-1 1-1 1-1 1v1 1 2 1 2l-1 1-1 1-1 1-1 1v1 1c0 1-1 1-1 1v-1-1l1-1 1-1 1-1 1-1v-7s0-1 1-1l1-1 1-1 1-1h2s1 0 1-1 1 0 1-1l1-1 1-1s1 0 1-1 1 0 1-1 1 0 1-1l1-1 1-1 1-1 1-1s1 0 1-1 1 0 1-1c0 0 0-1 1-1l1-1 1-1 1-1 1-1 1-1 1-1 1-1 1-1 1-1c1-1 1-1 2-1s1-1 2-1l1-1 1-1 1-1z"/>
+      <path id="path136" inkscape:connector-curvature="0" d="m450 137-1 1-1 1l-1 1s0 1-1 1v7 2 4 1s0 1-1 1 0 1-1 1c0 0 0 1-1 1 0 0 0 1-1 1 0 0 0 1-1 1 0 0 0 1-1 1 0 0 0 1-1 1s0 1-1 1 0 1-1 1 0 1-1 1c0 0 0 1-1 1l-1 1-1 1-1 1-1 1-1 1s0 1-1 1 0 1-1 1c0 0 0 1-1 1 0 0 0 1-1 1 0 0 0 1-1 1 0 0 0 1-1 1s0 1-1 1l-1 1-1 1-1 1-1 1-1 1s0 1-1 1v14l-1 1v-10-1-2s0-1 1-1 0-1 1-1l1-1 1-1 1-1 1-1s0-1 1-1 0-1 1-1 0-1 1-1 0-1 1-1 0-1 1-1c0 0 0-1 1-1 0 0 0-1 1-1l1-1 1-1 1-1 1-1 1-1 1-1 1-1s0-1 1-1 0-1 1-1 0-1 1-1l1-1 1-1s0-1 1-1 0-1 1-1 0-1 1-1 0-1 1-1v-1-1-1-5-2-2-1-1s0-1 1-1 0-1 1-1l1-1 1-1v-1l1-1z"/>
+      <path id="path138" inkscape:connector-curvature="0" d="m447 135h-6s-1 0-1 1c-1 0-1 0 1-1h-1l-1 1-1 1-1 1-1 1-1 1-1 1-1 1-1 1 1-1 1-1 1-1 1-1 1-1 1-1 1-1c1-1 2-1 2-2 0 0 1 0 1-1s1 0 2 0h4l-1 1z"/>
+      <path id="path140" inkscape:connector-curvature="0" d="m418 89-1 1c-1 1-2 1-2 2-1 1-2 2-3 2-1 1-2 1-3 2s-3 2-4 2-1 1-2 1 1 0 1-1h-1l-1 1-1 1-1 1-1 1-1 1c0 1-1 1-1 1l-1 1-1 1-1 1c0 1 0 1-1 2 0 1 0 1-1 2 0 1 0 1-1 2 0 1 0 1-1 1l-1 1c0 1-1 1-1 1l-1 1s0 1-1 1v5 1 2h1l-1 1h-1v-4-1-1-1-1s0-1 1-1l1-1 1-1c0-1 1-1 1-1s0-1 1-1c0-1 0-1 1-2 0-1 0-1 1-2 0-1 0-1 1-2 0-1 1-1 1-2s1-1 1-1l1-1 1-1 1-1 1-1 1-1 1-1 1-1c1-1 2-1 3-2 1 0 1-1 2-1 0 0 1 0 1-1 0 0 1 0 0 0 0 0-1 0-1 1 1-1 2-1 3-2s2-2 3-2c1-1 2-1 3-2l1-1 1-1z"/>
+      <path id="path142" inkscape:connector-curvature="0" d="m461 160v5c0 1 0 2-1 2 0 1-1 2-1 3s-1 2-1 3-1 2-1 3-1 2-1 2c0 1-1 1-1 2s0 1-1 2c0 1 0 1-1 2v21c0 1 0 1-1 2 0 1-1 1-1 1l-1 1c0 1-1 1-1 1l-1 1s0 1-1 1 0 1-1 1c0 0 0 1-1 1s0 0-1 1v1l-1 1v-1l1-1s0-1 1-1 0-1 1-1c0 0 0-1 1-1s0-1 1-1l1-1c0-1 1-1 1-1 0-1 1-1 1-1 0-1 1-1 1-2v-1-1-16-1-4c0-1 0-1 1-2 0-1 0-1 1-2 0-1 1-2 1-2s1-2 1-3 1-2 1-3 1-2 1-3 0-2 1-2v-5l1-1z"/>
+      <path id="path144" inkscape:connector-curvature="0" d="m455 187-1 1c0 1-1 1-1 2s-1 2-1 2-1 2-2 2-1 1-2 2c0 1-1 1-1 2l-1 1-1 1-1 1-1 1-1 1-1 1-1 1-1 1v1l-1 1v-1s0-1 1-1l1-1 1-1s0-1 1-1 0-1 1-1l1-1 1-1 1-1c0-1 1-1 1-2 1-1 1-1 1-2s1-2 2-2c1-1 1-2 1-2 0-1 1-1 1-2 0 0 1 0 1-1l1-1z"/>
+      <path id="path146" inkscape:connector-curvature="0" d="m470 190v24 2 2s0 1-1 1 0 1-1 1 0 1-1 1v2l-1 1v-1s0-1 1-1v-1s0-1 1-1l1-1s0-1 1-1 0-1 0-2v-21c0-1 0-1 1-2v-1l1-1z"/>
+      <path id="path148" inkscape:connector-curvature="0" d="m470 196-1 1-1 1-1 1c-1 0-1 1-2 1s-1 1-1 1l-1 1-1 1-1 1-1 1s0 1-1 1 0 1-1 1v8l-1 1v-9s0-1 1-1 1-1 1-1c0-1 1-1 1-1l1-1 1-1c1 0 1-1 1-1s1-1 2-1l1-1 1-1 1-1 1-1z"/>
+    </g>
+    <use id="use150" style="opacity:.2;filter:url(#crinkled)" xlink:href="#leaftop" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <path id="shadowleaf" inkscape:connector-curvature="0" style="opacity:.5;filter:url(#fblur1);fill-rule:evenodd;fill:url(#rGshadowleaf)" transform="matrix(1.162 -1.039 .929 1.299 -79.28 207)" d="m269 239.2c-4 13.8-13.1 30.7-16.2 21.2-4.3-13-12.4-14.3-12.4-30.2s-0.1-33.7 9.8-33.7 18.8 26.8 18.8 42.7z"/>
+    <path id="light" inkscape:connector-curvature="0" style="opacity:.7;fill:url(#radialGradient3145)" transform="matrix(.97 -.22 .34 1.54 -6.35 25.73)" d="m375.1 68.09a9 2.4084 0 1 1 -18 0 9 2.4084 0 1 1 18 0z"/>
+    <use id="use154" xlink:href="#light" transform="translate(-23.23,1.01)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="use156" xlink:href="#light" transform="matrix(.6928 -.7212 .7212 .6928 46.91 347)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="use158" xlink:href="#light" transform="translate(-19.95,13.64)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    <use id="use160" style="opacity:.2;filter:url(#crinkled);stroke:#008000;stroke-width:2" xlink:href="#stem" height="1052.3622" width="744.09448" y="0" x="0"/>
+  </g>
+  <metadata id="metadata162">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

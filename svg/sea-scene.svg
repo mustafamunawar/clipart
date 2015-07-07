@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="sea scene.svg"
+    viewBox="0 0 620.01 562.86"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="39"
+      pagecolor="#ffffff"
+      inkscape:window-height="667"
+      inkscape:zoom="0.49497475"
+      inkscape:window-x="308"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="339.7088"
+      inkscape:cy="432.70959"
+      inkscape:window-width="909"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-62.844 -255.22)"
+    >
+    <g
+        id="g3452"
+      >
+      <path
+          id="path3157"
+          sodipodi:rx="310"
+          sodipodi:ry="281.42856"
+          style="fill:#ffffff"
+          sodipodi:type="arc"
+          d="m754.29 556.65a310 281.43 0 1 1 -620 0 310 281.43 0 1 1 620 0z"
+          transform="translate(-71.429 -20)"
+          sodipodi:cy="556.64789"
+          sodipodi:cx="444.28571"
+      />
+      <path
+          id="path2383"
+          style="fill:#80bcff"
+          d="m372.84 255.22c-171.12 0-310 126.09-310 281.44 0.004 4.67 0.13 9.31 0.379 13.93 5.943-5.03 11.802-10.39 16.781-15.37 15.058-15.06 30.83-22.84 54.28-22.84 21.55 0 30.19 19.69 37.16 37.12 9.27 23.18 20.03 39.27 40 34.28 13.13-3.28 20.64-14.28 40-14.28 25.8 0 38.11 2.9 57.12 17.16 16.36 12.27 18.13 32.37 28.6 42.84 7.11 7.11 39.16 2.26 51.4 11.44 3.23 2.42 5.74 5.7 8.6 8.56 14.58 14.59 22.84 31.63 22.84 51.44 0 11.18 12.29 15.98 17.16 25.72 2.44 4.89-29.88 2.84-40 2.84h-57.16-62.84-57.16-72.81c56.54 54.51 136.73 88.56 225.65 88.56 171.12 0 310-126.06 310-281.4 0-155.35-138.88-281.44-310-281.44z"
+      />
+      <path
+          id="path3160"
+          style="fill:#004fa9"
+          d="m85.594 642.59c46.126 102.89 157.41 175.47 287.25 175.47 129.85 0 241.12-72.58 287.25-175.47-85.54 21.36-183.34 33.47-287.25 33.47-103.9 0-201.71-12.11-287.25-33.47z"
+      />
+      <path
+          id="path3166"
+          sodipodi:nodetypes="cssssszzssss"
+          style="fill-rule:evenodd;fill:#ffffff"
+          d="m238.51 353.96c9.82-13.79 40.92-30.21 58.92-16.33 10.35 7.97 18.83 7.9 32.04 6.77 19.44-1.67 64.33-1.91 70.47 16.02 4.2 12.29 3.99 22.78 0.61 31.38-3.38 8.59-16.84 19.95-26.35 21.9-11.99 2.46-24.04-10.59-35.15-9.94s-27.36 14.79-46 8.82c-18.63-5.96-29.19-12.24-51.38 2.62-18.76 12.55-41.68-8.12-54.37-21.91-13.66-14.86 2.68-42.36 22.84-43.38 9.7-0.49 24.25 9.83 28.37 4.05z"
+      />
+      <path
+          id="path3450"
+          sodipodi:rx="310"
+          sodipodi:ry="281.42856"
+          style="fill:#ffff00"
+          sodipodi:type="arc"
+          d="m754.29 556.65a310 281.43 0 1 1 -620 0 310 281.43 0 1 1 620 0z"
+          transform="matrix(.17884 0 0 .17884 435.72 379.82)"
+          sodipodi:cy="556.64789"
+          sodipodi:cx="444.28571"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Sea scene</dc:title
+        >
+        <dc:date
+          >2010-06-12T03:52:43</dc:date
+        >
+        <dc:description
+          >A sea scene, showing the sun, some clouds and the sky.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/66373/sea-scene-by-laobc</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >laobc</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >cloud</rdf:li
+            >
+            <rdf:li
+              >scene</rdf:li
+            >
+            <rdf:li
+              >sea</rdf:li
+            >
+            <rdf:li
+              >sky</rdf:li
+            >
+            <rdf:li
+              >summer</rdf:li
+            >
+            <rdf:li
+              >summer2010</rdf:li
+            >
+            <rdf:li
+              >sun</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

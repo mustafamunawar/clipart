@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134.1592 47.1785" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" id="filter7304">
+<feGaussianBlur stdDeviation=".59543"/>
+</filter>
+<linearGradient id="linearGradient16181">
+<stop offset="0" stop-color="#784421"/>
+<stop offset=".5" stop-color="#fee47f"/>
+<stop offset="1" stop-color="#784421"/>
+</linearGradient>
+<linearGradient id="linearGradient46705" xlink:href="#linearGradient16181" x1="603" gradientUnits="userSpaceOnUse" x2="743.89"/>
+<linearGradient gradientTransform="matrix(.98737 0 0 1.087 8.5193 -48.287)" id="linearGradient46703" x1="610.48" gradientUnits="userSpaceOnUse" x2="738.15">
+<stop offset="0" stop-color="#80b3ff"/>
+<stop offset=".5" stop-color="#80e5ff"/>
+<stop offset="1" stop-color="#80b3ff"/>
+</linearGradient>
+</defs>
+<g transform="matrix(.87224 0 0 .88132 -521.08272 -470.37811)">
+<path fill="url(#linearGradient46703)" d="m611.62,537.6h125.38v34.713h-125.38z"/>
+<path opacity=".231" fill="#00a" filter="url(#filter7304)" d="m612.28,537.59v34.719h124.06v-34.719h-124.06zm2.7812,3.5h118.5v27.719h-118.5v-27.719z" transform="matrix(1.0104 0 0 1 -7.0204 0)"/>
+<path fill="url(#linearGradient46705)" d="m607.22,533.72v42.395l-9.8125,4.7616v6.375h153.81v-6.375l-9.8125-4.7616v-42.395zm6.375,6.375h121.44v29.94h-121.44z"/>
+<path fill="#784421" d="m674.31,575.97c-36.705,0-66.469,.1813-66.469,.375 0,.1937 29.764,.3438 66.469,.3438 36.705,0 66.438-.1501 66.438-.3438 0-.1937-29.732-.375-66.438-.375zm0,4.7812c-42.405,0-76.781,.1501-76.781,.3438 0,.1937 34.376,.3438 76.781,.3438 42.405,0 76.781-.1501 76.781-.3438 0-.1937-34.376-.3438-76.781-.3438z"/>
+</g>
+</svg>

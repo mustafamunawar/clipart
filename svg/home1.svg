@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg32"
+    viewBox="0 0 437.5 437.5"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <defs
+      id="defs34"
+    >
+    <linearGradient
+        id="linearGradient60"
+      >
+      <stop
+          id="stop61"
+          style="stop-color:#ffffaf;stop-opacity:.5412"
+          offset="0"
+      />
+      <stop
+          id="stop62"
+          style="stop-color:#0000a2;stop-opacity:.4471"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient57"
+      >
+      <stop
+          id="stop58"
+          style="stop-color:#ffff9f;stop-opacity:.9608"
+          offset="0"
+      />
+      <stop
+          id="stop59"
+          style="stop-color:#000000;stop-opacity:.4588"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient129"
+      >
+      <stop
+          id="stop130"
+          style="stop-color:#ffffff"
+          offset="0"
+      />
+      <stop
+          id="stop131"
+          style="stop-color:#955d97"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient132"
+        y2="1"
+        xlink:href="#linearGradient60"
+    />
+    <linearGradient
+        id="linearGradient158"
+        y2="1.1657"
+        xlink:href="#linearGradient129"
+        y1="0.08"
+        x2=".57224"
+        x1=".52097"
+    />
+    <linearGradient
+        id="linearGradient161"
+        y2="1"
+        xlink:href="#linearGradient57"
+    />
+  </defs
+  >
+  <path
+      id="path19"
+      style="fill-rule:evenodd;fill:#a2aac4"
+      d="m65.038 383.71c2.765 5.77-38.461 12.14-40.627 14.54 15.308 4.08-24.446 10.29-17.037 12.12 5.26 1.7 83.471 13.35 96.326 13.81 78.71 5.61 242.05 1.6 271.94-3.64 35.81-7.45 53.92-8.26 59.62-11.87-3.37-2.99-35.03-8.58-28.17-10.9-5.72-2.64-18.55-3.82-13.11-9.45-17.26-1.83 24.15-5.83-2.62-4.85-4.61-0.42 28.26-9.93 20.31-11.39-42.08-10.44-285.46-11.62-328.94-2.9-6.202 4.56-10.446 13.64-17.692 14.53z"
+  />
+  <path
+      id="path20"
+      style="fill-rule:evenodd;fill-opacity:.22660"
+      d="m83.383 384.62c5.603 4.4-52.044 13.66-41.531 15.58 189.59 7.42 150.07 11.75 294.34 11.25 7.62-2.09 36.54-11.66 38.17-19.72-45.73-3.71-194.51-9.86-290.98-7.11z"
+  />
+  <path
+      id="path132"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:10;fill:url(#linearGradient158)"
+      d="m208.03 107.55c-6.55 5.24 4.67 252.84 5.9 273.15 15.17 0 140.86 2.94 158.55 6.04 29.66-84.94 31.42-260.51 19.68-283.12-11.46-2.88-170.37-2.65-184.13 3.93z"
+  />
+  <path
+      id="path133"
+      style="fill-rule:evenodd;stroke-width:9.6633;fill:#dd0000"
+      d="m270.31 40.055c1.02 0 123.98 54.798 120.54 60.945-20.98-1.126-161.61-1.315-175.61-0.66 19.42-22.761 46.84-51.838 55.07-60.285z"
+  />
+  <path
+      id="path134"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:8.2185;fill:#baffff"
+      d="m339.74 73.159c3.23-9.737 3.24-35.408 1.97-42.932 11.58 1.181 11.14 0.088 19.65 0.885-2.35 5.562-0.65 42.637-0.65 49.571-8.16-3.298-10.96-5.311-20.97-7.524z"
+  />
+  <path
+      id="path135"
+      style="stroke:#000000;stroke-width:7.2546;fill:url(#linearGradient158);fill-rule:evenodd"
+      d="m74.003 177.16c-19.002 11.49-13.485 112.33 12.276 204.95 10.611 0 115.97-2.18 128.34 0.16 1.5-16.09-8.48-194.89-8.96-202.56-8.02-2.16-114.64-7.48-131.66-2.55z"
+  />
+  <path
+      id="path136"
+      style="fill-rule:evenodd;stroke-width:6.8492;fill:#dd0000"
+      d="m163.33 126.3c-0.68 0-76.626 41.25-80.455 45.87 14.006-0.84 110.36 0.33 119.7 0.82-1.82-11.23-33.76-40.33-39.25-46.69z"
+  />
+  <path
+      id="path137"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:5.6144;fill:#e9f57f"
+      d="m118.9 150.35c-2.25-6.5-2.26-22.16-1.37-27.18-8.1 0.79-7.79 0.06-13.74 0.59 1.64 3.71 0.91 26.1 0.91 30.72 5.71-2.2 7.21-2.66 14.2-4.13z"
+  />
+  <path
+      id="path149"
+      style="fill-rule:evenodd;stroke-width:5;fill:#7f5400"
+      d="m160.85 318.54v61.6h32.77v-61.6h-32.77z"
+  />
+  <path
+      id="path150"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:5;fill:url(#linearGradient132)"
+      d="m97.946 298.89v29.48h38.004v-29.48h-38.004z"
+  />
+  <path
+      id="path151"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m155.61 242.53v36.04h39.32v-36.04h-39.32z"
+  />
+  <path
+      id="path152"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m99.257 241.22v36.7h37.353v-36.7h-37.353z"
+  />
+  <path
+      id="path153"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m246.69 156.04v56.35h43.91v-56.35h-43.91z"
+  />
+  <path
+      id="path154"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m249.31 241.22v38.01h42.6v-38.01h-42.6z"
+  />
+  <path
+      id="path155"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m338.43 240.57v38.66h30.8v-38.66h-30.8z"
+  />
+  <path
+      id="path156"
+      style="fill-rule:evenodd;stroke-width:5;fill:#856100"
+      d="m295.18 301.51v78.63h36.7v-78.63h-36.7z"
+  />
+  <path
+      id="path157"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient132);fill-rule:evenodd"
+      d="m331.22 161.94v53.73h39.97v-53.73h-39.97z"
+  />
+  <path
+      id="path160"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:5;fill:url(#linearGradient161)"
+      d="m162.21 317.87v61.59h32.76v-61.59h-32.76z"
+  />
+  <path
+      id="path162"
+      style="stroke:#000000;stroke-width:5;fill:url(#linearGradient161);fill-rule:evenodd"
+      d="m293.83 302.18v78.64h36.69v-78.64h-36.69z"
+  />
+  <path
+      id="path164"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:9.75;fill:url(#linearGradient132)"
+      d="m271.06 40.056c1.02 0 120.28 55.322 119.44 62.254-20.91-1.15-166.4 0.17-180.35 0.84 19.35-23.254 52.72-54.466 60.91-63.094z"
+  />
+  <path
+      id="path167"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:6.85;fill:url(#linearGradient132)"
+      d="m162.37 127.26c-0.68 0-76.623 41.25-80.452 45.87 14.006-0.84 117.57 6.88 120.36-1.15-1.17-7.3-34.42-38.36-39.91-44.72z"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >home1</dc:title
+        >
+        <dc:date
+          >2011-01-21T17:04:57</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Jose Hevia for OCAL 0.18</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/109567/home1-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >fix</rdf:li
+            >
+            <rdf:li
+              >keyword</rdf:li
+            >
+            <rdf:li
+              >librarians</rdf:li
+            >
+            <rdf:li
+              >tag</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

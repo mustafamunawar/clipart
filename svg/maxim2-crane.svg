@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    fill-rule="evenodd"
+    viewBox="0 0 309.543 266.258"
+  >
+  <g
+    >
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m197.68 71.716l14.46 10.918-116.45 125.38-14.694-9.97 116.68-126.32v-0.004z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m157.94 176.15h-31.97v44.37h37.45l7.1-17.36-12.58-27.01z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m114.67 220.6v5.09h39.46v-5.09h-39.46z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m1.4239 224.52h49.103v22.32h-49.103l-0.0001-22.32z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m24.566 190.22h16.749c4.568 0.27 6.564 1.89 5.989 4.87v38.88c-11.199-4.3-21.42-2.71-30.453 5.99h-16.647l-0.00034-18.28c3.8372-9.28 8.3713-18.57 13.835-27.85 1.883-2.15 5.392-3.36 10.527-3.61z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m48.338 242.73h156.5v-6.11h-17.1v-1.92h19.71v-6.1h-159.11l-0.002 3.83v2.27 1.92 1.92 4.19z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.40008;fill:#9fdcf5"
+        d="m243.55 109.64h66v15.76h-66v-15.76z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m35.076 235.59c8.445 0 15.333 6.89 15.333 15.33 0 8.45-6.888 15.34-15.333 15.34-8.444 0-15.332-6.89-15.332-15.34 0-8.44 6.888-15.33 15.332-15.33z"
+    />
+    <path
+        style="fill:#868889"
+        d="m35.076 243.32c-4.18 0-7.591 3.78-7.591 8.41s3.411 8.41 7.591 8.41c4.181 0 7.591-3.78 7.591-8.41s-3.41-8.41-7.591-8.41z"
+    />
+    <path
+        style="fill:#c5c5c7"
+        d="m35.076 243.32c4.181 0 7.591 3.41 7.591 7.59 0 4.19-3.41 7.59-7.591 7.59-4.18 0-7.591-3.4-7.591-7.59 0-4.18 3.411-7.59 7.591-7.59z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m35.076 248.16c1.52 0 2.759 1.24 2.759 2.75 0 1.52-1.239 2.76-2.759 2.76-1.519 0-2.758-1.24-2.758-2.76 0-1.51 1.239-2.75 2.758-2.75z"
+    />
+    <path
+        style="fill:#454545"
+        d="m35.026 235.7c-8.281 0-15.042 6.36-15.042 14.14 0 0.23 0.008 0.46 0.02 0.7 0.392-6.76 6.991-12.16 15.022-12.16 8.03 0 14.63 5.4 15.021 12.16 0.013-0.24 0.02-0.47 0.02-0.7 0-7.78-6.761-14.14-15.041-14.14z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m145.34 235.59c8.44 0 15.33 6.89 15.33 15.33 0 8.45-6.89 15.34-15.33 15.34s-15.33-6.89-15.33-15.34c0-8.44 6.89-15.33 15.33-15.33z"
+    />
+    <path
+        style="fill:#868889"
+        d="m145.34 243.32c-4.18 0-7.59 3.78-7.59 8.41s3.41 8.41 7.59 8.41 7.59-3.78 7.59-8.41-3.41-8.41-7.59-8.41z"
+    />
+    <path
+        style="fill:#c5c5c7"
+        d="m145.34 243.32c4.18 0 7.59 3.41 7.59 7.59 0 4.19-3.41 7.59-7.59 7.59s-7.59-3.4-7.59-7.59c0-4.18 3.41-7.59 7.59-7.59z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m145.34 248.16c1.52 0 2.76 1.24 2.76 2.75 0 1.52-1.24 2.76-2.76 2.76s-2.76-1.24-2.76-2.76c0-1.51 1.24-2.75 2.76-2.75z"
+    />
+    <path
+        style="fill:#454545"
+        d="m145.29 235.7c-8.28 0-15.04 6.36-15.04 14.14 0 0.23 0 0.46 0.02 0.7 0.39-6.76 6.99-12.16 15.02-12.16s14.63 5.4 15.02 12.16c0.01-0.24 0.02-0.47 0.02-0.7 0-7.78-6.76-14.14-15.04-14.14z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m59.437 261.88h15.578c1.578 0 2.867 0.98 2.867 2.19v2.19h-21.312v-2.19c0-1.21 1.289-2.19 2.867-2.19z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#8e522c"
+        d="m65.998 258.1h2.457v3.6h-2.457v-3.6z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m58.611 244.76h24.837v-12.11h-24.837v12.11z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m92.384 244.52l-22.349 12.36v-7.9l16.141-13.73 6.355-0.15-0.147 9.42z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m64.418 258.1h5.617v-18.08h-5.617v18.08z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m92.312 235.25l-22.218 16.59 0.125 0.16 22.219-16.6-0.126-0.15z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m74.25 249.22l-0.188 0.12 2.469 4.06 0.188-0.12-2.469-4.06z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m78.312 246.18l-0.187 0.13 2.656 4.63 0.188-0.13-2.657-4.63z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m81.938 243.15l-0.188 0.13 3.469 5.31 0.156-0.12-3.437-5.32z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m86.062 240.31l-0.187 0.13 3.875 5.31 0.188-0.13-3.876-5.31z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m70.562 252.12l-0.187 0.1 1.594 3.59 0.187-0.09-1.594-3.6z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m205.9 261.88h-15.58c-1.57 0-2.86 0.98-2.86 2.19v2.19h21.31v-2.19c0-1.21-1.29-2.19-2.87-2.19z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#8e522c"
+        d="m199.34 258.1h-2.46v3.6h2.46v-3.6z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m172.96 244.52l22.34 12.36v-7.9l-16.14-13.73-6.35-0.15 0.15 9.42z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m200.92 258.1h-5.62v-18.08h5.62v18.08z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m173.03 235.25l-0.12 0.15 22.21 16.6 0.13-0.16-22.22-16.59z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m191.09 249.22l-2.47 4.06 0.19 0.12 2.47-4.06-0.19-0.12z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m187.03 246.18l-2.65 4.63 0.18 0.13 2.66-4.63-0.19-0.13z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m183.41 243.15l-3.44 5.32 0.15 0.12 3.47-5.31-0.18-0.13z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m179.28 240.31l-3.87 5.31 0.18 0.13 3.88-5.31-0.19-0.13z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m194.78 252.12l-1.59 3.6 0.19 0.09 1.59-3.59-0.19-0.1z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#737476"
+        d="m48.338 225.11h159.11v3.49h-159.11l-0.002-3.49z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#737476"
+        d="m93.177 234.35h29.313v3.49h-29.313v-3.49z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#737476"
+        d="m123.45 243.6v-13.61h2.18v13.61h-2.18z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m123.45 243.6v13.61h2.18v-13.61h-2.18z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#737476"
+        d="m165.49 243.6l0.01-13.61h2.18v13.61h-2.19z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m165.49 243.6l0.01 13.61h2.18v-13.61h-2.19z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m0.00062561 241.99c1.2911 0.03 2.5822 0.06 3.8733 0.1-0.0021 1.49-0.0032 2.99-0.0043 4.49 2.5261-0.04 5.0522-0.08 7.5784-0.12 3.864-10.15 10.706-16.11 20.528-17.87h13.095v5.88c-7.693-1.07-14.277-1.23-19.569 1.42-8.254 4.14-12.61 12.66-13.219 16.25h-12.282c-0.00037439-3.39-0.00037439-6.77-0.00037439-10.15z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ffffff"
+        d="m21.216 199.56h18.779v16.34h-18.779v-16.34z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ffffff"
+        d="m21.216 199.56h-4.06l-7.004 16.34h11.064v-16.34z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m0.90625 220.47v0.21h46.125v-0.21h-46.125 0.00025z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m6.7812 220.56v19.19h0.2188v-19.19h-0.2188z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m12.594 195.59v0.22h34.718v-0.22h-34.718z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m54.647 242.65l0.001 14.56h2.18v-14.56h-2.181z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ffffff"
+        d="m130.3 184.57h9.95v16.34h-9.95v-16.34z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ffffff"
+        d="m143.7 184.57h10.76l7.28 16.34h-18.04v-16.34z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m71.819 195.07h54.151v25.45h-54.151v-25.45z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m125.97 180.12v0.19h34.15v-0.19h-34.15z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m256.24 12.748l9 6.614-55.75 61.186-9.35-7.102 56.1-60.698z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m256.24 12.748l9 6.614 11.59 3.52 6.12-6.964-19.1-15.921-9.84 9.5692 2.23 3.1818z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m259.98 3.6796h8.1l2.85 2.2904h-13.28l2.33-2.2904z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m254.8 8.9624h19.72l2.79 2.2906h-22.18l-0.99-1.4151 0.66-0.8755z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m257.97 13.87h22.33l2.65 2.29h-21.9l-3.08-2.29z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m265.57 19.152h14.68l-2.38 2.291h-5.59l-6.71-2.291z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m275.08 58.489l7.15-0.037 3.44-15.164-14.24-0.201 3.65 15.402z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m274.57 43.201l8.46 10.196-0.57 2.868-10.45-13.125 2.56 0.061z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m280.22 43.201l4.17 5.284-0.37 2.235-6.37-7.58 2.57 0.061z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m273.16 48.698l7.98 9.71-2.42-0.003-4.57-5.732-0.99-3.975z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m274.41 22.216v20.875h0.21v-20.875h-0.21z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m282.81 16.185v26.906h0.22v-26.906h-0.22z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m277.09 58.652h2.25v4.262c2.99 0.136 4.16 3.308 4.13 4.948-0.05 3.038-2.45 4.678-5.25 4.678-3.24 0-5.08-2.978-6.03-6.613 0.68-0.214 1.46-0.118 1.66 0.294 0.95 2.063 2.38 3.125 4.15 3.218 0.8-0.067 2.08-0.26 2.1-1.836 0.02-1.503-0.32-2.743-3.01-2.71v-6.241z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m280.09 70.841l-0.18 0.125 25.71 39.094 0.19-0.12-25.72-39.099z"
+    />
+    <path
+        style="fill:#2c2c2b"
+        d="m276.81 70.841l-27.69 39.099 0.19 0.12 27.66-39.094-0.16-0.125z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m149.84 150.11c5.65 6.48 4.01 6.85 3.28 7.93-0.74 1.08-1.12 1.82-8.98-2.29l5.7-5.64z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ed801f"
+        d="m138.28 175.83c2.05-5.44 3.77-4.96 5.49-5.03 1.72-0.06 2.81-0.31 5 5.05-3.5-0.01-6.99-0.01-10.49-0.02z"
+    />
+    <path
+        style="stroke:#2c2c2b;stroke-width:.17282;fill:#ce6c2a"
+        d="m148.04 157.49l2.61 1.12-5.08 12.32-3.29 0.1 5.76-13.54z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >crane</dc:title
+        >
+        <dc:date
+          >2009-07-09T17:39:27</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/27101/crane-by-maxim2</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >maxim2</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >car</rdf:li
+            >
+            <rdf:li
+              >crane</rdf:li
+            >
+            <rdf:li
+              >sk1</rdf:li
+            >
+            <rdf:li
+              >transportation</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

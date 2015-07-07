@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" id="filter3922">
+<feGaussianBlur stdDeviation=".91184"/>
+</filter>
+<filter width="1.296" x="-.148" y="-.344" height="1.687" color-interpolation-filters="sRGB" id="filter3944">
+<feGaussianBlur stdDeviation=".81595"/>
+</filter>
+<radialGradient cx="24.116" cy="48.187" gradientTransform="matrix(-2.3272 -.98953 .18694 -.43965 71.231 91.426)" id="radialGradient3942" r="7.231" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0e232e"/>
+<stop offset="1" stop-color="#0e232e" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="81.397" cy=".579" gradientTransform="matrix(13.623 -1.7095 .78452 6.7372 -868.78 346.34)" id="radialGradient4040" r="32.202" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#19aeff"/>
+<stop offset="1" stop-color="#005c94"/>
+</radialGradient>
+</defs>
+<path fill="url(#radialGradient4040)" d="m31.837,10.73 584.76-.2727-4.822,435.99-342.3,1.0033s-51.144,1.7957-67.496-14.066c-5.0025-4.8522-10.516-9.3226-15.669-14.064-52.56-48.35-155.49-146.67-155.49-146.67z"/>
+<path fill="#ccc" d="m32.032,272.65c28.693,48.484 211.4,64.065 233.83,83.381-22.863,6.4548-59.213,52.332-60.265,82.377l-175.97-166.76z"/>
+<g stroke="#000" stroke-width=".1">
+<path fill="#0e232e" filter="url(#filter3922)" d="m.6625,35.379 18.552,22.116 34.946-.7107-29.644-.265-2.3851-.0603z" transform="matrix(8.9762 0 0 7.9907 29.444 -6.1233)"/>
+<path opacity=".366" fill="url(#radialGradient3942)" filter="url(#filter3944)" d="m23.718,47.569c-3.5084-2.0043-6.5866-4.3837-11.13-5.6977l13.251,3.5776z" transform="matrix(9.0961 0 0 7.5815 29.621 7.4412)"/>
+</g>
+</svg>

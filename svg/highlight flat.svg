@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 64 64"
+    version="1.1"
+  >
+  <g
+      id="g3914"
+    >
+    <path
+        id="path3872"
+        fill-opacity=".19608"
+        d="m40 1c2 0 3 1 3 3v43l-7 11h-1v3l-4 2h13l6-9 5-6.875v-43.094c0-2.0225-1-3.031-3-3.031h-12z"
+    />
+    <path
+        id="rect3842"
+        d="m43 16h-20v29h20v-29z"
+        fill="#fec413"
+    />
+    <path
+        id="rect3844"
+        d="m40 1h-14.073c-1.951 0-2.927 0.992-2.927 2.954v12.046h20v-12c0-2-1-3-3-3z"
+        fill="#404040"
+    />
+    <path
+        id="path3848"
+        fill="#404040"
+        d="m43 45h-20v2l7 11h6l7-11v-2z"
+    />
+    <path
+        id="path3850"
+        d="m35 58v2l-4 2v-4h4z"
+        fill="#fec413"
+    />
+    <path
+        id="path3911"
+        fill="#ff8821"
+        d="m31 62v1l4-2v-1l-4 2z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >marker</dc:title
+        >
+        <dc:date
+          >2013-09-02T11:29:34</dc:date
+        >
+        <dc:description
+          >yellow marker</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/182835/marker-by-crisg-182835</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >crisg</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >evidenziatore</rdf:li
+            >
+            <rdf:li
+              >felt pen</rdf:li
+            >
+            <rdf:li
+              >highlighter-marker</rdf:li
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >marker</rdf:li
+            >
+            <rdf:li
+              >marker pen</rdf:li
+            >
+            <rdf:li
+              >object</rdf:li
+            >
+            <rdf:li
+              >office</rdf:li
+            >
+            <rdf:li
+              >yellow board pen</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

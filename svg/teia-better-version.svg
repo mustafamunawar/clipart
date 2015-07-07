@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    version="1.1"
+    viewBox="0 0 550.92 551.09"
+  >
+  <g
+      transform="translate(-79.448 -67.781)"
+    >
+    <g
+        id="webstrip"
+        stroke-width=".88583"
+        stroke="#000000"
+        fill="none"
+        transform="translate(88.583 -177.18)"
+      >
+      <path
+          d="m531.5 520.87h-265.75s265.75-70.866 265.75-70.866"
+      />
+      <path
+          d="m351.86 497.85c-6.364 5.552-5.4801 18.175 2.6517 23.02"
+      />
+      <path
+          d="m383.68 489.36c-9.0029 5.552-8.8575 26.66 3.182 31.505"
+      />
+      <path
+          d="m314.4 507.69c-4.669 6.1511-3.3081 9.5755 2.8695 13.183"
+      />
+      <path
+          d="m414.9 480.94c-13.388 6.6611-9.9532 35.916 3.7874 39.875"
+      />
+      <path
+          d="m446.05 472.73c-13.582 7.7675-10.953 46.21 6.7249 48.125"
+      />
+      <path
+          d="m482.19 463.15c-16.878 11.063-14.233 48.641 6.3111 57.714"
+      />
+      <path
+          d="m517.82 453.61c-18.258 13.133-12.775 60.664 9.4276 67.248"
+      />
+    </g
+    >
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.96593 .25882 -.25882 .96593 101.59 -80.298)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.86602 .5 -.5 .86602 219.88 -131.55)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.70711 .70711 -.70711 .70711 347.37 -150.32)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.5 .86602 -.86602 .5 475.37 -135.45)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.25882 .96593 -.96593 .25882 595.17 -87.953)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(0 1 -1 0 698.59 -11.073)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.25882 .96593 -.96593 -.25882 778.58 90.085)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.5 .86602 -.86602 -.5 829.83 208.37)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.70711 .70711 -.70711 -.70711 848.6 335.86)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.86602 .5 -.5 -.86602 833.73 463.87)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.96593 .25882 -.25882 -.96593 786.24 583.66)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-1 -8.8525e-8 8.8525e-8 -1 709.26 686.95)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.96593 -.25882 .25882 -.96593 608.23 766.95)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.86602 -.5 .5 -.86602 489.94 818.2)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.70711 -.70711 .70711 -.70711 362.45 836.97)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.5 -.86602 .86602 -.5 234.45 822.09)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(-.25882 -.96593 .96593 -.25882 114.65 774.6)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(0 -1 1 0 11.225 697.72)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.25882 -.96593 .96593 .25882 -68.782 596.56)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.5 -.86602 .86602 .5 -120.04 478.27)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.70711 -.70711 .70711 .70711 -138.8 350.78)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.86602 -.5 .5 .86602 -123.93 222.78)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+    <use
+        xlink:href="#webstrip"
+        transform="matrix(.96593 -.25882 .25882 .96593 -76.437 102.99)"
+        height="1052.3622"
+        width="744.09448"
+        y="0"
+        x="0"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

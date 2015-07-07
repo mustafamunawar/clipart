@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780.16 654.92" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient6349">
+<stop offset="0" stop-color="#ff0"/>
+<stop offset="1" stop-color="#ff0" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(120.75 18.474)" id="linearGradient1893" y1="545.16" y2="186.79" x1="141.38" gradientUnits="userSpaceOnUse" x2="1194.1">
+<stop offset="0" stop-color="#22630f"/>
+<stop offset="1" stop-color="#22630f" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.0319 0 0 .87964 61.046 66.837)" id="linearGradient1895" xlink:href="#linearGradient6349" x1="354.29" gradientUnits="userSpaceOnUse" x2="517.62"/>
+<linearGradient gradientTransform="matrix(.27757 0 0 .87964 328.31 66.837)" id="linearGradient1897" xlink:href="#linearGradient6349" x1="221.51" gradientUnits="userSpaceOnUse" x2="560.11"/>
+<linearGradient gradientTransform="matrix(-1.0319 0 0 .87964 795.69 68.093)" id="linearGradient1899" xlink:href="#linearGradient6349" x1="530" gradientUnits="userSpaceOnUse" x2="170.47"/>
+</defs>
+<g transform="matrix(1.9994 0 0 2.2178 -286.65 -1128.46)">
+<path stroke-opacity=".993" fill="url(#linearGradient1893)" stroke="#080305" d="m665.71,446.65a285.71,165.71 0 1,1 -571.42,0 285.71,165.71 0 1,1 571.42,0z" transform="matrix(.68142 0 0 .88014 79.529 263.98)"/>
+</g>
+<g fill-rule="evenodd" transform="matrix(1.9994 0 0 2.2178 -286.65 -1128.46)">
+<path opacity=".38" fill="url(#linearGradient1895)" d="m345.84,508.81c260.26,100.01 141.84,257.99-1.47,292.8 19.05-16.47 205.32-136.17 1.47-292.8z"/>
+<path opacity=".38" fill="url(#linearGradient1897)" d="m344.76,508.81c70.01,100.01 38.15,257.99-.39,292.8 .05-16.73-55.04-141.87 .39-292.8z"/>
+<path opacity=".38" fill="url(#linearGradient1899)" d="m346.33,510.07c-260.26,100.01-141.84,257.98 1.48,292.79-19.06-16.46-205.32-136.16-1.48-292.79z"/>
+<path opacity=".413" fill="#ff0" d="m347.32,511.32c-279.12,3.36-258.98,289.45-1.48,292.8-236.86-3.35-259.95-289.44 1.48-292.8z"/>
+</g>
+</svg>

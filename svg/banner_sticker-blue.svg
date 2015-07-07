@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 286.962 286.963" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 286.962 286.963">
+<defs>
+<linearGradient id="XMLID_3_" x1="14.436" gradientUnits="userSpaceOnUse" x2="272.53">
+<stop offset="0" stop-color="#5cc1da"/>
+<stop offset=".5" stop-color="#0aa1c6"/>
+<stop offset="1" stop-color="#0481b7"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-1 0 0 -1 -2741.8 -745.18)" id="XMLID_4_" y1="-918.3" x1="-2921" y2="-963.11" gradientUnits="userSpaceOnUse" x2="-2958.6">
+<stop offset=".517" stop-color="#fff"/>
+<stop offset=".807" stop-color="#e0e0e0"/>
+<stop offset="1" stop-color="#d0d0d0"/>
+</linearGradient>
+</defs>
+<switch>
+<g>
+<path fill="#e0e0e0" d="m143.48,0c-79.113,0-143.48,64.363-143.48,143.48 0,76.001 59.396,138.38 134.2,143.18l152.45-152.46c-4.8-74.804-67.17-134.2-143.17-134.2z"/>
+<path fill="url(#XMLID_3_)" d="m272.53,143.48c0-71.268-57.777-129.04-129.05-129.04-71.27,0-129.04,57.777-129.04,129.04 0,71.276 57.773,129.05 129.04,129.05 1.874,0 3.738-.049 5.596-.126l123.32-123.33c.08-1.85 .13-3.72 .13-5.59z"/>
+<path fill="url(#XMLID_4_)" d="m286.96,134.51c-3.072-.197-6.161-.309-9.279-.309-79.115,0-143.48,64.369-143.48,143.48 0,3.117 .108,6.214 .305,9.282l152.46-152.45z"/>
+</g>
+</switch>
+</svg>

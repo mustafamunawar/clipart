@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="svg7515" sodipodi:docname="Neues Dokument 13" viewBox="0 0 52.795 51.818" version="1.1" inkscape:version="0.48.5 r10040">
+  <title id="title7538">decimal system block representation 1</title>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="435" fit-margin-left="0" pagecolor="#ffffff" fit-margin-top="0" inkscape:window-maximized="0" inkscape:zoom="0.35" inkscape:window-x="1216" inkscape:window-height="701" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="-940.74521" inkscape:cy="71.623524" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="998" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="layer1" inkscape:label="Ebene 1" inkscape:groupmode="layer" transform="translate(-442.17 -552.17)">
+    <g id="g3925" transform="translate(318.16 224.85)">
+      <path id="path3835" d="m175.35 327.81-17.114 16.935 0.25254 33.588 16.92-16.726z" sodipodi:nodetypes="ccccc" style="stroke-linejoin:bevel;stroke:#61aa00;stroke-width:.99921;fill:#f1f1f1" inkscape:connector-curvature="0"/>
+      <path id="rect2985-3" d="m125.17 343.88 15.945-15.589h33.662l-15.59 15.589" sodipodi:nodetypes="cccc" style="color:#000000;stroke:#000000;stroke-linecap:square;stroke-width:1.7717;fill:#ffffff" inkscape:connector-curvature="0"/>
+      <path id="rect2985" style="color:#000000;stroke:#000000;stroke-linecap:round;stroke-width:1.7717;fill:#ffffff" inkscape:connector-curvature="0" d="m124.9 344.59h33.661v33.661h-33.661z"/>
+      <path id="rect2985-5" d="m175.93 328.46v33.13l-16.299 16.299" sodipodi:nodetypes="ccc" style="color:#000000;stroke:#000000;stroke-linecap:square;stroke-width:1.7717;fill:none" inkscape:connector-curvature="0"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

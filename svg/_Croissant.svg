@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 578.1 332.42" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="scale(1.1419 .87573)" id="linearGradient2413" xlink:href="#linearGradient859" x1="150.67" gradientUnits="userSpaceOnUse" x2="263.04"/>
+<linearGradient gradientTransform="scale(1.4346 .69705)" id="linearGradient2419" xlink:href="#linearGradient859" x1="183.97" gradientUnits="userSpaceOnUse" x2="267.96"/>
+<linearGradient id="linearGradient859">
+<stop offset="0" stop-color="#592500"/>
+<stop offset="1" stop-color="#ffc700"/>
+</linearGradient>
+<linearGradient gradientTransform="scale(1.0949 .91332)" id="linearGradient2415" xlink:href="#linearGradient859" x1="157.9" gradientUnits="userSpaceOnUse" x2="276.62"/>
+<linearGradient gradientTransform="scale(1.1594 .8625)" id="linearGradient2417" xlink:href="#linearGradient859" x1="223.31" gradientUnits="userSpaceOnUse" x2="344.03"/>
+<radialGradient cx="228.32" cy="334.97" gradientTransform="scale(1.3739 .72786)" id="radialGradient2407" xlink:href="#linearGradient859" r="471.84" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="212.56" cy="339.63" gradientTransform="scale(1.5062 .66394)" id="radialGradient2409" xlink:href="#linearGradient859" r="396.37" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="259.11" cy="296.77" gradientTransform="scale(1.3789 .72523)" id="radialGradient2411" xlink:href="#linearGradient859" r="280.21" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g fill-rule="evenodd" transform="translate(-132.28 -200.91)">
+<path fill="url(#radialGradient2407)" d="m710.38,432.52c0,119.93-127.54-48.32-247.12-44.98-191.73-10.03-271.27,180.06-323.22,140.31-28.86-19.7 13.17-307.36 291.47-300.67 165.76,0 277.82,85.17 278.87,205.34z"/>
+<path fill="url(#radialGradient2409)" d="m676.81,332.41c-61.32-76.26-186.11,12.66-134.2,72.05-9.76,6.79-29.1,7.3-121.2,1.45-60.04-4.17-118.21,44.58-134.18,31.96 33.92-66.39-60.35-127.43-119.05-67.04 0-56.27 84.92-140.31 224.37-153.68 173.76-12.48 290.03,55.65 284.26,115.26z"/>
+<path fill="url(#radialGradient2411)" d="m572.92,235.53c-91.63,3.77-97.71,128.62-149.34,131.96-66.06,0-34.63-159.93-167.38-108.58 51.94-70.58 101.35-52.07 116.87-52.61 25.73-.88 130.59-22.99 199.85,29.23z"/>
+<path fill="url(#linearGradient2413)" d="m287.79,437.81c57.31-76.73-98.83-134.9-115.74-69.06 36.04-67.51 165.57-7.57 115.74,69.06z"/>
+<path fill="url(#linearGradient2415)" d="m290.13,437.81c58.06-84.55-100.12-148.64-117.24-76.09 36.5-74.39 167.72-8.35 117.24,76.09z"/>
+<path fill="url(#linearGradient2417)" d="m398.87,342.74c-4.67-93.11-99.66-120.28-139.96-83.45 63.6-52.75 126.28,2.87 139.96,83.45z"/>
+<path fill="url(#linearGradient2419)" d="m384.41,289c-24.54-41.57-60.15-82.86-120.48-38.44 90.32-61.19 120.2,36.65 120.48,38.44z"/>
+</g>
+</svg>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="box.svg"
+    viewBox="0 0 356.25 392.03"
+    version="1.1"
+    inkscape:version="0.47pre4 r22446"
+  >
+  <defs
+      id="defs4"
+    >
+    <filter
+        id="filter5243"
+        height="1.2193"
+        width="1.0546"
+        color-interpolation-filters="sRGB"
+        y="-.10965"
+        x="-.027294"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur5245"
+          stdDeviation="2.6307451"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <linearGradient
+        id="linearGradient5249"
+        y2="429.6"
+        gradientUnits="userSpaceOnUse"
+        x2="568.8"
+        y1="461.93"
+        x1="401.18"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop5227"
+          style="stop-color:#000000"
+          offset="0"
+      />
+      <stop
+          id="stop5229"
+          style="stop-color:#000000;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient5428"
+        y2="222.02"
+        gradientUnits="userSpaceOnUse"
+        x2="416.69"
+        gradientTransform="matrix(.93584 0 0 .93584 92.573 8.6706)"
+        y1="223.03"
+        x1="492.95"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop5424"
+          style="stop-color:#4873bd"
+          offset="0"
+      />
+      <stop
+          id="stop5426"
+          style="stop-color:#4873bd;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient5436"
+        y2="440.17"
+        gradientUnits="userSpaceOnUse"
+        x2="408.61"
+        gradientTransform="matrix(.93584 0 0 .93584 92.573 8.6706)"
+        y1="434.11"
+        x1="495.01"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop5432"
+          style="stop-color:#6c5353"
+          offset="0"
+      />
+      <stop
+          id="stop5434"
+          style="stop-color:#6c5353;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient5697"
+        y2="472.01"
+        gradientUnits="userSpaceOnUse"
+        x2="425.85"
+        gradientTransform="matrix(.93584 0 0 .93584 88.83 8.6706)"
+        y1="442.72"
+        x1="558.43"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop5693"
+          style="stop-color:#000000"
+          offset="0"
+      />
+      <stop
+          id="stop5695"
+          style="stop-color:#000000;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="692"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.7"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="194.18878"
+      inkscape:cy="289.81666"
+      inkscape:window-width="1366"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-250.26 -100.02)"
+    >
+    <path
+        id="path3007"
+        style="fill:#6aa7d0"
+        d="m275.97 142.71 1.0027 144.64 208.86-0.94533h69.01l-0.94534-166.38-67.573-5.7138z"
+        inkscape:export-ydpi="82.674225"
+        sodipodi:nodetypes="ccccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3789"
+        style="opacity:.72463;filter:url(#filter5243);fill:url(#linearGradient5249)"
+        d="m500.03 483.65 77.78-29.3-186.88-28.28-44.45 26.26z"
+        inkscape:export-ydpi="82.674225"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        transform="matrix(1.1101 0 0 .87871 -39.048 46.573)"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3009"
+        style="fill:#e3dbdb"
+        d="m276.97 286.4 2.7787 156.93 207.98 37.814 69.955-18.907-2.836-174.89-69.01-0.47266z"
+        inkscape:export-ydpi="82.674225"
+        sodipodi:nodetypes="ccccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3011"
+        style="fill:#ac9393"
+        d="m403.89 465.87 83.007-81.457 68.898-11.984 1.8907 88.862-69.903 19.894z"
+        inkscape:export-ydpi="82.674225"
+        sodipodi:nodetypes="cccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3013"
+        style="fill:url(#linearGradient5428)"
+        d="m486.78 114.35-0.94534 172.05h69.483l-0.94533-166.85z"
+        inkscape:export-ydpi="82.674225"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3015"
+        style="fill:#b3b3b3"
+        d="m485.86 286.54 0.91668 98.569 69.955-13.626-1.4467-85.248z"
+        inkscape:export-ydpi="82.674225"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path3017"
+        style="fill:url(#linearGradient5436)"
+        d="m486.81 384.6 1.3631 96.467 69.981-18.836-1.4467-90.753z"
+        inkscape:export-ydpi="82.674225"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82.674225"
+    />
+    <path
+        id="path5442"
+        style="stroke:#000000;stroke-width:.93584px;fill:#ffffff"
+        d="m492.93 427.25v43.486l59.084-16.543-0.47267-39.232z"
+        inkscape:export-ydpi="82"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506"
+        style="stroke:#000000;stroke-width:.74632px;fill:#000000"
+        d="m494.23 428.08 1.6009-0.35574 0.16147 41.029-1.4628 0.47432z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-1"
+        style="stroke:#000000;stroke-width:.62346px;fill:#000000"
+        d="m497.36 427.43 0.76449-0.11754 0.23097 41-0.7862 0.23604z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4"
+        style="stroke:#000000;stroke-width:.67518px;fill:#000000"
+        d="m500.05 426.96 2.101-0.52705 0.13323 40.699-1.987 0.64318z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8"
+        style="stroke:#000000;stroke-width:.42630px;fill:#000000"
+        d="m503.33 426.28 0.88862-0.29689-0.007 40.735-0.78454 0.23754z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-5"
+        style="stroke:#000000;stroke-width:.42631px;fill:#000000"
+        d="m505.69 425.72 0.82954-0.29691 0.0526 40.557-0.84362 0.2969z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-2"
+        style="stroke:#000000;stroke-width:.42749px;fill:#000000"
+        d="m507.85 425.2 0.38641-0.14928 0.17076 40.484-0.19371 0.11942z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4-5"
+        style="stroke:#000000;stroke-width:.67274px;fill:#000000"
+        d="m509.85 424.84 2.101-0.43454 0.13324 40.02-1.987 0.5794z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-0"
+        style="stroke:#000000;stroke-width:.73391px;fill:#000000"
+        d="m513.63 424.14 1.6009-0.344 0.16147 39.676-1.4628 0.45868z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-1-6"
+        style="stroke:#000000;stroke-width:.61296px;fill:#000000"
+        d="m516.6 423.39 0.7645-0.1136 0.23096 39.63-0.7862 0.22815z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4-3"
+        style="stroke:#000000;stroke-width:.66421px;fill:#000000"
+        d="m518.88 423.05 2.101-0.51005 0.13323 39.387-1.987 0.62244z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-3"
+        style="stroke:#000000;stroke-width:.41951px;fill:#000000"
+        d="m522.41 422.25 0.88862-0.28752-0.007 39.447-0.78455 0.23002z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-5-2"
+        style="stroke:#000000;stroke-width:.41946px;fill:#000000"
+        d="m524.76 421.83 0.82953-0.28745 0.0526 39.266-0.84362 0.28745z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-2-4"
+        style="stroke:#000000;stroke-width:.42029px;fill:#000000"
+        d="m526.93 421.25 0.38641-0.14427 0.17076 39.133-0.19371 0.11543z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4-5-9"
+        style="stroke:#000000;stroke-width:.66132px;fill:#000000"
+        d="m528.76 420.84 2.101-0.4199 0.13324 38.672-1.987 0.55989z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-0-8"
+        style="stroke:#000000;stroke-width:.72104px;fill:#000000"
+        d="m532.63 420.12 1.6009-0.33205 0.16147 38.297-1.4628 0.44274z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-1-6-8"
+        style="stroke:#000000;stroke-width:.60220px;fill:#000000"
+        d="m535.77 419.37 0.7645-0.10967 0.23096 38.251-0.7862 0.2202z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4-3-3"
+        style="stroke:#000000;stroke-width:.65291px;fill:#000000"
+        d="m538.05 418.96 2.101-0.49286 0.13324 38.058-1.987 0.60143z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-3-8"
+        style="stroke:#000000;stroke-width:.41296px;fill:#000000"
+        d="m541.49 418.13 0.88861-0.27861-0.007 38.226-0.78454 0.2229z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-5-2-0"
+        style="stroke:#000000;stroke-width:.41309px;fill:#000000"
+        d="m543.93 417.54 0.82954-0.27878 0.0526 38.082-0.84362 0.27879z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-8-2-4-6"
+        style="stroke:#000000;stroke-width:.41425px;fill:#000000"
+        d="m545.76 417.14 0.38641-0.14017 0.17076 38.016-0.19371 0.11215z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5506-4-5-9-6"
+        style="stroke:#000000;stroke-width:.65038px;fill:#000000"
+        d="m547.83 416.81 2.101-0.40614 0.13324 37.404-1.987 0.54151z"
+        inkscape:export-ydpi="82"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+    <path
+        id="path5442-1"
+        style="fill:url(#linearGradient5697)"
+        d="m492.45 426.77v43.486l59.084-16.543-0.47268-39.232z"
+        inkscape:export-ydpi="82"
+        inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="82"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >software box 1</dc:title
+        >
+        <dc:date
+          >2010-06-17T03:15:14</dc:date
+        >
+        <dc:description
+          >Software Box</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/67357/software-box-1-by-relsi</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >relsi</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >box</rdf:li
+            >
+            <rdf:li
+              >software</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

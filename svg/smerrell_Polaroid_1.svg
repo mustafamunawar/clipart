@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 380">
+<defs>
+<filter id="filter2912">
+<feGaussianBlur stdDeviation="3.47824"/>
+</filter>
+</defs>
+<g transform="translate(-413.06 -322.28)">
+<path filter="url(#filter2912)" d="m422.97,331.66h330.18v365.46s-82.55-7.17-165.09-7.17c-82.55,0-165.09,7.17-165.09,7.17v-365.46z"/>
+<path fill="#f2f2f2" d="m422.97,327.43h330.18v362.18h-330.18z"/>
+<path opacity=".556" fill="#ccc" d="m434.8,337.58h306.51v308.62h-306.51z"/>
+<path stroke="#000" stroke-linejoin="round" stroke-width=".782" d="m437.89,340.52h300.34v300.34h-300.34z"/>
+</g>
+</svg>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg8154"
+    sodipodi:docname="New document 34"
+    viewBox="0 0 982.09 594.53"
+    version="1.1"
+    inkscape:version="0.48.4 r9939"
+  >
+  <sodipodi:namedview
+      id="namedview8158"
+      fit-margin-left="0"
+      inkscape:zoom="0.43415836"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="109.24391"
+      inkscape:cy="330.19038"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      units="mm"
+      inkscape:document-units="mm"
+      bordercolor="#666666"
+      inkscape:window-x="-8"
+      inkscape:window-y="-8"
+      fit-margin-bottom="0"
+      inkscape:window-width="1680"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:window-height="988"
+      fit-margin-top="0"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-21.44 -99.756)"
+    >
+    <g
+        id="g8103"
+        style="fill:#000000"
+        transform="matrix(2.1602 0 0 2.1602 -318.12 -822.19)"
+      >
+      <path
+          id="path471"
+          d="m236.22 524.08c-4.9403-0.20295-10.206-0.20295-14.7 0-4.4959 0.12075-8.7888 0.89147-11.622 1.2152-5.4304 0.38377-8.6016 0.32179-13.364 0.32241-1.6609-0.0398-3.4824-0.0398-5.467 0-0.16185-1.3372-0.56648-2.5922-1.5389-3.7675-1.0122-1.3359-2.4303-2.6731-4.0899-3.4002-1.6596-0.81054-3.6044-0.85036-5.8318-1.0533-2.2274-0.32371-4.7386-0.48556-7.5325-0.48556-2.3771-0.0952-2.5572 0.025-2.7129-2.4303 0.0398-1.1741-0.0809-2.0244-0.52665-2.7129-0.52666-0.72833-1.0533-1.1342-2.0655-1.377-2.9346 0.01-8.9634-0.85023-9.2345 1.9037-0.3648 0.77072-0.3648-3.7662-0.3237 3.2396-0.0411 7.169-0.0411 31.427 0.16185 38.717-0.0437 3.7779 0.14907 3.5184 2.0642 5.3013 2.9292 0.004 4.9259 0.18654 7.5325-0.15414 0.97239-0.29545 1.499-0.69365 2.0257-1.3744 0.3237-0.69365 0.64741-1.6699 0.52666-2.7617 0.18372-2.4249 0.28994-2.6629 2.7129-2.3892 2.7939-0.12075 5.3051-0.24149 7.5325-0.52538 2.2274-0.3648 4.1709-0.28388 5.8318-1.0135 1.6596-0.85036 3.0777-2.185 4.0912-3.4002 0.97111-1.2152 1.377-2.4702 1.5389-3.7675 2.0655-0.0411 3.8472-0.0411 5.5068 0 1.6211-0.0809 3.0379-0.0809 4.2531 0.16185 1.1342 0.24277 1.8228 0.80925 2.3892 1.5389l1.7405-1.8638c0.48555 0 2.1876 0.16185 4.9416 0.48555 2.835 0.20296 7.1279 0.97239 11.622 1.2152 4.4959 0.0809 9.7599 0.0809 14.701 0 27.606-11.213 29.788-21.027-0.16314-21.624z"
+          sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path37"
+          d="m408.1 513.98c3.6401 2.0244 7.4669 3.0777 11.315 3.0777 3.8268 0 7.6536-1.0533 11.294-3.0777v184.96c-3.6401 2.0167-7.4669 3.07-11.294 3.07-3.8483 0-7.6752-1.0533-11.315-3.07v-184.96z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon455"
+          style="fill-rule:evenodd;fill:#000000"
+          points="248.35 117.81 110.54 117.81 110.54 102.62 248.35 102.62"
+          transform="matrix(1.3003 0 0 1.2845 155.42 426.77)"
+      />
+      <path
+          id="path15"
+          sodipodi:nodetypes="ccccccccccccccsccccccccscccc"
+          d="m273.64 497.96c7.8164-1.499 22.713-3.1188 45.436-4.8607 22.878-1.7816 64.959-3.6044 90.187-5.589 25.113-2.0257 38.883-3.6866 59.422-6.3173 20.527-2.632 45.472-5.5094 62.608-9.3154 17.046-3.8472 29.364-8.9506 38.998-13.486 9.5954-4.4959 15.517-8.9095 18.138-13.444-0.11561-3.8883 0.37251-7.2499 1.5414-10.206 1.1304-2.957 3.1214-6.8029 5.3436-7.4118 2.2736-0.56648 5.6776-1.8638 8.1054 3.8883 2.4278 5.8318 5.0996 22.436 6.3584 30.576 1.2588 8.1003 0.69365 9.476 1.0148 17.657 0.35967 8.2621 0.92487 19.885 1.0148 31.307 0.0771 11.461-0.24406 26.364-0.48812 36.69-0.24406 10.243 0.2826 16.319-1.0148 24.54s-4.0077 19.846-6.7181 24.38c-2.7232 4.4188-7.1291 3.237-9.4413 2.1837-2.2736-1.1304-3.2756-5.9088-4.1747-8.7477-0.92486-2.8774-1.3744-5.5492-1.3744-8.2595-7.7714-8.2981-21.632-15.748-42.325-22.762-20.809-7.0033-52.075-15.549-81.08-18.87-29.069-3.2807-59.281-0.12203-91.561-0.68851-32.396-0.60758-80.347-2.8748-100.68-2.7951-35.194 0.12203-53.336 32.437-53.336 61.39 0 31.15 27.165 64.211 58.026 68.27v23.16c-61.923 0.28259-87.953-51.944-87.953-99.651-0.003-47.657 32.599-85.362 83.952-91.638z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon453"
+          style="fill-rule:evenodd;fill:#000000"
+          points="109.69 203.79 109.69 188.59 240.31 188.59 240.31 203.79"
+          transform="matrix(1.2929 0 0 1.3132 156.25 420.93)"
+      />
+      <polygon
+          id="polygon39"
+          style="fill-rule:evenodd;fill:#000000"
+          points="209.1 38.52 209.1 57.122 200.87 57.122 200.87 38.52"
+          transform="matrix(1.2845 0 0 1.2845 157.16 426.77)"
+      />
+      <path
+          id="path41"
+          d="m406.35 476.94c4.8298 1.1754 9.3257 1.7007 14.348 1.7007 4.9711 0 9.467-0.52666 14.284-1.7007v-9.5171c-4.817 1.133-9.3128 1.7007-14.284 1.7007-5.0225 0-9.5184-0.56648-14.348-1.7007v9.5171z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon175"
+          style="fill-rule:evenodd;fill:#000000"
+          points="172.49 38.52 172.49 57.122 164.3 57.122 164.3 38.52"
+          transform="matrix(1.2845 0 0 1.2845 157.16 426.77)"
+      />
+      <path
+          id="path177"
+          d="m359.34 476.94c4.8555 1.1754 9.3514 1.7007 14.335 1.7007 4.984 0 9.4798-0.52666 14.335-1.7007v-9.5171c-4.8555 1.133-9.3514 1.7007-14.335 1.7007-4.984 0-9.4798-0.56648-14.335-1.7007v9.5171z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon311"
+          style="fill-rule:evenodd;fill:#000000"
+          points="135.92 38.52 135.92 57.122 127.69 57.122 127.69 38.52"
+          transform="matrix(1.2845 0 0 1.2845 157.16 426.77)"
+      />
+      <path
+          id="path313"
+          d="m312.36 476.94c4.8555 1.1754 9.3514 1.7007 14.335 1.7007 4.984 0 9.4798-0.52666 14.335-1.7007v-9.5171c-4.8555 1.133-9.3514 1.7007-14.335 1.7007-4.984 0-9.4798-0.56648-14.335-1.7007v9.5171z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path457"
+          sodipodi:nodetypes="ccccccc"
+          d="m300.26 558.56c-50.785-0.0771-65.668 36.711-65.629 64.174-0.0398 45.267 21.506 65.845 66.134 65.807l-0.16185-19.319c-34.099 0-46.086-20.296-46.086-45.28 0.0398-30.328 16.049-45.225 45.653-45.867z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon465"
+          style="fill-rule:evenodd;fill:#000000"
+          points="92.223 204.2 92.223 188.18 110.76 188.18 110.76 204.2"
+          transform="matrix(2.3233 0 0 1.2845 61.342 426.93)"
+      />
+      <path
+          id="path483"
+          d="m465.85 519.64c64.034-0.20923 77.595 39.129 77.595 84.21 0 45.042-19.229 84.034-77.547 84.447l0.21757-19.712c53.462 0 55.39-32.38 56.071-65.028 0.80925-39.871-9.1939-63.666-56.336-63.707z"
+          sodipodi:nodetypes="csccccc"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path499"
+          d="m476.18 558.59 1.7341-0.0514c33.655-0.0385 43.494 19.486 43.494 43.456 0 24.021-19.474 43.507-43.494 43.507l-1.7341-0.0514v-19.512c19.962-0.24406 23.327-11.342 23.327-24.38 0-13.089-4.5344-23.571-23.327-23.456v-19.512z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path8074"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m362.1 513.98c3.6401 2.0244 7.4669 3.0777 11.315 3.0777 3.8268 0 7.6536-1.0533 11.294-3.0777v184.96c-3.6401 2.0167-7.4669 3.07-11.294 3.07-3.8483 0-7.6752-1.0533-11.315-3.07v-184.96z"
+      />
+      <path
+          id="path8076"
+          d="m314.1 513.98c3.6401 2.0244 7.4669 3.0777 11.315 3.0777 3.8268 0 7.6536-1.0533 11.294-3.0777v184.96c-3.6401 2.0167-7.4669 3.07-11.294 3.07-3.8483 0-7.6752-1.0533-11.315-3.07v-184.96z"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <polygon
+          id="polygon8078"
+          style="fill-rule:evenodd;fill:#000000"
+          points="248.35 102.62 248.35 117.81 110.54 117.81 110.54 102.62"
+          transform="matrix(1.3414 0 0 1.2845 144.15 494.15)"
+      />
+      <path
+          id="path8080"
+          sodipodi:nodetypes="ccscccsccc"
+          style="fill-rule:evenodd;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m293.95 558.84-0.96489 2.4102c-33.655-0.0384-44.263 16.99-44.263 40.917 0 23.978 19.474 43.43 43.494 43.43l1.7341-0.0513v-19.478c-19.962-0.24364-23.327-11.322-23.327-24.337 0-13.066 4.5344-23.529 23.327-23.414l2.6154-17.016z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

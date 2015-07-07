@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    style="fill-rule:evenodd;text-rendering:geometricPrecision;image-rendering:optimizeQuality;clip-rule:evenodd;shape-rendering:geometricPrecision"
+    xml:space="preserve"
+    viewBox="0 0 7.16502 7.42554"
+  >
+ <defs
+    >
+  <style
+        type="text/css"
+      >
+    .str1 {stroke:#0093DD;stroke-width:0.0379732}
+    .str3 {stroke:#1F1A17;stroke-width:0.0379732}
+    .str0 {stroke:#DA251D;stroke-width:0.0379732}
+    .str2 {stroke:white;stroke-width:0.0379732}
+    .fil5 {fill:none}
+    .fil1 {fill:#0093DD}
+    .fil0 {fill:#DA251D}
+    .fil2 {fill:#0093DD;fill-rule:nonzero}
+    .fil4 {fill:#1F1A17;fill-rule:nonzero}
+    .fil3 {fill:white;fill-rule:nonzero}
+  </style
+    >
+ </defs
+  >
+ <g
+      id="Ebene_x0020_1"
+    >
+  <g
+        id="_161099576"
+      >
+   <path
+          id="_161099888"
+          d="m6.5572 0.42433c0.4889 0.4579 0.61554 1.1244 0.28144 1.4811l-0.73427 0.78398-1.7778-1.6651 0.73425-0.78398c0.33413-0.35674 1.0075-0.27398 1.4964 0.18392z"
+          class="fil0 str0"
+      />
+   <rect
+          id="_161099816"
+          height="1.9628"
+          width="1.7773"
+          transform="matrix(1.0003 .93683 -1.2672 1.353 4.1408 1.2226)"
+          class="fil1 str0"
+      />
+   <path
+          id="_161099744"
+          d="m1.4234 6.7966l-0.88891-0.83254 1.0558-2.018 1.7778 1.665-1.9447 1.1855zm-0.44446-0.41626m0.083427-1.4253m1.4168-0.1765m-0.083408 1.4253"
+          class="fil2 str1"
+      />
+   <path
+          id="_161099672"
+          d="m1.4067 6.4399l-0.51518-0.48251 0.8398-1.413 1.0304 0.96503-1.355 0.93044zm-0.25759-0.24124m0.16232-0.94773m0.93507-0.22397m-0.1623 0.94773"
+          class="fil3 str2"
+      />
+   <path
+          id="_161099600"
+          d="m0.032714 7.3906l0.51171-1.418 0.86981 0.81466-1.3815 0.60337zm0.25584-0.70902m0.69077-0.3017m-0.25586 0.70902"
+          class="fil4 str3"
+      />
+  </g
+    >
+  <line
+        y1="5.2167"
+        x2="7.0972"
+        x1="7.1466"
+        y2="5.4146"
+        class="fil5 str3"
+    />
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Pencil</dc:title
+        ><dc:date
+          >2012-02-20T07:47:00</dc:date
+        ><dc:description
+        /><dc:source
+          >https://openclipart.org/detail/168414/pencil-by-zorro</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >zorro</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >Pen Bleistift Stift</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

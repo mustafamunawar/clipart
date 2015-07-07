@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg8761"
+    sodipodi:docname="New document 8"
+    viewBox="0 0 486.41 602.05"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <title
+      id="title8802"
+    >book</title
+  >
+  <defs
+      id="defs8763"
+    >
+    <linearGradient
+        id="linearGradient3417"
+        y2="838.08"
+        gradientUnits="userSpaceOnUse"
+        x2="1059.4"
+        y1="838.08"
+        x1="1018.6"
+      >
+      <stop
+          id="stop3403"
+          style="stop-color:#b3b3b3"
+          offset="0"
+      />
+      <stop
+          id="stop3405"
+          style="stop-color:#ffffff"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="706"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.34794922"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="538.42383"
+      inkscape:cy="246.13609"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-76.893 -143.72)"
+    >
+    <g
+        id="g4486"
+        inkscape:export-ydpi="90"
+        inkscape:export-xdpi="90"
+        inkscape:export-filename="C:\Documents and Settings\sheikht\Desktop\Website Improvement\head-publications.png"
+        transform="matrix(1.6723 0 0 1.6723 -215.05 -111.08)"
+      >
+      <g
+          id="g3409"
+          transform="translate(-606 -458.57)"
+        >
+        <path
+            id="rect3372"
+            style="fill:#000000"
+            d="m823.32 630.93 248.11-20v360l-248.11-20v-320z"
+        />
+        <path
+            id="rect3374"
+            style="fill:url(#linearGradient3417)"
+            d="m1016.9 619.5h42.572v342.86h-42.572v-342.86z"
+        />
+        <g
+            id="g3396"
+          >
+          <path
+              id="rect3377-2"
+              style="fill:#c87137"
+              d="m780.57 630.93 248.11-20v360l-248.11-20v-320z"
+          />
+          <path
+              id="rect3379"
+              style="fill:#000000"
+              d="m780.57 905.22 248.11 10v55.714l-248.11-20v-45.714z"
+          />
+          <path
+              id="rect3381"
+              style="fill:#000000"
+              d="m780.57 630.93 248.11-20v112.86l-248.11 4v-96.857z"
+          />
+        </g
+        >
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >A Book</dc:title
+        >
+        <dc:date
+          >2010-04-19T17:19:56</dc:date
+        >
+        <dc:description
+          >A Book</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/48955/a-book-by-sheikh_tuhin</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >sheikh_tuhin</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >book</rdf:li
+            >
+            <rdf:li
+              >education</rdf:li
+            >
+            <rdf:li
+              >study</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter id="filter3881">
+<feGaussianBlur stdDeviation=".77502"/>
+</filter>
+<filter id="filter3971">
+<feGaussianBlur stdDeviation="1.44902"/>
+</filter>
+<linearGradient gradientTransform="translate(2.1429 .71429)" id="linearGradient3983-997-724-991" y1="203.86" y2="177.52" x1="171.43" gradientUnits="userSpaceOnUse" x2="199.41">
+<stop offset="0" stop-color="#1c3e47"/>
+<stop offset=".428" stop-color="#88aeb9"/>
+<stop offset=".585" stop-color="#b9d0d6"/>
+<stop offset=".745" stop-color="#88aeb9"/>
+<stop offset="1" stop-color="#2d5059"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(2.1429 .71429)" id="linearGradient4429" y1="151.45" y2="135.29" x1="132.33" gradientUnits="userSpaceOnUse" x2="149.56">
+<stop offset="0" stop-color="#999"/>
+<stop offset=".555" stop-color="#f2f2f2"/>
+<stop offset="1" stop-color="#b3b3b3"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(2.1429 .71429)" id="linearGradient4439" y1="132.79" y2="110.64" x1="38.214" gradientUnits="userSpaceOnUse" x2="62.749">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-82.69 -1.3263)" id="linearGradient4441" y1="37.357" y2="97.025" x1="217.86" gradientUnits="userSpaceOnUse" x2="125.64">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="168.98" cy="84.004" gradientTransform="matrix(3.5098 -.30766 .30795 3.5131 -437.61 -122.81)" id="radialGradient4443" r="63.571" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#dcdcf7" stop-opacity=".4"/>
+<stop offset="1" stop-color="#dcdcf7"/>
+</radialGradient>
+<radialGradient cx="123.17" cy="7.966" gradientTransform="matrix(-1.5376 -2.6632 2.6658 -1.5391 315.77 494.99)" id="radialGradient4445" r="77.5" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1" stop-color="#fff"/>
+</radialGradient>
+</defs>
+<path fill="url(#linearGradient4429)" fill-rule="evenodd" d="m130.94,149.64l5.05,5.3 14.65-13.64-5.06-5.3-14.64,13.64z"/>
+<path filter="url(#filter3881)" d="m84.81,9.8299c-41.857,1.0621-75.5,35.388-75.5,77.5 .0003,42.78 34.72,77.5 77.5,77.5s77.5-34.72 77.5-77.5-34.72-77.5-77.5-77.5c-.668-.0001-1.335-.0169-2-.0001zm2,7.5001c38.64,0 70,31.36 70,70s-31.36,70-70,70-70-31.36-70-70 31.36-70 70-70z"/>
+<path fill="url(#radialGradient4445)" d="m84.81,9.8299c-41.857,1.0621-75.5,35.388-75.5,77.5 .0003,42.78 34.72,77.5 77.5,77.5s77.5-34.72 77.5-77.5-34.72-77.5-77.5-77.5c-.668-.0001-1.335-.0169-2-.0001zm2,7.5001c38.64,0 70,31.36 70,70s-31.36,70-70,70-70-31.36-70-70 31.36-70 70-70z"/>
+<path fill="url(#radialGradient4443)" d="m213.57,84.571a63.571,63.571 0 1,1 -127.14,0 63.571,63.571 0 1,1 127.14,0z" transform="matrix(1.0347 .37678 -.37678 1.0347 -36.523 -56.703)"/>
+<path fill="url(#linearGradient4441)" d="m108.76,23.555c-23.715-8.636-63.731-4.161-74.588,27.128 11.751,.698 28.368,12.213 40.276,16.549 37.772,13.756 66.882,17.84 74.682,49.678 .51-1.19 1-2.39 1.45-3.63 13.22-36.306-5.51-76.504-41.82-89.725z"/>
+<path opacity=".7" fill="url(#linearGradient4439)" d="m22.56,89.267c.479,15.443 6.552,30.213 16.907,41.533l6.937-7.44c-10.202-9.11-18.673-20.31-23.844-34.093zm25.125,35.223l-7,7.62c6.548,6.76 14.69,12.19 24.125,15.63 10.379,3.78 21.097,4.69 31.313,3.18-16.634-5.68-34.139-14.08-48.438-26.43z"/>
+<path opacity=".2" filter="url(#filter3971)" d="m84.941,14.88c-39.13,.993-70.58,33.082-70.58,72.45 0,39.99 32.457,72.45 72.45,72.45 39.989,0 72.449-32.46 72.449-72.45 0-39.992-32.46-72.45-72.449-72.45-.625,0-1.249-.016-1.87,0zm1.87,7.011c36.119,0 65.439,29.317 65.439,65.439 0,36.12-29.32,65.44-65.439,65.44-36.122,0-65.439-29.32-65.439-65.44 0-36.122 29.317-65.439 65.439-65.439z"/>
+<path fill="url(#linearGradient3983-997-724-991)" stroke="#000" fill-rule="evenodd" stroke-linejoin="bevel" d="m132.56,157.55l79.46,87.94c8.33-3.28 19.86-15.02 23.9-22.6l-81.63-86.18-21.73,20.84z"/>
+</svg>

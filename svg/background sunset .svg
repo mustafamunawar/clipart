@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744.0945 1052.3622" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.085" x="-.042" y="-.749" height="2.497" id="filter4383">
+<feGaussianBlur stdDeviation="7.13071"/>
+</filter>
+<linearGradient xlink:href="#linearGradient4043" id="linearGradient4049" y1="-42.391" x1="357.594" y2="1038.473" x2="381.838" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient4043">
+<stop offset="0" stop-color="#7f8995"/>
+<stop offset=".912" stop-color="#fbe4d4"/>
+<stop offset="1" stop-color="#feac8a"/>
+</linearGradient>
+</defs>
+<path fill="url(#linearGradient4049)" d="m-32.3249-46.6838 799.0307,.5051 1.0101,1098.5409-800.0409,0z"/>
+<g fill="#d9a693">
+<path filter="url(#filter4383)" d="m770,845.2193-130.7143,5c-65.0934-16.9794-212.263-4.065-272.1429,0 63.1791-15.1923 143.9231-9.8915 276.3957-11.0374 45.2148-.3911 89.8011-7.9946 124.3186-11.8198z"/>
+<path filter="url(#filter4383)" d="m538.6751,901.7879-130.7143,5c-65.0934-16.9794-231.4559-10.1259-286.285-19.1929 66.029-2.3921 185.5199-4.7683 284.4769,7.492 44.8734,5.5596 163.5422,5.8009 198.0597,1.9757z" transform="matrix(-1 0 0 1 674.49301 0)"/>
+</g>
+</svg>

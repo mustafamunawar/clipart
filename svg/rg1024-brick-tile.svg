@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg6525"
+    sodipodi:docname="tile_brick_tile.svg"
+    viewBox="0 0 90 90"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="662"
+      inkscape:zoom="0.35"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="350"
+      inkscape:cy="520"
+      inkscape:window-width="640"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="mm"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-305 -487.36)"
+    >
+    <g
+        id="g4956"
+        transform="translate(291.2 477.31)"
+      >
+      <rect
+          id="rect9591"
+          style="fill:#a56155"
+          transform="scale(1,-1)"
+          height="90"
+          width="90"
+          y="-100.05"
+          x="13.798"
+      />
+      <g
+          id="g3070"
+          transform="matrix(1 0 0 .92959 42.426 32.916)"
+        >
+        <path
+            id="path9605"
+            style="fill:#5f6367"
+            d="m-3.628 8.2175v-0.7297h-25v-0.7298h5v-10.194h-5v-0.7297h15v-10.216h-15v-0.73h25v-9.487h1v9.487h29v-9.487h1v9.487h29v-9.487h1v9.487h4v0.73h-14.375v10.216l14.375 0.0003v0.7297h-24.375v10.194h24.375v0.7298h-4v0.7297h-1v-0.7297h-29v0.7297h-1v-0.7297h-29v0.7297h-1zm-19-1.4595h28.625l-0.0001-10.194h-28.625v10.194zm29.625 0h29v-10.194h-29v10.194zm-19.625-10.924h28.625v-10.216h-28.625v10.216zm29.625 0h29v-10.216h-29v10.216z"
+        />
+        <path
+            id="path3066"
+            style="fill:#5f6367"
+            d="m-3.628 40.218v-0.73h-25v-0.73h5v-10.194h-5v-0.73h15v-10.216h-15v-0.73h25v-9.4872h1v9.4872h29v-9.4872h1v9.4872h29v-9.4872h1v9.4872h4v0.73h-14.375v10.216h14.375v0.73h-24.375v10.194h24.375v0.73h-4v0.73h-1v-0.73h-29v0.73h-1v-0.73h-29v0.73h-1zm-19-1.46h28.625l-0.0001-10.194h-28.625v10.194zm29.625 0h29v-10.194h-29v10.194zm-19.625-10.924h28.625v-10.216h-28.625v10.216zm29.625 0h29v-10.216h-29v10.216z"
+        />
+        <path
+            id="path3068"
+            style="fill:#5f6367"
+            d="m-3.628 72.218v-0.73h-25v-0.73h5v-10.194h-5v-0.73h15v-10.216h-15v-0.73h25v-9.487h1v9.487h29v-9.487h1v9.487h29v-9.487h1v9.487h4v0.73h-14.375v10.216h14.375v0.73h-24.375v10.194h24.375v0.73h-4v0.73h-1v-0.73h-29v0.73h-1v-0.73h-29v0.73h-1zm-19-1.46h28.625l-0.0001-10.194h-28.625v10.194zm29.625 0h29v-10.194h-29v10.194zm-19.625-10.924h28.625v-10.216h-28.625v10.216zm29.625 0h29v-10.216h-29v10.216z"
+        />
+      </g
+      >
+      <path
+          id="path3075"
+          style="fill:#a1554d"
+          d="m29.85 24.361v-4.75h14.25 14.25v4.75 4.75h-14.25-14.25v-4.75z"
+      />
+      <path
+          id="path3077"
+          style="fill:#a1554d"
+          d="m29.85 83.861v-4.75h14.25 14.25v4.75 4.75h-14.25-14.25v-4.75z"
+      />
+      <path
+          id="path3079"
+          style="fill:#a1554d"
+          d="m49.35 64.236v-4.625h14.5 14.5v4.625 4.625h-14.5-14.5v-4.625z"
+      />
+      <path
+          id="path3081"
+          style="fill:#ad7b7a"
+          d="m39.85 44.236v-4.375h14.346 14.346l0.15 0.562c0.083 0.31 0.153 2.278 0.155 4.375l0.003 3.813h-14.5-14.5v-4.375z"
+      />
+      <path
+          id="path3083"
+          style="fill:#ad7b7a"
+          d="m49.35 93.986v-4.625h14.5 14.5v4.625 4.625h-14.5-14.5v-4.625z"
+      />
+      <path
+          id="path3085"
+          style="fill:#9e6261"
+          d="m19.85 34.486v-4.625h14.25 14.25v4.625 4.625h-14.25-14.25v-4.625z"
+      />
+      <path
+          id="path3087"
+          style="fill:#9e6261"
+          d="m19.85 64.236v-4.625h14.25 14.25v4.625 4.625h-14.25-14.25v-4.625z"
+      />
+      <path
+          id="path3089"
+          style="fill:#9e6261"
+          d="m59.517 58.694c-0.092-0.092-0.167-2.229-0.167-4.75v-4.583h14.5 14.5v4.75 4.75h-14.333c-7.884 0-14.409-0.075-14.5-0.167z"
+      />
+      <path
+          id="path3091"
+          style="fill:#9e6261"
+          d="m99.85 73.986v-4.375h1.87 1.88v4.375 4.375h-1.88-1.87v-4.375z"
+      />
+      <path
+          id="path3093"
+          style="fill:#9e6261"
+          d="m13.85 73.986v-4.375h12.346 12.346l0.15 0.562c0.083 0.31 0.153 2.278 0.155 4.375l0.003 3.813h-12.5-12.5v-4.375z"
+      />
+      <path
+          id="path3095"
+          style="fill:#885854"
+          d="m13.85 44.236v-4.375h12.346 12.346l0.15 0.562c0.083 0.31 0.153 2.278 0.155 4.375l0.003 3.813h-12.5-12.5v-4.375z"
+      />
+      <path
+          id="path3097"
+          style="fill:#885854"
+          d="m99.85 44.236v-4.375h1.87 1.88v4.375 4.375h-1.88-1.87v-4.375z"
+      />
+      <path
+          id="path3099"
+          style="fill:#885854"
+          d="m79.35 93.986v-4.625h12.125 12.125v4.625 4.625h-12.125-12.125v-4.625z"
+      />
+      <path
+          id="path3101"
+          style="fill:#885854"
+          d="m13.85 93.986v-4.625h2.5 2.5v4.625 4.625h-2.5-2.5v-4.625z"
+      />
+      <path
+          id="path3103"
+          style="fill:#a15d52"
+          d="m39.85 14.486v-4.375h14.5 14.5v4.375 4.375h-14.5-14.5v-4.375z"
+      />
+      <path
+          id="path3105"
+          style="fill:#a15d52"
+          d="m39.85 73.986v-4.375h14.346 14.346l0.15 0.562c0.083 0.31 0.153 2.278 0.155 4.375l0.003 3.813h-14.5-14.5v-4.375z"
+      />
+      <path
+          id="path3107"
+          style="fill:#a15d52"
+          d="m79.35 64.236v-4.625h12.125 12.125v4.625 4.625h-12.125-12.125v-4.625z"
+      />
+      <path
+          id="path3109"
+          style="fill:#a15d52"
+          d="m13.85 64.236v-4.625h2.5 2.5v4.625 4.625h-2.5-2.5v-4.625z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >brick tile</dc:title
+        >
+        <dc:date
+          >2008-12-28T22:18:08</dc:date
+        >
+        <dc:description
+          >A vectorial brick tile, including, as example, a little structure made with it.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/20861/brick-tile-by-rg1024</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >rg1024</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >brick</rdf:li
+            >
+            <rdf:li
+              >color</rdf:li
+            >
+            <rdf:li
+              >game</rdf:li
+            >
+            <rdf:li
+              >texture</rdf:li
+            >
+            <rdf:li
+              >tile</rdf:li
+            >
+            <rdf:li
+              >tileable</rdf:li
+            >
+            <rdf:li
+              >wall</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

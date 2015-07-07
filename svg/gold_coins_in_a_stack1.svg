@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 275" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="scale(2.2605 .44238)" spreadMethod="reflect" id="linearGradient14529" x1="134.78" gradientUnits="userSpaceOnUse" x2="137.13">
+<stop offset="0" stop-color="#f3d727"/>
+<stop offset="1" stop-color="#e0b524"/>
+</linearGradient>
+<radialGradient cx="170.2" cy="1005.8" gradientTransform="scale(1.819 .54975)" id="radialGradient14530" r="2.694" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#e0b524"/>
+<stop offset="1" stop-color="#f3d727"/>
+</radialGradient>
+</defs>
+<g stroke="#000">
+<g transform="matrix(-22.182 0 0 22.182 7003.9 -12060)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+<g transform="matrix(-22.182 0 0 22.182 6990.2 -12093)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+<g transform="matrix(-22.182 0 0 22.182 6998.7 -12124)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+<g transform="matrix(-22.182 0 0 22.182 6995.9 -12155)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+<g transform="matrix(-22.182 0 0 22.182 6995.9 -12189)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+<g transform="matrix(-22.182 0 0 22.182 6990.2 -12220)">
+<path fill="url(#linearGradient14529)" fill-rule="evenodd" stroke-width=".312" d="m304.83,552.94l.04,1.56c2.25,1.25 6.65,1.35 9.47-.07l.03-1.55"/>
+<path fill="url(#radialGradient14530)" stroke-linejoin="round" stroke-width=".263" d="m314.37,552.92a4.7686,1.3496 0 1,1 -9.54,0 4.7686,1.3496 0 1,1 9.54,0z"/>
+</g>
+</g>
+</svg>

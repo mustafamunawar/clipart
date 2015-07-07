@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196.19 114.88" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient5654">
+<stop offset="0" stop-color="#efefef"/>
+<stop offset="1" stop-color="#bdbdbd"/>
+</linearGradient>
+<radialGradient cx="1089.9" cy="100.51" gradientTransform="matrix(1.25 0 0 .60176 -1017.4 486.88)" id="radialGradient5668" xlink:href="#linearGradient5654" r="55" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="1137.9" cy="108.51" gradientTransform="matrix(1.25 0 0 .60176 -1017.4 492.07)" id="radialGradient5660" xlink:href="#linearGradient5654" r="55" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="1117.9" cy="68.509" gradientTransform="matrix(1.25 0 0 .60176 -1017.4 466.14)" id="radialGradient6239" xlink:href="#linearGradient5654" r="55" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g stroke="#7d7d7d" fill-rule="evenodd" stroke-width="1.2" transform="translate(-276.91 -474.92)" stroke-miterlimit="10">
+<path fill="url(#radialGradient6239)" d="m342.5,539.04c15,0 56.524-.0391 75,0 18.477,.0391 30,2.5 30-12.5s-20-20-20-20 5-15-10-25-35,5-35,5-10-15-25-10-15,20-15,20-15-2.5-22.5,7.5-7.5,15-7.5,25 15,10 30,10"/>
+<path fill="url(#radialGradient5668)" d="m307.5,579.04c15,0 56.524-.039 75,0 18.477,.039 30,2.5 30-12.5s-20-20-20-20 5-15-10-25-35,5-35,5-10-15-25-10-15,20-15,20-15-2.5-22.5,7.5-7.5,15-7.5,25 15,10 30,10"/>
+<path fill="url(#radialGradient5660)" d="m367.5,589.04c15,0 56.524-.039 75,0 18.477,.039 30,2.5 30-12.5s-20-20-20-20 5-15-10-25-35,5-35,5-10-15-25-10-15,20-15,20-15-2.5-22.5,7.5-7.5,15-7.5,25 15,10 30,10"/>
+</g>
+</svg>

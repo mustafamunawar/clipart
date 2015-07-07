@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 420 480"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(-124.29 -209.51)"
+    >
+    <path
+        id="path2944"
+        d="m261.02 682.76c1.3867-59.756 13.941-118.4 22.443-177.38 1.5678-12.723 4.2955-25.806 3.7031-38.519-10.846-23.984-22.344-47.864-28.249-73.652-10.111-22.457-35.62-34.081-43.109-57.966 5.9021-22.273 26.858 4.4541 36.049 11.836 11.328 6.9226 23.549 31.568 37.148 22.694-2.445-19.579-10.67-38.1-15.399-57.266-11.409-15.266 5.552-35.849 18.57-17.445 8.3194 17.595 14.396 36.625 23.443 53.752 0.80307-21.329-2.6196-42.994-5.1216-64.208 3.7434-22.042 31.591-5.3651 28.353 11.401 4.0415 16.054 6.9521 32.351 10.583 48.465 2.8388 10.24 10.486-12.611 12.61-16.646 6.4596-14.249 8.0814-30.277 14.076-44.327 21.535-8.8702 23.624 20.379 19.488 34.57-1.6732 19.651-6.5293 38.702-13.128 57.221-1.7018 15.488 8.3644 33.673 25.58 23.023 16.027-4.1288 34.802-8.7967 50.067-0.2254 17.435 15.674-9.4676 19.297-21.286 18.295-17.918 3.8281-35.718 12.812-45.63 28.81-5.0735 8.1805-14.096 15.702-12.404 26.19 0.16477 49.867-8.4198 99.809-1.5182 149.54 1.5309 22.827 0.78861 45.722 0.93149 68.583-39.146 0.001-78.291 0.003-117.44 0.004 0.0781-2.2505 0.15612-4.502 0.23427-6.7519z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Raised Hand in Silhouette</dc:title
+        >
+        <dc:date
+          >2012-01-22T22:38:06</dc:date
+        >
+        <dc:description
+          >Raised Hand in Silhouette</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/167361/raised-hand-in-silhouette-by-dripsandcastle-167361</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >dripsandcastle</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >hand</rdf:li
+            >
+            <rdf:li
+              >raised hand</rdf:li
+            >
+            <rdf:li
+              >raised hand silhouette</rdf:li
+            >
+            <rdf:li
+              >silhouette</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

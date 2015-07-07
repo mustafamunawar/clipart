@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.51 356.69" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clipPath2833" clipPathUnits="userSpaceOnUse">
+<path fill="#ccc" stroke="#1a1a1a" stroke-linejoin="round" color="#000" d="m56.059,323.79c-12.249,.0792-19.015,11.204-16.5,22.219l119.56,289.91c11.387,27.608 42.741,43.562 53.219,43.562h283.88c10.477,0 41.863-15.954 53.25-43.562l119.56-289.91c2.515-11.015-4.2824-22.14-16.531-22.219h-596.44z"/>
+</clipPath>
+<clipPath id="clipPath2829" clipPathUnits="userSpaceOnUse">
+<path fill="#ccc" stroke="#1a1a1a" stroke-linejoin="round" color="#000" d="m56.059,323.79c-12.249,.0792-19.015,11.204-16.5,22.219l119.56,289.91c11.387,27.608 42.741,43.562 53.219,43.562h283.88c10.477,0 41.863-15.954 53.25-43.562l119.56-289.91c2.515-11.015-4.2824-22.14-16.531-22.219h-596.44z"/>
+</clipPath>
+<filter width="1.258" x="-.129" y="-.097" height="1.194" id="filter3604">
+<feGaussianBlur stdDeviation="13.93749"/>
+</filter>
+<filter id="filter3596">
+<feGaussianBlur stdDeviation="12.48113"/>
+</filter>
+<linearGradient id="linearGradient2837" x1="122.94" gradientUnits="userSpaceOnUse" x2="354.78">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#f2f2f2" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-1 0 0 1 708.5 0)" id="linearGradient2839" x1="122.94" gradientUnits="userSpaceOnUse" x2="354.78">
+<stop offset="0" stop-color="#b3b3b3"/>
+<stop offset="1" stop-color="#f2f2f2" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<g color="#000" transform="translate(-38.538 -323.29)">
+<path fill="#ccc" stroke="#1a1a1a" stroke-linejoin="round" d="m17.531,.5c-12.249,.0792-19.015,11.204-16.5,22.219l119.56,289.9c11.387,27.608 42.741,43.562 53.219,43.562h283.88c10.477,0 41.863-15.954 53.25-43.562l119.56-289.9c2.51-11.016-4.28-22.141-16.53-22.22h-596.44z" transform="translate(38.528 323.29)"/>
+<path fill="url(#linearGradient2837)" filter="url(#filter3604)" d="m65.63,329.51c-11.856,.0767-18.405,10.844-15.97,21.505l115.73,280.58c11.022,26.721 41.37,42.163 51.511,42.163l91.724-2.1258 135.64-342.37-378.63,.234z" clip-path="url(#clipPath2833)"/>
+<path fill="url(#linearGradient2839)" filter="url(#filter3596)" d="m580.24,331.53c11.856,.0767 81.034,8.8232 78.6,19.485l-115.73,280.58c-11.022,26.721-41.37,42.163-51.511,42.163l-137.02-.2096-63.248-344.05 288.9,2.0203z" clip-path="url(#clipPath2829)"/>
+</g>
+</svg>

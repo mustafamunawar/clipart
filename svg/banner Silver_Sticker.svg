@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 471.57 441.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" id="filter12477">
+<feGaussianBlur stdDeviation="15.32"/>
+</filter>
+<linearGradient id="linearGradient4916" y1="197.38" y2="491.66" x1="270.97" gradientUnits="userSpaceOnUse" x2="411.86">
+<stop offset="0" stop-color="#353535"/>
+<stop offset=".155" stop-color="#414141"/>
+<stop offset=".388" stop-color="#f2f2f2"/>
+<stop offset=".662" stop-color="#ccc"/>
+<stop offset=".869" stop-color="#efefef"/>
+<stop offset="1" stop-color="#bbb"/>
+</linearGradient>
+<linearGradient spreadMethod="reflect" id="linearGradient4918" y1="198.88" y2="461.74" x1="265.71" gradientUnits="userSpaceOnUse" x2="377.14">
+<stop offset="0" stop-color="#353535"/>
+<stop offset=".45" stop-color="#666"/>
+<stop offset=".53" stop-color="#666"/>
+<stop offset="1" stop-color="#1a1a1a"/>
+</linearGradient>
+<linearGradient id="linearGradient4920" y1="144.85" y2="346.2" x1="244.7" gradientUnits="userSpaceOnUse" x2="322.96">
+<stop offset="0" stop-color="#353535"/>
+<stop offset=".143" stop-color="#414141"/>
+<stop offset=".452" stop-color="#f2f2f2"/>
+<stop offset=".568" stop-color="#ccc"/>
+<stop offset=".637" stop-color="#efefef"/>
+<stop offset="1" stop-color="#bbb"/>
+</linearGradient>
+</defs>
+<g color="#000" transform="translate(-106.12 -119.69)">
+<path filter="url(#filter12477)" d="m446.86,156.45c-63.376,11.374 66.596,110.07 67.906,168.97 0,95.466-77.377,172.84-172.84,172.84-95.466,0-172.84-77.377-172.84-172.84-2.7653-43.827 40.918-101.54-17.344-58.656-5.7505,18.557-8.8438,38.254-8.8438,58.656 0,109.61 89.432,199 199.03,199s199-89.4 199-199c0-71.133-37.664-133.76-94.062-168.97z"/>
+<path fill="url(#linearGradient4916)" d="m448.88,146.35-32.344,12.094c59.186,27.433 100.25,87.344 100.25,156.88 0,95.466-77.377,172.84-172.84,172.84-95.466,0-172.84-77.377-172.84-172.84 0-25.239 5.4355-49.198 15.156-70.812l-32.5,12.156c-5.7505,18.557-8.8438,38.254-8.8438,58.656 0,109.61 89.432,199 199.03,199s199-89.4 199-199c0-71.133-37.664-133.76-94.062-168.97z"/>
+<path fill="url(#linearGradient4918)" d="m416.43,158.35c59.254,27.412 100.36,87.389 100.36,156.97 0,95.466-77.391,172.86-172.86,172.86-95.466,0-172.86-77.391-172.86-172.86 0-25.283 5.4279-49.297 15.182-70.943"/>
+<path fill="url(#linearGradient4920)" d="m155.2,255.63c30.471,18.99 63.606,28.142 101.79,23.914 82.118-9.0914 168.05-53.153 193.2-134.27"/>
+</g>
+</svg>

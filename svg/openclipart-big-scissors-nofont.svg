@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3119"
+    version="1.1"
+    xml:space="preserve"
+    viewBox="0 0 310 221.5"
+    enable-background="new 0 0 310 221.5"
+    y="0px"
+    x="0px"
+  >
+<title
+      id="title3211"
+    >Openclipart Logo</title
+  >
+<g
+      id="layer1"
+      transform="translate(-183.65 -346.99)"
+    >
+	<g
+        id="g3160"
+        transform="translate(130.72 274.53)"
+      >
+			<path
+          id="path3186"
+          d="m98.915 75.688c-16.45-0.141-33.339 7.084-38.283 20.571-7.348 16.273 4.444 35.284 24.58 41.143 0.064 0.017 0.157-0.017 0.217 0 21.958 7.937 49.288 11.812 73.086 36.436l8.918 9.24-8.048 8.194c-23.868 24.582-51.105 28.363-73.086 36.261-0.048 0.023-0.161-0.023-0.217 0-20.081 5.802-31.727 24.721-24.58 40.969 0.025 0.047-0.025 0.123 0 0.174 6.109 16.441 30.102 23.721 49.376 19.352 0.064-0.014 0.152 0.012 0.217 0 19.741-3.441 35.904-19.504 31.323-35.739-2.26-8.01-5.152-11.729-7.831-13.946-1.339-1.108-2.508-1.801-3.263-2.441-0.755-0.639-3.932-2.42-3.932-2.42 1.966-1.431 3.114-2.107 4.802-3.158 2.521-1.643 6.926-3.662 12.616-6.102 11.28-4.837 27.893-11.666 46.984-22.663 34.53 19.628 79.394 45.047 104.19 59.099 24.797 14.052 50.178 6.965 60.688 0.522l-132.99-78.05 133.75-78.82c-20.73-12.785-44.387-7.371-60.145 0.327-35.033 19.87-70.178 39.644-105.28 59.447-16.006-8.749-33.181-16.77-48.071-23.186-5.695-2.454-10.09-4.451-12.616-6.102-1.263-0.825-4.459-2.615-4.459-2.615 2.921-1.703 6.017-4.841 8.266-7.235s4.896-5.94 6.417-12.116c4.022-16.331-11.589-32.436-31.323-35.913-3.83-0.844-7.95-0.968-11.325-1.219zm-2.175 13.773c7.343-0.345 14.921 1.663 19.794 5.579 7.301 5.866 8.692 13.945 5.873 20.571-2.819 6.625-9.577 11.523-19.142 11.506h-0.217c-8.767 0.406-17.317-3.644-22.404-9.588s-6.537-13.338-1.522-19.7v-0.174c3.472-5.279 10.289-7.851 17.626-8.195zm5.66 148.36c0.65-0.012 1.321-0.023 1.74 0 9.567 0 16.339 4.883 19.142 11.506 2.803 6.624 1.445 14.719-5.873 20.572-4.879 3.902-12.666 6.098-20.012 5.752-7.346-0.344-13.951-3.082-17.402-8.367l-0.217-0.174c-4.839-6.17-3.434-13.148 1.305-19.003s12.862-10.17 21.316-10.29z"
+      />
+	</g
+    >
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Openclipart Scissors</dc:title
+        ><dc:date
+          >2013-05-14T22:48:21</dc:date
+        ><dc:description
+          >The openclipart scissors graphic, minus the font</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/178127/openclipart-scissors-by-pianobrad-178127</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >pianoBrad</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >logo</rdf:li
+            ><rdf:li
+              >openclipart</rdf:li
+            ><rdf:li
+              >scissors</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

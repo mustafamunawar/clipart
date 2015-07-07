@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 275.98 275.98" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.5" x="-.26" y="-.23" height="1.5" color-interpolation-filters="sRGB" id="filter3989">
+<feOffset dx="-.54054" dy="2.16216" in="SourceGraphic" result="result11"/>
+<feGaussianBlur dy="4" stdDeviation="11.34608" result="result8"/>
+<feComposite in="SourceGraphic" operator="in" in2="result8" result="result9"/>
+<feBlend mode="screen" in="result9" in2="result8" result="fbSourceGraphic"/>
+<feColorMatrix values="0" in="fbSourceGraphic" type="matrix" result="fbSourceGraphicAlpha"/>
+<feGaussianBlur in="fbSourceGraphic" stdDeviation="3.78869" result="result0"/>
+<feDiffuseLighting surfaceScale="16.48351669" kernelUnitLength="0.01" result="result5" diffuseConstant="1.29999995">
+<feDistantLight azimuth="260" elevation="83"/>
+</feDiffuseLighting>
+<feComposite in="result5" operator="arithmetic" k1="1" in2="fbSourceGraphic" k2="0" k3=".6" k4="0" result="result4"/>
+</filter>
+<radialGradient cx="1097.8" cy="104.57" gradientTransform="matrix(2.3327 0 0 2.1636 -2231.6 208.26)" id="radialGradient6526" r="65.873" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1"/>
+</radialGradient>
+</defs>
+<g transform="translate(-188.93 -297.67)">
+<path fill="url(#radialGradient6526)" d="m188.93,297.67h275.98v275.98h-275.98z"/>
+<path fill="#f0eb7b" filter="url(#filter3989)" d="m614.81,108.08c0,35.147-28.492,63.64-63.64,63.64-35.147,0-63.64-28.492-63.64-63.64 0-35.147 28.492-63.64 63.64-63.64 35.147,0 63.64,28.492 63.64,63.64z" transform="matrix(1.2285 0 0 1.2285 -350.46 306.45)"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64">
+<g transform="translate(0 -988.36)">
+<path fill="#9f482d" d="m4,7v47h56v-47h-56zm2,2h52v43h-52v-43z" transform="translate(0 988.36)"/>
+<path fill="#2ea99c" d="m6,997.36h52v43h-52v-43z"/>
+<path fill="#ff8821" fill-opacity=".235" d="m5,996.36h54v45h-54v-45z"/>
+</g>
+<g transform="translate(0 -988.36)">
+<path fill="#808080" d="m4,1042.4h56v2.2215h-56v-2.2215z"/>
+</g>
+</svg>

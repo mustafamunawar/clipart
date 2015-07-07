@@ -1,0 +1,62 @@
+<svg width="640" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" height="480">
+<defs>
+<radialGradient cx="604.67" cy="1350.5" gradientTransform="matrix(-.84002 .99558 -2.0857 -1.7598 3479.4 1861.6)" id="radialGradient4153" r="122.23" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1"/>
+</radialGradient>
+<radialGradient cx="279.25" cy="1436" gradientTransform="matrix(-2.6217 -.24841 .45866 -4.8405 408.41 7254.2)" id="radialGradient4509" r="129.24" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#ccc"/>
+</radialGradient>
+<radialGradient cx="444.33" cy="836.94" gradientTransform="matrix(-2.8684 .28684 -.17857 -1.7858 1747.5 1612.2)" id="radialGradient3171" r="10.607" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2d2d2d"/>
+<stop offset="1" stop-color="#b50000"/>
+</radialGradient>
+</defs>
+<path fill="url(#radialGradient4509)" d="m322.87,7.7693c-152.01,0-275.24,113.93-275.24,254.44 0,83.385 43.408,157.41 110.47,203.81h329.56c67.04-46.4 110.45-120.43 110.45-203.81 0-140.51-123.23-254.44-275.24-254.44z"/>
+<path opacity=".507" fill="url(#radialGradient4153)" d="m322.01,14.601c-143.78,0-260.28,107.74-260.28,240.65 0,78.868 41.003,148.85 104.43,192.74h311.71c63.425-43.888 104.49-113.87 104.49-192.74 0-132.9-116.57-240.65-260.35-240.65zm0,13.407c134.88,0 244.23,101.05 244.23,225.73 0,73.988-38.507,139.67-98.007,180.85h-292.39c-59.49-41.18-97.995-106.87-97.995-180.85 0-124.68 109.28-225.73 244.16-225.73z"/>
+<g fill="#666" stroke="#939393" stroke-width="2.13">
+<path d="m157.87,345.16-34.42,16.95"/>
+<path d="m137.12,275.93-35.18,.1327"/>
+<path d="m147.11,206.33-30.117-9.8649"/>
+<path d="m175.97,147.61-24.55-19.99"/>
+</g>
+<g fill="#2d2d2d">
+<g stroke="#6c6c6c">
+<g stroke-width="2.13">
+<path d="m234.06,108.26-18.11-32.269"/>
+<path d="m293.66,84.987-2.15-38.722"/>
+<path d="m358.31,89.421 8.8658-38.093"/>
+</g>
+<path stroke-width="2.491" d="m424.55,107.58 18.5-26.345"/>
+</g>
+<g stroke="#7d7777">
+<path stroke-width="2.13" d="m468.65,153.07 32.269-19.361"/>
+<path stroke-width="2.118" d="m507.77,205.07 31.92-6.4541"/>
+<path stroke-width="2.012" d="m516.13,279.73h30.728"/>
+<path stroke-width="2.13" d="m487.01,340.6 23.663,17.211"/>
+</g>
+</g>
+<g fill="#666" stroke="#939393">
+<path stroke-width="1.923" d="m138.43,310.48-19.286,4.3023"/>
+<path stroke-width="1.708" d="m134.25,237.72h-19.361"/>
+<path stroke-width="1.996" d="m155.79,173.49-15.2-9.36"/>
+</g>
+<g fill="#2d2d2d">
+<path stroke="#666" stroke-width="1.637" d="m199.99,118.65-10.463-12.813"/>
+<g stroke="#6c6c6c">
+<path stroke-width="1.708" d="m255.98,91.24-6.9-15.524"/>
+<path stroke-width="2.13" d="m327.71,78.084 2.3773-17.18"/>
+<path stroke-width="1.708" d="m393.47,89.088 8.6239-15.524"/>
+</g>
+<g stroke="#7d7777">
+<path stroke-width="1.674" d="m452.63,123.05 15.124-13.233"/>
+<path stroke-width="2.705" d="m497.93,177.08 14.401-8.2934"/>
+<path stroke-width="1.916" d="m518.95,241.64h20.897"/>
+<path stroke-width="1.722" d="m505.04,314.71 18.747,8.8819"/>
+</g>
+</g>
+<path opacity=".224" stroke-dasharray="2.04386968,4.0877394" stroke="#000" stroke-linejoin="bevel" fill-opacity="0" stroke-linecap="round" stroke-width="2.044" d="m325.02,72.045c-112.23,0-203.2,84.108-203.2,187.84 0,61.558 32.044,116.21 81.552,150.46h243.29c49.506-34.256 81.55-88.904 81.55-150.46 0-103.73-90.972-187.84-203.2-187.84z"/>
+<path fill="url(#radialGradient3171)" d="m338.71,246.51c0,10.513-8.7514,19.035-19.546,19.035-10.794,0-19.546-8.5222-19.546-19.035s8.7514-19.035 19.546-19.035 19.546,8.5228 19.546,19.035z"/>
+<path fill="#eee" d="m201.87,404.85h247.19v12.17h-247.19z"/>
+</svg>

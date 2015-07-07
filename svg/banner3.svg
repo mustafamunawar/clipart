@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134.458 37.775" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" id="filter5983">
+<feGaussianBlur stdDeviation=".87718"/>
+</filter>
+<linearGradient id="linearGradient4905">
+<stop offset="0" stop-color="#a0892c"/>
+<stop offset=".25" stop-color="#fea"/>
+<stop offset=".5" stop-color="#a0892c"/>
+<stop offset=".75" stop-color="#fea"/>
+<stop offset="1" stop-color="#a0892c"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(1.049 -.01103)" id="linearGradient44586" xlink:href="#linearGradient4905" x1="371.58" gradientUnits="userSpaceOnUse" x2="510.53"/>
+<linearGradient gradientTransform="translate(1.0607)" id="linearGradient44584" x1="369.77" gradientUnits="userSpaceOnUse" x2="512.4">
+<stop offset="0" stop-color="#2b1100"/>
+<stop offset=".5" stop-color="#502d16"/>
+<stop offset="1" stop-color="#2b1100"/>
+</linearGradient>
+</defs>
+<g transform="matrix(-.91565 0 0 .91565 472.07419 -519.2987)">
+<path fill="#160a00" filter="url(#filter5983)" d="m377.88,567.73v11.286c-4.504,.1462-8.118,4.5466-8.118,9.9586 0,5.412 3.6141,9.8124 8.118,9.9586v6.4431h126.43v-6.4431c4.4932-.1605 8.0859-4.5558 8.0859-9.9586 0-5.4027-3.5928-9.798-8.0859-9.9586v-11.286z" transform="matrix(1 0 0 .98562 1.0607 9.6456)"/>
+<path fill="url(#linearGradient44584)" d="m378.94,568.57v10.443c-4.504,.1462-8.118,4.5466-8.118,9.9586 0,5.412 3.6141,9.8124 8.118,9.9586v6.4431h126.43v-6.4431c4.4932-.1605 8.086-4.5558 8.086-9.9586 0-5.4027-3.5928-9.798-8.086-9.9586v-10.443z"/>
+<path fill="url(#linearGradient44586)" d="m381.58,571.9v9.6562c-.0522,.0006-.1041,0-.1562,0-4.5106,0-8.1562,3.3057-8.1562,7.4062 0,4.1005 3.6457,7.4375 8.1562,7.4375 .0521,0 .104-.0006 .1562,0v5.6562h121.09v-5.6562c.0626-.0006 .1249,0 .1875,0 4.5106,0 8.1562-3.337 8.1562-7.4375 0-4.1005-3.6457-7.4062-8.1562-7.4062-.0626,0-.1249,.0006-.1875,0v-9.6562zm2.4062,2.5625h116.31v25.031h-116.31zm-5.3438,11c1.933,0 3.5,1.567 3.5,3.5 0,1.933-1.567,3.5-3.5,3.5-1.933,0-3.5-1.567-3.5-3.5 0-1.933 1.567-3.5 3.5-3.5zm127,0c1.933,0 3.5,1.567 3.5,3.5 0,1.933-1.567,3.5-3.5,3.5-1.933,0-3.5-1.567-3.5-3.5 0-1.933 1.567-3.5 3.5-3.5z"/>
+<path opacity=".303" fill="#5df" stroke="#f95" stroke-width=".5" d="m386.19,576.84h111.9v20.263h-111.9z"/>
+</g>
+</svg>

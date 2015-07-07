@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2981"
+    sodipodi:docname="melbourne-skyline"
+    viewBox="0 0 300 180"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <title
+      id="title2911"
+    >melbourne-skyline</title
+  >
+  <defs
+      id="defs2983"
+    >
+    <linearGradient
+        id="linearGradient3964"
+        y2="-559.56"
+        gradientUnits="userSpaceOnUse"
+        x2="153.94"
+        y1="399.72"
+        x1="219.17"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3960"
+          style="stop-color:#90b0b4"
+          offset="0"
+      />
+      <stop
+          id="stop3962"
+          style="stop-color:#90b0b4;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient2909"
+        y2="951.25"
+        gradientUnits="userSpaceOnUse"
+        x2="-35.568"
+        y1="630.18"
+        x1="2.648"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop2905"
+          style="stop-color:#729fcf"
+          offset="0"
+      />
+      <stop
+          id="stop2907"
+          style="stop-color:#729fcf;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="namedview2985"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-4"
+      pagecolor="#ffffff"
+      inkscape:window-height="712"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1"
+      inkscape:window-x="-4"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="526.18109"
+      inkscape:cy="132.6922"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="mm"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -564.09)"
+    >
+    <g
+        id="g3978"
+        inkscape:export-ydpi="19.639999"
+        inkscape:export-xdpi="19.639999"
+        inkscape:export-filename="C:\Documents and Settings\Fastallow\Desktop\skyline\melbourne.png"
+        transform="matrix(.13084 0 0 .13355 130.65 618.93)"
+      >
+      <rect
+          id="rect3956"
+          style="stroke:#584343;stroke-linecap:round;stroke-width:11.801;fill:url(#linearGradient3964)"
+          transform="scale(1,-1)"
+          height="956.37"
+          width="2285.4"
+          y="-558.78"
+          x="-988.75"
+      />
+      <path
+          id="path3818"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#909890"
+          d="m-964.02 488.96 1.7123-364.72 42.807-46.232 39.383 1.7123 25.684 49.656 1.7123 184.93-37.67-6.8492-1.7123 99.313 18.835 29.109-3.4246 70.204-87.327-17.123z"
+      />
+      <path
+          id="path3820"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-880.12 502.66 3.4246-68.492-20.548-23.972s0-101.03 6.8492-99.313c6.8492 1.7123 30.821 3.4246 30.821 3.4246l-3.4246 196.91-17.123-8.5615z"
+      />
+      <path
+          id="path3822"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b4b8"
+          d="m-864.71 507.8 1.7123-190.06 47.944-1.7123-3.4246 59.93-35.958-1.7123 1.7123 140.41-11.986-6.8492z"
+      />
+      <path
+          id="path3824"
+          sodipodi:nodetypes="ccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b4c0ac"
+          d="m-864.71 552.32 8.5615-171.23 66.779-6.8492v174.65l-75.341 3.4246z"
+      />
+      <path
+          id="path3826"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d0c898"
+          d="m-791.08 548.89 3.4246-171.23 71.916 6.8492 3.4246 167.8-78.765-3.4246z"
+      />
+      <path
+          id="path3828"
+          sodipodi:nodetypes="ccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d0c894"
+          d="m-792.79 381.09 1.7123-25.684h77.053l3.4246 27.397-82.19-1.7123z"
+      />
+      <path
+          id="path3830"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b8a868"
+          d="m-727.72 351.98-5.1369-136.98 82.19-3.4246v75.341l-20.548 8.5615-22.26 10.274 1.7123 37.67-35.958 8.5615z"
+      />
+      <path
+          id="path3832"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-647.25 286.91-3.4246-66.779 34.246-1.7123 3.4246 78.765-34.246-10.274z"
+      />
+      <path
+          id="path3834"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-648.96 292.05 32.534 10.274"
+      />
+      <path
+          id="path3836"
+          sodipodi:nodetypes="cccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#788044"
+          d="m-589.03 305.75 1.7123 246.57h-125l-8.5615-200.34 35.958-13.698v-34.246l37.67-18.835 58.218 20.548z"
+      />
+      <path
+          id="path3838"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#bcac68"
+          d="m-616.43 298.9s-5.1369-92.464 1.7123-92.464 73.629 3.4246 73.629 3.4246l-8.5615 184.93-11.986 3.4246-3.4246 22.26-20.548 1.7123s0 143.83-1.7123 131.85c-1.7123-11.986-3.4246-244.86-3.4246-244.86l-25.684-10.274z"
+      />
+      <path
+          id="path3840"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0b0"
+          d="m-547.93 389.65v-172.94l68.492-1.7123-3.4246 157.53h-35.958v109.59h-15.411s10.274-85.615 3.4246-85.615c-6.8492 0-17.123-3.4246-17.123-6.8492z"
+      />
+      <path
+          id="path3842"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90988c"
+          d="m-541.08 216.71 27.397-22.26 3.4246-13.698h20.548l1.7123 13.698s47.944 22.26 32.534 22.26h-29.109-56.506z"
+      />
+      <path
+          id="path3844"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-482.87 218.42 3.4246 155.82h-41.095l3.4246 107.87-3.4246-106.16 37.67-8.5615v-148.97z"
+      />
+      <path
+          id="path3846"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b0b4"
+          d="m-450.33 220.13v148.97h-8.5615l1.7123 23.972-17.123-6.8492v-15.411l-8.5615-1.7123 1.7123-152.39 30.821 3.4246z"
+      />
+      <path
+          id="path3848"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d0c894"
+          d="m-558.21 542.04c6.8492-10.274 0-56.506 0-56.506l41.095-6.8492-1.7123-104.45 44.52-3.4246 6.8492 15.411 10.274 3.4246v162.67l-101.03-10.274z"
+      />
+      <path
+          id="path3850"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-460.61 545.47 1.7123-178.08 34.246-6.8492"
+      />
+      <path
+          id="path3852"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989854"
+          d="m-422.94 345.13 39.383 1.7123s10.274 205.48 1.7123 205.48h-71.916l-1.7123-183.22 30.821-10.274 1.7123-13.698z"
+      />
+      <path
+          id="path3854"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d4c894"
+          d="m-446.91 309.17 37.67-1.7123-1.7123 20.548 42.807 6.8492-1.7123 51.369 10.274-1.7123-3.4246 25.684 13.698-3.4246 3.4246-25.684 17.123 1.7123v-44.52l-42.807-1.7123-39.383-10.274 6.8492-18.835-42.807 1.7123z"
+      />
+      <path
+          id="path3856"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0b0"
+          d="m-445.2 314.31-5.1369 53.081 23.972-11.986 1.7123-8.5615 10.274 1.7123s10.274-44.52 3.4246-42.807c-6.8492 1.7123-35.958 6.8492-34.246 8.5615z"
+      />
+      <path
+          id="path3858"
+          style="stroke:#000000;stroke-width:7.5591;fill:#909c94"
+          d="m-332.18 554.03c-3.4246-10.274 5.1369-344.17 5.1369-344.17l25.684-1.7123-3.4246 344.17-27.397 1.7123z"
+      />
+      <path
+          id="path3860"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0ac"
+          d="m-321.91 209.86v-30.821l20.548 1.7123 1.7123 25.684-22.26 3.4246z"
+      />
+      <path
+          id="path3862"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90acb4"
+          d="m-294.51 208.15-3.4246-27.397 46.232 3.4246-3.4246 363.01h-47.944l8.5615-339.03z"
+      />
+      <path
+          id="path3864"
+          sodipodi:nodetypes="cccsc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d0c894"
+          d="m-251.71 550.61-8.5615-510.26 30.821-5.1369s15.411 522.25 3.4246 520.54c-11.986-1.7123-32.534-15.411-25.684-5.1369z"
+      />
+      <path
+          id="path3866"
+          sodipodi:nodetypes="ccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#acc0b0"
+          d="m-229.45 33.493 63.355 8.5615-6.8492 505.13-51.369 5.1369-5.1369-518.82z"
+      />
+      <path
+          id="path3870"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#bcac68"
+          d="m-167.8 353.69 3.4246-130.13h23.972l1.7123 47.944 17.123 1.7123 1.7123 83.902-47.944-3.4246z"
+      />
+      <path
+          id="path3872"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b0b4"
+          d="m-128.42 271.5-1.7123-18.835 17.123-1.7123-6.8492-10.274 44.52 1.7123v11.986h15.411v10.274l10.274 1.7123 1.7123 109.59s-29.109 8.5615-29.109 0-5.1369-23.972-5.1369-23.972l-39.383 1.7123-6.8492-82.19z"
+      />
+      <path
+          id="path3874"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-42.807 377.66-8.5615-107.87 32.534-3.4246 3.4246 131.85-8.5615-1.7123-5.1369-22.26-13.698 3.4246z"
+      />
+      <path
+          id="path3876"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#acc0b0"
+          d="m-44.52 377.66c0-11.986 1.7123-34.246 1.7123-34.246l32.534-6.8492 35.958 11.986v27.397l20.548 6.8492 1.7123 73.629h-42.807v-58.218l-25.684 3.4246-6.8492-25.684-17.123 1.7123z"
+      />
+      <path
+          id="path3878"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d8c894"
+          d="m3.4246 552.32 1.7123-95.888h77.053v92.464l-87.327 3.4246 5.137-94.17"
+      />
+      <path
+          id="path3880"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#909c94"
+          d="m22.26 350.27 1.7123-89.039h85.615l3.4246 142.12-37.67 3.4246 3.4246 42.807s1.7123 106.16 1.7123 99.313c0-6.8492 6.8492-97.601-13.698-97.601-20.548 0-20.548 5.1369-20.548 5.1369v-77.053h-17.123l-6.8492-29.109z"
+      />
+      <path
+          id="path3882"
+          sodipodi:nodetypes="ccccccccccccccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#dcc078"
+          d="m71.916 545.47 3.4246-147.26 34.246-5.1369 10.274 11.986 6.8492-25.684h29.109v-11.986l30.821-1.7123-8.5615 15.411h13.698v13.698l15.411-1.7123-1.7123 34.246 18.835 1.7123v119.86l-148.97 3.4246-3.4246-6.8492z"
+      />
+      <path
+          id="path3884"
+          sodipodi:nodetypes="ccccccccccccccccsccscccccscc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b4c0ac"
+          d="m27.397 261.23 3.4246-11.986h15.411v-18.835l73.629 1.7123-1.7123 17.123 13.698 10.274-3.4246 41.095h35.958l-1.7123 17.123-0.00001 18.835 42.807 1.7123-3.4246 20.548 8.5615 1.7123 5.1369 68.492h-5.1369s8.5615-41.095-1.7123-39.383c-10.274 1.7123-20.548 1.7123-20.548 1.7123l5.1369-6.8492s-13.698 1.7123-6.8492-1.7123c6.8492-3.4246 0-18.835 0-18.835l-27.397 6.8492v8.5615l-25.684 1.7123-10.274 23.972s-15.411-3.4246-13.698-11.986c1.7123-8.5615 3.4246-131.85 3.4246-131.85h-85.615z"
+      />
+      <path
+          id="path3886"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#748044"
+          d="m226.02 552.32-1.7123-121.57h-13.698l6.8492-20.548 32.534 1.7123 1.7123 133.56-25.684 6.8492z"
+      />
+      <path
+          id="path3888"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989858"
+          d="m241.43 406.77-3.4246-160.96h5.1369l1.7123-15.411 65.067-1.7123-1.7123 320.2-51.369 1.7123-6.8492-133.56-8.5615-10.274z"
+      />
+      <path
+          id="path3890"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#dcc078"
+          d="m311.64 554.03 3.4246-392.11h66.779l-5.1369 195.2 11.986-1.7123 1.7123 68.492-34.246 10.274 1.7123 123.29-46.232-3.4246z"
+      />
+      <path
+          id="path3892"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#a8c0b4"
+          d="m325.34 163.63v-23.972l47.944-1.7123v20.548l-47.944 5.1369z"
+      />
+      <path
+          id="path3894"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m374.99 163.63 1.7123-22.26h13.698v22.26h-15.411z"
+      />
+      <path
+          id="path3896"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#c0b06c"
+          d="m374.99 167.05 3.4246 184.93 11.986 3.4246v66.779s27.397 10.274 23.972 1.7123c-3.4246-8.5615-3.4246-71.916-3.4246-71.916l-5.1369 3.4246-6.8492-190.06-10.274 3.4246 3.4246-25.684-17.123-1.7123v25.684z"
+      />
+      <path
+          id="path3898"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#dcc07c"
+          d="m400.68 197.87h10.274v-15.411s17.123-11.986 15.411-1.7123c-1.7123 10.274-5.1369 244.86-5.1369 244.86h-8.5615v-71.916h-10.274l-1.7123-155.82z"
+      />
+      <path
+          id="path3900"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989854"
+          d="m429.79 192.74 37.67 10.274-3.4246 142.12-6.8492 3.4246-1.7123 8.5615s-3.4246-6.8492-6.8492 1.7123-3.4246 126.71-3.4246 126.71-22.26 11.986-20.548 3.4246c1.7123-8.5615-5.1369-68.492-5.1369-68.492l10.27-227.72z"
+      />
+      <path
+          id="path3902"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b0b8"
+          d="m446.91 480.4c6.8492-15.411 1.7123-126.71 1.7123-126.71l11.986-1.7123-1.7123-15.411 20.548-1.7123v20.548l13.698 5.1369-5.1369 65.067 18.835 5.1369-5.1369 77.053-54.793-27.397z"
+      />
+      <path
+          id="path3904"
+          sodipodi:nodetypes="ccccscc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d8c890"
+          d="m494.85 420.47v-44.52l65.067-3.4246 5.1369 176.37s-71.953-42.111-68.492-35.958c15.411 27.397 10.274-80.478 10.274-80.478l-11.986-11.986z"
+      />
+      <path
+          id="path3906"
+          sodipodi:nodetypes="ccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0ac"
+          d="m561.63 547.18c1.7123-25.684-1.7123-207.19-1.7123-207.19h44.52l5.1369 210.61-47.944-3.4246z"
+      />
+      <path
+          id="path3908"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989858"
+          d="m583.89 338.28v-152.39l70.204-1.7123 1.7123 66.779-44.52 5.1369-5.1369 89.039-22.26-6.8492z"
+      />
+      <path
+          id="path3910"
+          sodipodi:nodetypes="ccccccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#dcc07c"
+          d="m607.86 545.47c1.7123-32.534 5.1369-287.67 5.1369-287.67l47.944-6.8492 1.7123 8.5615h25.684l1.7123-29.109h20.548l-5.1369 313.35-97.601 1.7123z"
+      />
+      <path
+          id="path3912"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d8c890"
+          d="m659.23 184.17 54.793 8.5615-1.7123 37.67-25.684-1.7123 1.7123 35.958h-17.123l-15.411-13.698 3.4246-66.779z"
+      />
+      <path
+          id="path3914"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d4c894"
+          d="m717.45 531.77c3.4246-18.835-3.4246-345.88-3.4246-345.88l22.26 5.1369 1.7123-35.958 22.26-6.8492 3.4246-22.26 61.643 1.7123v20.548h23.972l-1.7123 395.54-130.13-11.986z"
+      />
+      <path
+          id="path3916"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#707c40"
+          d="m842.45 552.32 5.1369-166.09h46.232s15.411 159.24 3.4246 162.67c-11.986 3.4246-56.506 3.4246-54.793 3.4246z"
+      />
+      <path
+          id="path3918"
+          sodipodi:nodetypes="ccccccscccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b8ac68"
+          d="m893.82 547.18c-15.994-106.73-2.2831-213.47-3.4246-320.2l133.56-3.4246-1.7123 47.944 13.698 1.7123-6.8492 32.534s-39.383-13.698-39.383 5.1369 3.4246 44.52 3.4246 44.52h-23.972l-1.7123 190.06-73.629 1.7123z"
+      />
+      <path
+          id="path3920"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b0b4"
+          d="m1001.7 218.42c0-6.8492-8.5614-241.43-8.5614-241.43l11.986-1.7123-5.1369-15.411 95.888-1.7123 10.274 590.74s5.1369-166.09-1.7122-164.38c-6.8492 1.7123-46.232-1.7123-46.232-1.7123l1.7123-66.779-29.109-6.8492 8.5615-35.958h-13.698l-1.7123-51.369-22.26-3.4246z"
+      />
+      <path
+          id="path3922"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0b0"
+          d="m1003.4 216.71-3.4246-243.15h51.369l5.1369 61.643 34.246 1.7123 3.4246 188.35h-35.958l-1.7123 85.615-27.397-5.1369 11.986-29.109-20.548-11.986 3.4246-44.52-20.548-3.4246z"
+      />
+      <path
+          id="path3924"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#747c40"
+          d="m1111.3 538.62c0-6.8492-11.986-234.58-11.986-234.58h8.5614l3.4246-11.986 42.807-3.4246-1.7123 15.411 35.958-5.1369-3.4246 10.274 13.698-1.7123 5.1369 231.16h-49.656l-3.4246-234.58h-46.232l6.8491 234.58z"
+      />
+      <path
+          id="path3926"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989854"
+          d="m1109.6 542.04-6.8491-238.01 53.081 5.1369-1.7123 234.58-44.52-1.7123z"
+      />
+      <path
+          id="path3928"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b8ac68"
+          d="m1205.5 545.47s-13.698-215.75-6.8492-214.04c6.8492 1.7123 77.053 3.4246 77.053 3.4246l-3.4246 27.397 8.5614-1.7123 3.4246-46.232 13.698 3.4246-5.1369 232.87-87.327-5.1369z"
+      />
+      <path
+          id="path3930"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b0c0b0"
+          d="m340.75 137.94-1.7123-20.548 10.274-3.4246 3.4246-78.765 6.8492 83.902 10.274-5.1369 1.7123 25.684-30.821-1.7123z"
+      />
+      <path
+          id="path3932"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d8c894"
+          d="m604.44 189.31 3.4246-18.835h49.656l-1.7123 15.411-51.369 3.4246z"
+      />
+      <path
+          id="path3934"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m626.7 167.05c1.7123-15.411 5.1369-73.629 5.1369-73.629l-5.1369 73.629z"
+      />
+      <path
+          id="path3936"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m628.41 167.05z"
+      />
+      <path
+          id="path3938"
+          sodipodi:nodetypes="ccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90988c"
+          d="m-909.23 76.301c1.7123-8.5615 6.8492-83.902 6.8492-83.902l-6.8492 83.902z"
+      />
+      <path
+          id="path3940"
+          style="stroke:#000000;stroke-width:7.5651px;fill:none"
+          d="m-898.95 78.013z"
+      />
+      <path
+          id="path3942"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b4c0"
+          d="m-883.54 507.8 6.8492-90.751-18.835-8.5615 3.4246-99.313 32.534-5.1369 1.7123 208.9-25.684-5.1369z"
+      />
+      <path
+          id="path3944"
+          sodipodi:nodetypes="ccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#b8a868"
+          d="m-717.45 386.23h65.067l3.4246 167.8-59.93 3.4246-8.5615-171.23z"
+      />
+      <path
+          id="path3946"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#989858"
+          d="m-590.74 550.61 1.7123-126.71 22.26-10.274 8.5615-13.698 23.972 1.7123 6.8492 80.478-27.397 3.4246 3.4246 73.629-39.383-8.5615z"
+      />
+      <rect
+          id="rect3948"
+          style="stroke:#584343;stroke-linecap:round;stroke-width:20.962;fill:#d4c894"
+          height="85.615"
+          width="53.081"
+          y="470.13"
+          x="-380.13"
+      />
+      <path
+          id="path3868"
+          sodipodi:nodetypes="ccccccccccccccccc"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#909894"
+          d="m-263.69 548.89 1.7123-135.27 30.821-3.4246v-20.548l10.274-1.7123v-10.274l23.972 1.7123 1.7123-15.411 25.684 1.7123v-11.986h92.464l-1.7123 23.972 51.369 1.7123 1.7123 15.411 30.821 3.4246-5.124 155.83-263.69-5.14z"
+      />
+      <path
+          id="path3950"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#d8c894"
+          d="m359.58 557.45-1.7123-130.13 34.246-6.8492 25.684 3.4246 3.4246 65.067h37.67l41.095 17.123v46.232l-140.41 5.1369z"
+      />
+      <path
+          id="path3952"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#e0c47c"
+          d="m969.16 550.61-1.7123-193.49h23.972l1.7123-49.656 63.355 3.4246 1.7123 71.916h53.081v162.67l-142.12 5.1369z"
+      />
+      <rect
+          id="rect3954"
+          style="stroke:#584343;stroke-linecap:round;stroke-width:7.5591;fill:url(#linearGradient2909)"
+          height="392.29"
+          width="2285.9"
+          y="555.21"
+          x="-990.83"
+      />
+      <path
+          id="path3974"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90988c"
+          d="m-992.83 560.06v-62.96l29.059-14.529 101.7 33.902 4.8431 19.372 125.92 14.529h169.51l48.431-4.8431 77.489 4.8431 159.82-4.8431 280.9 4.8431 227.63-9.6862 111.39 4.8431 125.92 9.6862 48.431-38.745 101.7 19.372 111.39-4.8431 111.39 14.529 237.31-9.6862 121.08-9.6862 96.862 19.372-29.059 14.529h-2261.7z"
+      />
+      <path
+          id="path3976"
+          style="stroke:#000000;stroke-width:7.5651px;fill:#90b0b4"
+          d="m-905.8-7.6017 8.5615 85.615h-6.8492l-1.7123-85.615z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Melbourne-skyline</dc:title
+        >
+        <dc:date
+          >2010-05-08T06:41:16</dc:date
+        >
+        <dc:description
+          >Skyline Illustrations and  Real Estate Clip art by netalloy in public domain</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/59179/melbourne-skyline-by-netalloy</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >netalloy</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Australia</rdf:li
+            >
+            <rdf:li
+              >Melbourne</rdf:li
+            >
+            <rdf:li
+              >Real Estate</rdf:li
+            >
+            <rdf:li
+              >buildings</rdf:li
+            >
+            <rdf:li
+              >city skyline</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

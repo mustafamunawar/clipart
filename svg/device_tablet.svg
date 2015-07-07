@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Serif DrawPlus 11, 0, 0, 18 (Jul  5, 11:10:22) (http://www.serif.com) -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="389.921" height="495.145">
+	<defs>
+		<linearGradient id="grad_dp_001" gradientUnits="userSpaceOnUse" x1="184.341" y1="227.733" x2="521.071" y2="571.321">
+			<stop offset="0" stop-color="white"/>
+			<stop offset="1" stop-color="white" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g id="selection" transform="matrix(1,0,0,1,-299.535,-296.429)">
+		<path id="rect3918" fill="#4d4d4d" fill-rule="evenodd" d="M 326.043,296.429 L 662.999,296.429 C 677.512,296.429 689.455,308.372 689.455,322.885 L 689.455,757.315 C 689.455,771.828 677.512,783.771 662.999,783.771 L 326.043,783.771 C 311.529,783.771 299.587,771.828 299.587,757.315 L 299.587,322.885 C 299.587,308.372 311.529,296.429 326.043,296.429 Z "/>
+		<path id="rect3908" fill="black" fill-rule="evenodd" d="M 326.043,304.224 L 662.999,304.224 C 677.512,304.224 689.455,316.167 689.455,330.68 L 689.455,765.109 C 689.455,779.623 677.512,791.565 662.999,791.565 L 326.043,791.565 C 311.529,791.565 299.587,779.623 299.587,765.109 L 299.587,330.68 C 299.587,316.167 311.529,304.224 326.043,304.224 Z "/>
+		<path id="rect3910" fill="#999999" fill-rule="evenodd" d="M 323.992,334.729 L 665.02,334.729 L 665.02,745.704 L 323.992,745.704 Z "/>
+		<path id="rect3884" fill="white" fill-rule="evenodd" d="M 326.765,338.057 L 662.305,338.057 L 662.305,742.404 L 326.765,742.404 Z "/>
+		<path id="rect3057" fill="url(#grad_dp_001)" fill-rule="evenodd" d="M 326.095,304.224 C 311.437,304.224 299.535,316.005 299.535,330.661 L 299.535,765.136 C 299.535,779.792 311.437,791.573 326.095,791.573 L 342.055,791.573 L 610.089,304.232 L 326.092,304.232 Z "/>
+		<path id="path3080" fill="none" fill-rule="evenodd" stroke="#666666" stroke-width="2.33867" d="M 477.429,776.123 L 477.429,769.231 L 491.459,762.584 L 503.52,768 L 503.767,776.123 Z "/>
+		<g id="g3858">
+			<path id="rect3852" fill="#999999" fill-rule="evenodd" stroke="#666666" stroke-width="2.04267" d="M 571.136,764.4 L 599.493,764.4 L 599.493,765.689 L 571.136,765.689 Z "/>
+			<path id="rect3854" fill="#999999" fill-rule="evenodd" stroke="#666666" stroke-width="2.04267" d="M 571.644,770.091 L 600,770.091 L 600,771.38 L 571.644,771.38 Z "/>
+			<path id="rect3856" fill="#999999" fill-rule="evenodd" stroke="#666666" stroke-width="2.04267" d="M 571.136,775.979 L 599.493,775.979 L 599.493,777.267 L 571.136,777.267 Z "/>
+		</g>
+	</g>
+</svg>

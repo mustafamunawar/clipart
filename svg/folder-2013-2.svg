@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<path fill="#e51400" d="m2,62v-45h45v45h-45z"/>
+<path fill="#e0e0e0" d="m7,47v-38l7.11-7h37.89v45h-45z"/>
+<path fill="#ba141a" d="m46.854,62 15.146-33h-45l-15,33h44.854z"/>
+<path fill-opacity=".196" d="m14,9-7,6v-6h7z"/>
+<path fill="#f2f2f2" d="m7,9h7v-7l-7,7z"/>
+<text x="21" y="24" font-family="Asakim" fill="#404040" xml:space="preserve" font-size="24px"><tspan x="21" y="24">A</tspan>
+</text>
+<path fill-opacity=".392" d="m2,62h45l1,1h-47l1-1z"/>
+</svg>

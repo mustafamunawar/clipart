@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="Layer_1"
+    enable-background="new 0 0 595.28 841.89"
+    sodipodi:docname="open_box.svg"
+    xml:space="preserve"
+    viewBox="0 0 280.88698 270.89099"
+    version="1.1"
+    y="0px"
+    x="0px"
+    inkscape:version="0.47 r22583"
+  ><sodipodi:namedview
+      id="namedview19"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.28032165"
+      objecttolerance="10"
+      borderopacity="1"
+      inkscape:current-layer="Layer_1"
+      inkscape:cx="140.64"
+      inkscape:cy="135.836"
+      inkscape:window-y="106"
+      inkscape:window-x="193"
+      inkscape:window-width="1254"
+      showgrid="false"
+      inkscape:pageopacity="0"
+      inkscape:window-height="918"
+  />
+<g
+      id="g3"
+      transform="translate(-157 -285.89)"
+    >
+	<polygon
+        id="polygon5"
+        style="fill:#dec697"
+        points="391.06 404.44 437.89 340.07 437.89 340.07 344.22 285.89 297.44 350.26"
+    />
+	<polygon
+        id="polygon7"
+        style="fill:#c5b086"
+        points="297.44 350.26 297.44 448.38 306.34 453.47 306.74 453.27 306.84 453.22 306.84 453.22 307.19 453.02 391.06 404.44"
+    />
+	<polygon
+        id="polygon9"
+        style="fill:#efd5a3"
+        points="297.44 458.67 297.44 556.78 391.06 502.55 391.06 404.44 307.19 453.02 307.19 453.02 306.74 453.27 306.34 453.47"
+    />
+	<polygon
+        id="polygon11"
+        style="fill:#cbb58a"
+        points="306.34 453.47 297.44 448.38 288.55 453.47 288.55 453.47 289.1 453.82 297.44 458.67"
+    />
+	<polygon
+        id="polygon13"
+        style="fill:#efd5a3"
+        points="297.44 448.38 297.44 350.26 203.83 404.44 288.05 453.22 288.05 453.22 288.15 453.27 288.55 453.47"
+    />
+	<polygon
+        id="polygon15"
+        style="fill:#a49270"
+        points="157 394.3 203.83 421.39 250.61 448.47 297.44 458.67 289.1 453.82 288.15 453.27 288.15 453.27 288.05 453.22 203.83 404.44"
+    />
+	<polygon
+        id="polygon17"
+        style="fill:#c5b086"
+        points="203.83 502.55 297.44 556.78 297.44 458.67 297.44 458.67 250.61 448.47 203.83 421.39"
+    />
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Open box</dc:title
+        ><dc:date
+          >2010-08-14T23:23:10</dc:date
+        ><dc:description
+          >Open box in isometric view</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/80593/open-box-by-kenney</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >Kenney</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >box</rdf:li
+            ><rdf:li
+              >cartboard</rdf:li
+            ><rdf:li
+              >cube</rdf:li
+            ><rdf:li
+              >open</rdf:li
+            ><rdf:li
+              >opened</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 50.000001 50.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Quotes.svg">
+  <title
+     id="title4202">Quotes</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="34.489918"
+     inkscape:cy="33.195707"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Quotes</dc:title>
+        <dc:date>28MAY15</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>randomblink</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Everyone, Everywhere</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>randomblink</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)">
+    <g
+       id="g4198"
+       transform="translate(-0.33186592,0.22045)">
+      <path
+         sodipodi:nodetypes="ccccssssssccccc"
+         inkscape:connector-curvature="0"
+         id="rect4147"
+         d="m 18.457307,1008.4805 c -8.03572,0.3274 -13.0307598,2.6756 -14.9057598,8.4494 -0.55088,2.855 -0.54604,7.4991 -0.51611,11.9881 l 0,0.01 0,13.75 c 0,1.7313 1.39375,3.125 3.125,3.125 l 13.6601498,0 c 1.73125,0 3.125,-1.3937 3.125,-3.125 l 0,-13.75 c 0,-1.7312 -1.39375,-3.125 -3.125,-3.125 l -8.68945,0 c -4.4764598,-7.1271 2.25222,-11.7415 7.70313,-11.6679 0.35528,-0.05 0.95609,-0.7035 0.89843,-1.4571 l 0,-2.7675 c -0.19075,-0.799 -0.8949,-1.3858 -1.27539,-1.4258 z"
+         style="fill:#ababab;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccssssssccccc"
+         inkscape:connector-curvature="0"
+         id="rect4147-3"
+         d="m 43.150727,1008.4805 c -8.03572,0.3274 -13.03076,2.6756 -14.90576,8.4494 -0.55088,2.855 -0.54604,7.4991 -0.51611,11.9881 l 0,0.01 0,13.75 c 0,1.7313 1.39375,3.125 3.125,3.125 l 13.66015,0 c 1.73125,0 3.125,-1.3937 3.125,-3.125 l 0,-13.75 c 0,-1.7312 -1.39375,-3.125 -3.125,-3.125 l -8.68945,0 c -4.47646,-7.1271 2.25222,-11.7415 7.70313,-11.6679 0.35528,-0.05 0.95609,-0.7035 0.89843,-1.4571 l 0,-2.7675 c -0.19075,-0.799 -0.8949,-1.3858 -1.27539,-1.4258 z"
+         style="fill:#ababab;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

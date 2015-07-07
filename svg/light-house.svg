@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3987"
+    sodipodi:docname="light house.svg"
+    viewBox="0 0 640 480"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <title
+      id="title3022"
+    >light house</title
+  >
+  <defs
+      id="defs3989"
+    >
+    <linearGradient
+        id="linearGradient3839"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3841"
+          style="stop-color:#cccccc"
+          offset="0"
+      />
+      <stop
+          id="stop3843"
+          style="stop-color:#cccccc;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient3845"
+        y2="57"
+        xlink:href="#linearGradient3839"
+        gradientUnits="userSpaceOnUse"
+        x2="254"
+        gradientTransform="matrix(4.3451 0 0 4.8805 -499.97 -112.56)"
+        y1="62.5"
+        x1="206.5"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient3853"
+        y2="199.28"
+        gradientUnits="userSpaceOnUse"
+        x2="398.1"
+        gradientTransform="matrix(4.3451 0 0 4.8805 -499.97 -112.56)"
+        y1="198.93"
+        x1="423.2"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3849"
+          style="stop-color:#cccccc"
+          offset="0"
+      />
+      <stop
+          id="stop3851"
+          style="stop-color:#cccccc;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <radialGradient
+        id="radialGradient3871"
+        xlink:href="#linearGradient3839"
+        gradientUnits="userSpaceOnUse"
+        cy="59.288"
+        cx="154.5"
+        gradientTransform="matrix(-4.9334 0 0 -1.5194 933.56 277.67)"
+        r="27.303"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="706"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="177.77289"
+      inkscape:cy="189.97985"
+      inkscape:window-width="1366"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+    >
+    <inkscape:grid
+        id="grid4789"
+        type="xygrid"
+    />
+  </sodipodi:namedview
+  >
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+    >
+    <path
+        id="rect3026"
+        style="stroke-width:0;fill:#f44800"
+        d="m277.53 365.91c37.91 14.239 57.43 2.8305 83.101 0v36.424c-21.92-0.93348-39.15-2.6241-83.101 0z"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="rect3028"
+        style="stroke-width:0;fill:#cccccc"
+        d="m298.99 211.1c20.728 9.1883 31.013 5.5601 39.724 0l15.068 151.3c-21.951 5.4639-44.308 9.2653-69.86 0z"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3032"
+        style="stroke-width:0;fill:#f44800"
+        d="m298.08 198.49c20.099 2.0272 28.06 0.45779 38.811 0v12.619c-10.03 1.7986-17.357 8.5856-38.811 0z"
+        inkscape:export-ydpi="151.93301"
+        inkscape:transform-center-x="-6.4685135"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+    />
+    <path
+        id="rect3034"
+        style="fill-opacity:.35450;stroke-width:0;fill:#944417"
+        d="m300.82 170.41h32.419v24.466h-32.419z"
+        inkscape:export-ydpi="151.93301"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3036"
+        style="stroke-width:0;fill:#999999"
+        d="m316.71 150.78c-11.496 0-20.816 5.7926-20.816 12.938 0 2.5015 1.1442 4.8309 3.1225 6.8104v-2.4977h36.948v0.59308c0.99894-1.5141 1.5609-3.1684 1.5609-4.9058 0-7.1459-9.3193-12.938-20.816-12.938z"
+        inkscape:export-ydpi="151.93301"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3811"
+        style="stroke-width:0;fill:#f44800"
+        d="m285.75 339.99c20.728 1.021 55.67-21.097 64.381-21.714l0.45646 22.415c-21.951 0.60718-42.025 22.044-67.577 21.014z"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3813"
+        style="stroke-width:0;fill:#f44800"
+        d="m290.77 293.06c20.728 1.0209 46.538-14.092 55.249-14.71l1.8265 21.715c-21.951 0.60698-34.263 15.74-59.815 14.71z"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3815"
+        style="stroke-width:0;fill:#f44800"
+        d="m294.88 247.53c20.728 1.021 37.406-9.889 46.116-10.507l2.283 21.014c-21.951 0.6071-25.588 12.237-51.139 11.208z"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3817"
+        style="stroke-width:0;fill:url(#linearGradient3853)"
+        d="m14.368 109.5 239.53 36.61-196.5 56.12"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3819"
+        style="stroke-width:0;fill:url(#linearGradient3845)"
+        d="m591.11 150.99-237.27 31.723 198.76 51.245"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3837"
+        style="stroke:#000000;stroke-width:.46050;fill:#666666"
+        d="m313.09 151.65 3.2679-12.781 4.0847 11.361z"
+        inkscape:export-ydpi="151.93301"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+    <path
+        id="path3855"
+        style="stroke-width:0;fill:url(#radialGradient3871)"
+        d="m23.613 150.99 237.27 31.72-198.76 51.25"
+        inkscape:export-ydpi="151.93301"
+        sodipodi:nodetypes="ccc"
+        inkscape:export-filename="C:\Users\fastalloy\Desktop\help-top-venture-fund-logo\felicis ventures.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="151.93301"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >light house</dc:title
+        >
+        <dc:date
+          >2012-05-04T09:27:32</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/169838/light-house-by-netalloy</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >netalloy</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >light house</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" xmlns:xlink="http://www.w3.org/1999/xlink">
+<script/>
+<path fill="#f00" d="m0,0 180,180-120-180z"/>
+<path fill="#ff4000" d="m0,0 120,180-60-180z" transform="translate(60)"/>
+<path fill="#ff8000" d="m0,0 60,180v-180z" transform="translate(120)"/>
+<path fill="#c0ff00" d="m0,0 180,180-120-180z" transform="matrix(-1 0 0 1 360 0)"/>
+<path fill="#ff0" d="m0,0 120,180-60-180z" transform="matrix(-1 0 0 1 300 0)"/>
+<path fill="#ffc000" d="m0,0 60,180v-180z" transform="matrix(-1 0 0 1 240 0)"/>
+<path fill="#4000ff" d="m0,0 180,180-120-180z" transform="matrix(1 0 0 -1 0 360)"/>
+<path fill="#00f" d="m0,0 120,180-60-180z" transform="matrix(1 0 0 -1 60 360)"/>
+<path fill="#0040ff" d="m0,0 60,180v-180z" transform="matrix(1 0 0 -1 120 360)"/>
+<path fill="#0ff" d="m0,0 180,180-120-180z" transform="matrix(-1 0 0 -1 360 360)"/>
+<path fill="#00c0ff" d="m0,0 120,180-60-180z" transform="matrix(-1 0 0 -1 300 360)"/>
+<path fill="#0080ff" d="m0,0 60,180v-180z" transform="matrix(-1 0 0 -1 240 360)"/>
+<path fill="#ff0040" d="m0,0 180,180-120-180z" transform="matrix(0 1 1 0 0 0)"/>
+<path fill="#ff0080" d="m0,0 120,180-60-180z" transform="matrix(0 1 1 0 0 60)"/>
+<path fill="#ff00c0" d="m0,0 60,180v-180z" transform="matrix(0 1 1 0 0 120)"/>
+<path fill="#8000ff" d="m0,0 180,180-120-180z" transform="matrix(0 -1 1 0 0 360)"/>
+<path fill="#c000ff" d="m0,0 120,180-60-180z" transform="matrix(0 -1 1 0 0 300)"/>
+<path fill="#f0f" d="m0,0 60,180v-180z" transform="matrix(0 -1 1 0 0 240)"/>
+<path fill="#80ff00" d="m0,0 180,180-120-180z" transform="matrix(0 1 -1 0 360 0)"/>
+<path fill="#40ff00" d="m0,0 120,180-60-180z" transform="matrix(0 1 -1 0 360 60)"/>
+<path fill="#0f0" d="m0,0 60,180v-180z" transform="matrix(0 1 -1 0 360 120)"/>
+<path fill="#00ffc0" d="m0,0 180,180-120-180z" transform="matrix(0 -1 -1 0 360 360)"/>
+<path fill="#00ff80" d="m0,0 120,180-60-180z" transform="matrix(0 -1 -1 0 360 300)"/>
+<path fill="#00ff40" d="m0,0 60,180v-180z" transform="matrix(0 -1 -1 0 360 240)"/>
+</svg>

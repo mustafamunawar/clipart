@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.3" x="-.15" y="-.15" height="1.3" color-interpolation-filters="sRGB" id="filter5562">
+<feTurbulence seed="5" baseFrequency=".25 .4" type="fractalNoise" numOctaves="3"/>
+<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 " result="result5"/>
+<feComposite in="SourceGraphic" operator="in" in2="result5"/>
+<feMorphology radius="1.5" operator="dilate" result="result3"/>
+<feTurbulence seed="7" baseFrequency=".03" type="fractalNoise" numOctaves="5"/>
+<feGaussianBlur stdDeviation=".5" result="result91"/>
+<feDisplacementMap xChannelSelector="R" scale="27" in="result3" yChannelSelector="G" in2="result91" result="result4"/>
+<feComposite in="result4" operator="arithmetic" k1="1.3" in2="result4" k2="0" k3=".8" k4="0" result="result2"/>
+<feBlend mode="screen" in="result2" in2="result2"/>
+</filter>
+<radialGradient cx="403.468" cy="315.607" id="radialGradient5450" r="245.087" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#003aff" stop-opacity=".02"/>
+<stop offset=".375" stop-color="#fb00ff" stop-opacity=".806"/>
+<stop offset=".43" stop-color="#1eff00" stop-opacity=".226"/>
+<stop offset=".484" stop-color="#004608" stop-opacity=".185"/>
+<stop offset=".5" stop-color="#11890f" stop-opacity=".677"/>
+<stop offset=".558" stop-color="#00f3ff" stop-opacity=".774"/>
+<stop offset=".625" stop-color="#fbff00" stop-opacity=".919"/>
+<stop offset=".75" stop-color="#00c53f"/>
+<stop offset="1" stop-color="#ef00ff" stop-opacity=".056"/>
+</radialGradient>
+</defs>
+<g transform="translate(0 -200)">
+<path fill="url(#radialGradient5450)" filter="url(#filter5562)" d="m648.5549,315.6069a245.0867,245.0867 0 1,1 -490.1734,0 245.0867,245.0867 0 1,1 490.1734,0z" transform="matrix(.05707 .56066 -1.09425 .19164 620.62834 107.30453)"/>
+</g>
+</svg>

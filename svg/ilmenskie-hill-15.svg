@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    id="svg2"
+    xml:space="preserve"
+    viewBox="0 0 270.18 82.448"
+    version="1.1"
+  >
+  <defs
+      id="defs6"
+    >
+    <linearGradient
+        id="linearGradient24"
+        y2="63.555"
+        gradientUnits="userSpaceOnUse"
+        x2="-18.127"
+        gradientTransform="matrix(-.1868 1.589 1.5958 .12952 .0036947 66.036)"
+        y1="63.555"
+        x1="-37.61"
+      >
+      <stop
+          id="stop26"
+          style="stop-color:#db9642"
+          offset="0"
+      />
+      <stop
+          id="stop28"
+          style="stop-color:#acba44"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <g
+      id="g10"
+      transform="matrix(1.25 0 0 -1.25 0 82.448)"
+    >
+    <g
+        id="g12"
+      >
+      <g
+          id="g14"
+        >
+        <g
+            id="g16"
+          >
+          <g
+              id="g22"
+            >
+            <path
+                id="path30"
+                style="fill-rule:evenodd;fill:url(#linearGradient24)"
+                d="m213.36 10.998c-3.2-2.508-10.35-4.59-21.44-6.242-10.35-1.493-25.07-2.747-44.16-3.758-27.73-1.496-55.119-1.309-82.158 0.558-15.149 1.067-26.614 2.266-34.403 3.598-10.558 1.762-18.719 4.32-24.48 7.68-4.586 2.617-6.824 5.281-6.719 8 0.055 2.562 2.293 4.855 6.719 6.883 7.789 2.187 14.586 4.187 20.402 6 11.199 3.464 21.094 8.343 29.68 14.64 12.426 9.067 22.32 14.559 29.679 16.477 10.082 2.617 20.055 0.668 29.918-5.84 11.469-7.625 20.188-13.094 26.161-16.399 9.867-5.546 19.203-9.679 28-12.398 9.976-3.094 22.242-6.348 36.8-9.762 4.426-1.332 7.176-2.668 8.243-4 1.171-1.547 0.425-3.359-2.243-5.437z"
+                inkscape:connector-curvature="0"
+            />
+          </g
+          >
+        </g
+        >
+      </g
+      >
+    </g
+    >
+  </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="Layer_1"
+    enable-background="new 0 0 215.926 286.559"
+    sodipodi:docname="kitchen-scale.svg"
+    xml:space="preserve"
+    viewBox="0 0 215.926 286.559"
+    version="1.0"
+    y="0px"
+    x="0px"
+    inkscape:version="0.48.2 r9819"
+  ><sodipodi:namedview
+      id="namedview247"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.82356516"
+      objecttolerance="10"
+      borderopacity="1"
+      inkscape:current-layer="Layer_1"
+      inkscape:cx="107.963"
+      inkscape:cy="143.2795"
+      inkscape:window-y="0"
+      inkscape:window-x="0"
+      inkscape:window-width="646"
+      showgrid="false"
+      inkscape:pageopacity="0"
+      inkscape:window-height="480"
+  />
+<g
+      id="scale"
+    >
+	<path
+        id="path237"
+        d="m215.83 254.04l-37.05-172.11c-0.495-2.297-2.842-4.178-5.216-4.178h-53.952v-13.05c42.559-4.19 76.195-31.008 80.922-64.702h-185.14c4.725 33.694 38.362 60.512 80.917 64.702v13.051h-53.95c-2.376 0-4.723 1.881-5.219 4.178l-37.044 172.11c-0.497 2.297 1.041 4.172 3.421 4.172h208.9c2.37 0.01 3.91-1.87 3.41-4.17z"
+        fill="#231F20"
+    />
+	<g
+        id="g239"
+      >
+		<path
+          id="path241"
+          d="m174 165.71c0 36.047-29.566 65.27-66.04 65.27-36.471 0-66.04-29.223-66.04-65.27 0-36.056 29.569-65.279 66.04-65.279 36.48 0 66.04 29.22 66.04 65.28z"
+          fill="#FFFFFF"
+      />
+		<path
+          id="path243"
+          d="m156.59 138.35c-0.953-1.632-3.065-2.195-4.717-1.25l-31.141 17.767c-3.086-3.553-7.66-5.809-12.774-5.809-9.299 0-16.839 7.449-16.839 16.648 0 9.189 7.541 16.643 16.839 16.643 9.301 0 16.839-7.453 16.839-16.643 0-1.691-0.255-3.322-0.729-4.857l31.257-17.839c1.65-0.94 2.22-3.03 1.26-4.66z"
+          fill="#231F20"
+      />
+	</g
+    >
+	<path
+        id="path245"
+        d="m215.93 280.59c0 3.281-2.686 5.967-5.968 5.967h-203.99c-3.282 0-5.968-2.686-5.968-5.967v-9.408c0-3.283 2.686-5.969 5.968-5.969h203.99c3.282 0 5.968 2.686 5.968 5.969v9.41z"
+        fill="#231F20"
+    />
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Kitchen Icon - Scale</dc:title
+        ><dc:date
+          >2012-05-07T12:19:10</dc:date
+        ><dc:description
+          >Kitchen scale</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/169922/kitchen-icon---scale-by-studiofibonacci</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >StudioFibonacci</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >icon</rdf:li
+            ><rdf:li
+              >kitchen</rdf:li
+            ><rdf:li
+              >scale</rdf:li
+            ><rdf:li
+              >silhouette</rdf:li
+            ><rdf:li
+              >weight</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

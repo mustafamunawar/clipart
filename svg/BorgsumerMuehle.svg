@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Serif DrawPlus 11, 0, 3, 23 (Feb 25, 14:12:55) (http://www.serif.com) -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    version="1.1"
+    viewBox="0 0 244.4 309.48"
+  >
+  <defs
+    >
+    <linearGradient
+        id="grad_dp_001"
+        y2="387.61"
+        gradientUnits="userSpaceOnUse"
+        x2="422.64"
+        y1="387.61"
+        x1="344.8"
+      >
+      <stop
+          stop-color="#bbbbbb"
+          offset="0"
+      />
+      <stop
+          stop-color="black"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <g
+      id="dp_group001"
+      fill-rule="evenodd"
+      transform="translate(-266 -281.32)"
+    >
+    <path
+        id="dp_path002"
+        d="m371.02 488.06v17.58"
+        stroke="#fafafa"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path003"
+        d="m386.86 549.78h5.08"
+        stroke="#cbcbcb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path004"
+        d="m324 491.32l2.8-0.8v18.8h-2.8z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <path
+        id="dp_path005"
+        d="m373.61 445.14v18.71"
+        stroke="#fafafa"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path006"
+        d="m387.47 562.68l5.47 0.38"
+        stroke="#cbcbcb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path007"
+        d="m311.6 586.52l27.7 3.3 62.3 0.3 46.5-1.1-0.1-51.7-132.8-2.8z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#d70000"
+    />
+    <path
+        id="dp_path008"
+        d="m349.36 564.63h5.47"
+        stroke="#cbcbcb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path009"
+        d="m323.6 541.72h7.2l-1.2 27.6-7.6-0.6z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <g
+        id="dp_group010"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#333333"
+      >
+      <path
+          id="dp_path011"
+          d="m417.22 427.07h3.58l0.13 5.24-2.17 2.81z"
+      />
+      <path
+          id="dp_path012"
+          d="m425.15 456.35h4.48v4.22l-2.31 3.07z"
+      />
+    </g
+    >
+    <path
+        id="dp_path013"
+        d="m316.4 490.52l0.31 24.27 124.81 2.05 1.68-31.12-42.4-5.2-58 1.2z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#d70000"
+    />
+    <path
+        id="dp_path014"
+        d="m400 481.72l42.4 6-0.24 28.48-40.96 0.72z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#670000"
+    />
+    <path
+        id="dp_path015"
+        d="m342.8 482.12l0.4 37.2h58l-0.8-37.2z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#9b0000"
+    />
+    <path
+        id="dp_path016"
+        d="m331.6 489.72l2.8-0.8-0.4 18.4h-2.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <path
+        id="dp_path017"
+        d="m342 536.12l-2.4 53.6 62 0.4v-53.2z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="darkred"
+    />
+    <path
+        id="dp_path018"
+        d="m348.8 541.72h6l-0.3 28.8h-6.1z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <path
+        id="dp_path019"
+        d="m364 486.92h14.4v19.6h-14.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path020"
+        d="m363.2 542.12h14l1.2 47.9-16.2-0.1z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <path
+        id="dp_path021"
+        d="m409.6 488.12l4 0.4v26.8h-3.6z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path022"
+        d="m386.4 541.32h6.8l0.1 29.6-6.6 0.1z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#ebebeb"
+    />
+    <path
+        id="dp_path023"
+        d="m419.2 543.82v22.4l8.8-0.1v-22.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#333333"
+    />
+    <path
+        id="dp_path024"
+        d="m429.2 490.52l4.4 0.4v18h-4.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#878787"
+    />
+    <path
+        id="dp_path025"
+        d="m446.12 536.79l1.88 52.13-46.8 1.2v-53.6z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#5b0000"
+    />
+    <path
+        id="dp_path026"
+        d="m432.7 545.12h4.8l0.1 15.4-4.8 0.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#1f1f1f"
+    />
+    <path
+        id="dp_path027"
+        d="m344.8 408.92c6.5-19.95 16.67-38.07 42.4-48.4 13.35 4.45 25.45 18.08 35.6 46l-8.8 8.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="url(#grad_dp_001)"
+    />
+    <path
+        id="dp_path028"
+        d="m269.2 524.52l46 10.4 132.4 2 32.8-4 14.8-11.2-82.4-8.8-104.4 1.6z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#070707"
+    />
+    <path
+        id="dp_path029"
+        d="m268 507.72l1.52 15.64"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path030"
+        d="m279.2 503.32l1.2 17.2"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path031"
+        d="m291.2 500.52l2.8 16.8"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path032"
+        d="m305.2 496.92l2 17.2"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path033"
+        d="m344 496.12v17.6"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path034"
+        d="m378.6 495.23l1 18.09"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path035"
+        d="m416.8 494.52l-2 18.4"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path036"
+        d="m469.6 500.92l-0.8 16.4"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path037"
+        d="m492.4 505.32l-1.6 15.6"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path038"
+        d="m267.6 507.72l38.4-11.2 110.8-2 78.4 10.4"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path039"
+        d="m307.5 513.26l35.7-16.74"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path040"
+        d="m343.82 512.87l-39.02-15.95-10.72 19.53-14.58-12.15-10.1 18.93"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path041"
+        d="m268 507.72l12.26 12.57 11.34-19.37 15.52 12.59"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path042"
+        d="m344 496.12l35.76 16.24 37.21-17.52 25.45 20.59 27.18-14.11 22 19.6"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path043"
+        d="m445.2 497.32l-2.8 19.2"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path044"
+        d="m492.42 504.18l-23.66 13.68-23.53-19.56-30.44 14.19-36.19-17.26-34.6 17.69"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path045"
+        d="m276.4 524.92l33.6-6.8 104.8-0.4 75.2 8"
+        stroke="#bbbbbb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path046"
+        d="m346.8 409.72l17.2-8.8 26.4-1.6 22.8 3.2c5.21 39.7 15.16 71.58 33.18 85.67l-45.78-6.52-59.98 1.03-26.22 8.22c18.78-19.66 28.55-47.68 32.4-81.2z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#bbbbbb"
+    />
+    <path
+        id="dp_path047"
+        d="m367.6 390.52l44.8 2c-3.22-19.26-11.44-29.14-23.2-32.4-10.92-1.04-18.14 9.04-21.6 30.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#333333"
+    />
+    <path
+        id="dp_path048"
+        d="m384 384.52l11.6 0.8"
+        stroke="#fafafa"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path049"
+        d="m446 487.72l-51.2-6.8-5.6-80.8 24.4 3.2c4.76 36.6 11.58 70.28 32.4 84.4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#333333"
+    />
+    <path
+        id="dp_path050"
+        d="m364 401.74c-5.74 36.66-12.8 69.23-23.89 81.08l61.26-1.02c-5.71-26.91-9.4-54.5-9.77-82.48z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#636363"
+    />
+    <path
+        id="dp_path051"
+        d="m367.6 448.12v16.4h12l0.4-16v-0.4l-6.4-4z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#cbcbcb"
+    />
+    <path
+        id="dp_path052"
+        d="m370.8 418.12v12h9.6l-0.14-12.26-4.6-2.94z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#cbcbcb"
+    />
+    <path
+        id="dp_path053"
+        d="m272.8 525.33l38.8 48.79"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path054"
+        d="m321.2 573.32l-35.18-49.68"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path055"
+        d="m330 573.72l-35.18-51.68"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path056"
+        d="m310.8 518.92l29.2 55.2"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path057"
+        d="m357.2 574.94l-9.89-57.24"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path058"
+        d="m374.57 517.96l7.83 56.96"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path059"
+        d="m400.4 574.92l14.82-57.1"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path060"
+        d="m445.83 521.16l-29.83 54.56"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path061"
+        d="m430.85 575.02l30.67-52.02"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path062"
+        d="m484.71 525.37l-39.11 50.35"
+        stroke="#dbdbdb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path063"
+        d="m290.4 290.52l16.8-9.2 73.92 59.28-3.04 8.16-7.28 6.56z"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path064"
+        d="m402.4 354.12l66.4-55.2 17.6 14-62.8 56-13.6-4.4z"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path065"
+        d="m411.2 374.52l99.2 77.6-14.8 19.6-94.8-71.2 0.4-14.8z"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path066"
+        d="m287.6 456.92l-21.6-18.8 85.6-60.8 17.6 1.6 9.2 3.6z"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path067"
+        d="m290.8 288.92l216.4 169.2"
+        stroke="black"
+        stroke-width="3.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path068"
+        d="m473.2 301.32l-190.8 154.4"
+        stroke="black"
+        stroke-width="3.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path069"
+        d="m386 369.72l7.2-6.8 3.6 2.8-7.2 6.8z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="#4f0000"
+    />
+    <path
+        id="dp_path070"
+        d="m389.28 360.44l8.64 6.72-4 3.52-8.8-6.08z"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="darkred"
+    />
+    <path
+        id="dp_path071"
+        d="m365.16 548.61h10.94"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path072"
+        d="m365.16 569.7h10.94"
+        stroke="black"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path073"
+        d="m370.47 451.21l0.12 9.38"
+        stroke="#a7a7a7"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path074"
+        d="m376.32 451.08v9.38"
+        stroke="#a7a7a7"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path075"
+        d="m374.01 419.98v7.54h3.35v-7.54z"
+        fill="#a7a7a7"
+    />
+    <path
+        id="dp_path076"
+        d="m350.14 549.39l4.69-0.39"
+        stroke="#cbcbcb"
+        stroke-width="1.3333"
+        fill="none"
+    />
+    <path
+        id="dp_path077"
+        d="m369.06 448.94l9.89-0.08"
+        stroke="#fafafa"
+        stroke-width="1.3333"
+        fill="none"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Windmill</dc:title
+        >
+        <dc:date
+          >2012-01-15T12:52:46</dc:date
+        >
+        <dc:description
+          >Borgsumer Windmill</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/167088/windmill-by-jogdragoon</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >jogdragoon</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >borgsum</rdf:li
+            >
+            <rdf:li
+              >borgsumer</rdf:li
+            >
+            <rdf:li
+              >drakoon</rdf:li
+            >
+            <rdf:li
+              >earlier</rdf:li
+            >
+            <rdf:li
+              >foehr</rdf:li
+            >
+            <rdf:li
+              >formely</rdf:li
+            >
+            <rdf:li
+              >formely times</rdf:li
+            >
+            <rdf:li
+              >fÃ¶hr</rdf:li
+            >
+            <rdf:li
+              >jogdragoon</rdf:li
+            >
+            <rdf:li
+              >mill</rdf:li
+            >
+            <rdf:li
+              >mÃ¼hle</rdf:li
+            >
+            <rdf:li
+              >old style</rdf:li
+            >
+            <rdf:li
+              >times</rdf:li
+            >
+            <rdf:li
+              >vintage</rdf:li
+            >
+            <rdf:li
+              >wind</rdf:li
+            >
+            <rdf:li
+              >windmill</rdf:li
+            >
+            <rdf:li
+              >windmuehle</rdf:li
+            >
+            <rdf:li
+              >windmÃ¼hle</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

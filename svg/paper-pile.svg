@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg2"
+    sodipodi:docname="paper-pile.svg"
+    inkscape:export-filename="/home/fla/Felipe/3_ImagenDigital/iconos/cartas.png"
+    viewBox="0 0 100 100"
+    sodipodi:version="0.32"
+    inkscape:export-xdpi="90"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:export-ydpi="90"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <title
+      id="title2997"
+    >Paper Pile</title
+  >
+  <defs
+      id="defs4"
+    >
+    <filter
+        id="filter18922"
+        height="1.2344"
+        width="1.138"
+        y="-.11720"
+        x="-.069021"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur18924"
+          stdDeviation="1.2494129"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:showpageshadow="false"
+      inkscape:zoom="2.8284271"
+      height="100px"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="-36.257489"
+      inkscape:cy="48.443431"
+      inkscape:grid-bbox="false"
+      inkscape:window-maximized="0"
+      showgrid="true"
+      width="100px"
+      inkscape:guide-bbox="true"
+      showguides="true"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      inkscape:window-y="27"
+      inkscape:window-width="1024"
+      inkscape:pageopacity="1"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:document-units="px"
+      inkscape:window-height="693"
+  />
+  <g
+      id="layer1"
+      inkscape:label="cartas"
+      inkscape:groupmode="layer"
+    >
+    <path
+        id="path17907"
+        style="filter:url(#filter18922);fill-rule:evenodd;fill:#cccccc"
+        transform="matrix(.96896 0 0 .96896 2.9257 12.45)"
+        inkscape:connector-curvature="0"
+        d="m83.5 46 10.394 6.001-33.922 19.585-9.523-5.498 33.051-20.088z"
+    />
+    <path
+        id="path5196"
+        style="fill-rule:evenodd;fill:#ac9d93"
+        inkscape:connector-curvature="0"
+        d="m43.996 41.476v-16.681l37.589 21.702v16.534l-37.589-21.555z"
+    />
+    <path
+        id="path5183"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#6c5d53"
+        inkscape:connector-curvature="0"
+        d="m16.424 42.014 27.925-16.173v15.346l-28.098 16.381 0.17202-15.553z"
+    />
+    <path
+        id="path5177"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#ffffff"
+        inkscape:connector-curvature="0"
+        d="m16.346 46.863 28.113-16.267 37.468 21.795-28.087 16.414-37.494-21.942z"
+    />
+    <path
+        id="path5175"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#e6e6e6"
+        inkscape:connector-curvature="0"
+        d="m53.627 79.062-37.318-21.506-0.188-10.803 37.857 22.124-0.351 10.185z"
+    />
+    <path
+        id="path5179"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#ac9d93"
+        inkscape:connector-curvature="0"
+        d="m16.378 57.592-3.7514-2.2161v-15.404l3.8046 2.2376-0.05329 15.383z"
+    />
+    <path
+        id="path5191"
+        inkscape:connector-curvature="0"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#ac9d93"
+        d="m57.277 80.902-3.5639-1.8412v-15.498l3.7109 2.0502-0.147 15.289z"
+    />
+    <path
+        id="path5194"
+        sodipodi:nodetypes="ccccccccc"
+        style="fill-rule:evenodd;fill:#e3dedb"
+        inkscape:connector-curvature="0"
+        d="m12.695 40.164 31.642-17.883 43.83 25.402-30.879 18.02-3.702-2.138 28.138-16.246-37.305-21.441-28.041 16.353-3.683-2.067z"
+    />
+    <path
+        id="path5198"
+        sodipodi:nodetypes="ccccc"
+        style="fill-rule:evenodd;fill:#6c5d53"
+        inkscape:connector-curvature="0"
+        d="m57.304 80.649 30.905-17.843v-15.145l-30.82 17.978-0.0846 15.01z"
+    />
+    <path
+        id="path6173"
+        style="stroke:#7f7f7f;stroke-width:1.0603px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m25.44 47.474 20.436-11.799"
+    />
+    <path
+        id="path6175"
+        style="stroke:#7f7f7f;stroke-width:1.0603px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m32.375 51.222 14.012-8.089"
+    />
+    <path
+        id="path6177"
+        style="stroke:#7f7f7f;stroke-width:1.0603px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m38.373 54.596 19.63-11.333"
+    />
+    <path
+        id="path6179"
+        style="stroke:#7f7f7f;stroke-width:1.0603px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m45.87 58.719 19.63-11.333"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

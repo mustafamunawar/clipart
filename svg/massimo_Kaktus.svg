@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 115" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(.93275 0 0 .93275 206.32 -106.8)" id="linearGradient3280" y1="665.36" x1="136" y2="600.36" gradientUnits="userSpaceOnUse" x2="134">
+<stop offset="0" stop-color="#ff6700"/>
+<stop offset="1" stop-color="#ff6700" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="123" cy="528.36" gradientTransform="matrix(.93275 0 0 .20118 224.98 351.55)" id="radialGradient3276" r="51" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ffe400"/>
+<stop offset="1" stop-color="#ffe400" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<g transform="matrix(.96468 0 0 .96468 -276.04 -385.08)">
+<path fill="#b9cf00" d="m158,362.36a43.5,43 0 0,1 -87,.18" transform="matrix(.95414 0 0 -.95414 229.99 798.92)"/>
+</g>
+<g fill-rule="evenodd">
+<g transform="matrix(.96468 0 0 .96468 -276.04 -385.08)">
+<path fill="url(#linearGradient3280)" d="m319.18,514.75l54.1-.93 10.26-52.24-84.88,.94 10.26,53.16 10.26-.93z"/>
+<path fill="#f77108" d="m292.13,453.19v14.92l95.14-1.86v-18.66l-95.14,5.6z"/>
+<path fill="url(#radialGradient3276)" d="m292.13,453.19v14.92l95.14-1.86v-18.66l-95.14,5.6z"/>
+</g>
+<g fill="#100000" stroke="#000" stroke-width=".518" transform="matrix(.96468 0 0 .96468 -276.04 -385.08)">
+<path d="m310.25,428.39l-7.87-11.27 13.35,7.06-5.48,4.21z"/>
+<path d="m304.52,438.95l-7.87-11.27 13.35,7.06-5.48,4.21z"/>
+<path d="m320.38,420.58l-7.87-11.27 13.35,7.06-5.48,4.21z"/>
+<path d="m333.81,414.69l-.21-13.75 7.11,13.33-6.9,.42z"/>
+<path d="m347.87,414.46l4.82-12.87 1.75,15-6.57-2.13z"/>
+<path d="m363.45,420.28l9-10.39-3.58,14.68-5.42-4.29z"/>
+<path d="m372.12,429.63l10.99-8.26-6.6,13.59-4.39-5.33z"/>
+<path d="m378.29,440.17l13.18-3.92-10.91,10.45-2.27-6.53z"/>
+<path d="m301.45,451.89l-11.54-7.46 15.03,1.49-3.49,5.97z"/>
+<path d="m342.14,439.63l7.77-11.35-1.89,14.99-5.88-3.64z"/>
+<path d="m326.15,434.72l7.76-11.35-1.89,14.99-5.87-3.64z"/>
+<path d="m358.66,436.84l7.76-11.35-1.88,14.99-5.88-3.64z"/>
+<path d="m337.46,425.53l7.76-11.35-1.89,14.99-5.87-3.64z"/>
+<path d="m319.25,444.1l-2.16-13.57 8.93,12.18-6.77,1.39z"/>
+</g>
+</g>
+</svg>

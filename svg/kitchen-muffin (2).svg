@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="Layer_1"
+    enable-background="new 0 0 286.559 252.785"
+    sodipodi:docname="kitchen-muffin.svg"
+    xml:space="preserve"
+    viewBox="0 0 286.559 252.785"
+    version="1.0"
+    y="0px"
+    x="0px"
+    inkscape:version="0.48.2 r9819"
+  ><sodipodi:namedview
+      id="namedview249"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.93359969"
+      objecttolerance="10"
+      borderopacity="1"
+      inkscape:current-layer="Layer_1"
+      inkscape:cx="143.2795"
+      inkscape:cy="126.3925"
+      inkscape:window-y="0"
+      inkscape:window-x="0"
+      inkscape:window-width="646"
+      showgrid="false"
+      inkscape:pageopacity="0"
+      inkscape:window-height="480"
+  />
+<g
+      id="miffin"
+    >
+	<path
+        id="path237"
+        d="m143.28 0c-58.796 0-121.74 23.767-129.96 31.891s-13.32 19.33-13.32 31.656v24.897c0 10.986 4.053 21.637 10.751 30.01s16.045 14.467 26.631 16.338l4.79 36.763 4.79 36.764c1.547 12.229 8.055 23.349 17.293 31.408s21.205 13.059 33.675 13.059h90.696c12.47 0 24.44-4.999 33.682-13.059 9.236-8.06 15.742-19.18 17.287-31.408l4.791-36.764 4.792-36.763c10.587-1.871 19.933-7.965 26.634-16.338 6.696-8.373 10.747-19.023 10.747-30.01v-24.893c0-12.326-5.101-23.532-13.321-31.656s-68.83-31.891-129.96-31.891z"
+        fill="#231F20"
+    />
+	<path
+        id="path239"
+        d="m271.19 78.118c-2.781 0-5.037 2.231-5.037 4.982-0.005 9.128-3.733 17.345-9.778 23.334-6.058 5.975-14.371 9.657-23.606 9.664-7.18-0.007-13.791-2.235-19.23-6.036-1.558-1.09-3.026-2.297-4.377-3.628-1.329-1.322-2.54-2.747-3.632-4.271-0.914 3.705-2.459 7.153-4.517 10.245-1.257 1.884-2.692 3.637-4.301 5.226-6.057 5.979-14.37 9.662-23.606 9.668-9.101-0.006-17.305-3.587-23.341-9.416-0.084-0.087-0.178-0.165-0.263-0.252-2.51-2.484-4.617-5.356-6.227-8.519-1.607 3.162-3.711 6.034-6.225 8.519-0.084 0.087-0.174 0.165-0.263 0.252-6.032 5.829-14.239 9.41-23.336 9.416-9.238-0.006-17.554-3.688-23.611-9.668-1.606-1.589-3.045-3.342-4.296-5.226-2.061-3.092-3.608-6.54-4.521-10.245-1.09 1.523-2.301 2.948-3.632 4.271-1.348 1.331-2.815 2.538-4.373 3.628-5.438 3.801-12.056 6.029-19.232 6.036-9.234-0.007-17.547-3.689-23.605-9.664-6.049-5.989-9.778-14.206-9.778-23.334 0-2.751-2.258-4.982-5.042-4.982-2.779 0-5.037 2.231-5.037 4.982 0.004 23.728 19.457 42.956 43.461 42.956 8.887 0 17.146-2.64 24.03-7.169 7.856 11.101 20.881 18.372 35.635 18.372 11.552 0 22.045-4.461 29.824-11.73 7.785 7.27 18.278 11.73 29.83 11.73 14.751 0 27.771-7.271 35.633-18.372 6.882 4.523 15.141 7.169 24.03 7.169 24.005 0 43.455-19.229 43.459-42.956 0.02-2.754-2.23-4.986-5.02-4.986z"
+        fill="#FFFFFF"
+    />
+	<g
+        id="g241"
+        fill="#FFFFFF"
+      >
+		<path
+          id="path243"
+          d="m138.25 231.63v-70.974c0-2.751 2.256-4.978 5.036-4.978 2.785 0 5.037 2.227 5.037 4.978v70.974c0 2.743-2.252 4.974-5.037 4.974-2.79 0-5.04-2.23-5.04-4.97z"
+      />
+		<path
+          id="path245"
+          d="m91.026 231.7l-18.58-68.548c-0.722-2.663 0.876-5.389 3.564-6.1s5.45 0.863 6.169 3.518l18.584 68.552c0.72 2.654-0.876 5.385-3.566 6.096-0.436 0.118-0.874 0.173-1.306 0.173-2.22 0.01-4.254-1.46-4.862-3.69z"
+      />
+		<path
+          id="path247"
+          d="m189.36 235.22c-2.688-0.711-4.279-3.441-3.56-6.096l18.582-68.552c0.72-2.654 3.483-4.229 6.172-3.518 2.688 0.711 4.279 3.445 3.563 6.1l-18.58 68.55c-0.602 2.231-2.642 3.695-4.864 3.695-0.44 0-0.88-0.06-1.31-0.18z"
+      />
+	</g
+    >
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Kitchen Icon - Muffin</dc:title
+        ><dc:date
+          >2012-05-07T12:08:52</dc:date
+        ><dc:description
+          >Muffin</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/169917/kitchen-icon---muffin-by-studiofibonacci</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >StudioFibonacci</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >icon</rdf:li
+            ><rdf:li
+              >kitchen</rdf:li
+            ><rdf:li
+              >muffin</rdf:li
+            ><rdf:li
+              >silhouette</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

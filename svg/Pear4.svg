@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient855">
+<stop offset="0" stop-color="#dd6204"/>
+<stop offset="1" stop-color="#e48e17" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="linearGradient829">
+<stop offset="0" stop-color="#fff" stop-opacity=".542"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx=".811" cy=".652" id="radialGradient832" xlink:href="#linearGradient855" r=".411"/>
+<radialGradient cx=".465" cy=".553" id="radialGradient874" xlink:href="#linearGradient829" r=".385"/>
+<radialGradient cx=".443" cy=".537" id="radialGradient861" xlink:href="#linearGradient829" r=".173"/>
+<radialGradient cx=".474" cy=".567" id="radialGradient862" xlink:href="#linearGradient829" r=".467"/>
+<radialGradient cx=".317" cy=".876" id="radialGradient863" r=".587">
+<stop offset="0" stop-color="#d9b72e"/>
+<stop offset="1" stop-color="#e4e417"/>
+</radialGradient>
+<radialGradient cx=".587" cy=".572" id="radialGradient864" xlink:href="#linearGradient855" r=".43"/>
+</defs>
+<g fill-rule="evenodd">
+<g stroke="#000" stroke-linejoin="round" stroke-width="10">
+<path fill="url(#radialGradient863)" d="m226.25,85s32.5-21.25 73.75,0c35,40 126.25,173.75 133.75,228.75-8.75,73.75-60,165-127.5,165-32.5-8.75-62.5-8.75-112.5,0-52.5-1.25-141.25-108.75-115-175 26.25-65 52.5-91.25 88.75-183.75 0-7.5 35-31.25 58.75-35z"/>
+<path fill="#643300" d="m210,88.75l-22.5-38.75s-22.5-33.75 10-35c23.75,0 17.5,15 18.75,23.75s17.5,43.75 17.5,43.75-18.75,5-23.75,6.25z"/>
+</g>
+<g stroke-width="1.25">
+<path fill="url(#radialGradient832)" d="m301.25,96.25s58.75,117.5 26.25,126.25-85,42.5-57.5,71.25 61.25,17.5 66.25,55 38.75,73.75 56.25,70c20-33.13 33.26-54.48 37.03-112.34-13.59-43.6-105.15-193.91-128.28-210.16z"/>
+<path fill="url(#radialGradient862)" stroke="url(#radialGradient874)" d="m210,247.5c-43.75-13.75-48.75,38.75-7.5,53.75 38.75,5 52.5-35 7.5-53.75z"/>
+<path fill="url(#radialGradient861)" d="m228.75,148.75c-17.5-6.25-58.75,20-15,45 30,12.5 62.5-26.25 15-45z"/>
+<path fill="#fff" fill-opacity=".15" d="m187.47,24.601c-7.5,2.5 25.43,65.876 30.43,54.626-6.25-20-22.93-48.376-30.43-54.626z"/>
+<path fill="url(#radialGradient864)" d="m401.13,231.1s-18.91-47.63-56.74-84.85c-40.73,2.98-21.82,135.47 24.73,132.49s29.1-35.73 32.01-47.64z"/>
+<path fill="url(#radialGradient864)" d="m396.46,403.04s4.38-84.42-65.6-108.06c-47.09,3.79-25.23,172.52 28.6,168.73 53.82-3.79 33.64-45.5 37-60.67z"/>
+<path fill="url(#radialGradient864)" d="m380.21,324.92s4.38-84.42-65.6-108.07c-47.09,3.8-25.23,172.52 28.6,168.73 53.82-3.79 33.64-45.5 37-60.66z"/>
+<path fill="url(#radialGradient864)" d="m371.46,243.67s4.38-84.42-65.6-108.07c-47.09,3.8-25.23,172.52 28.6,168.73 53.82-3.79 33.64-45.5 37-60.66z"/>
+<path fill="url(#radialGradient864)" d="m351.46,416.17s4.38-84.42-65.6-108.07c-47.09,3.8-25.23,172.52 28.6,168.73 53.82-3.79 33.64-45.5 37-60.66z"/>
+<path fill="url(#radialGradient864)" d="m353.96,207.42s4.38-84.42-65.6-108.07c-47.09,3.8-25.23,172.52 28.6,168.73 53.82-3.79 33.64-45.5 37-60.66z"/>
+<path fill="#ac4200" fill-opacity=".175" d="m345,156.25c136.25,248.75-32.5,305 5,315 68.75-62.5 123.75-151.25-5-315z"/>
+<path fill="#fff" fill-opacity=".225" d="m171.25,128.75c-73.75,150-98.75,178.75-92.5,197.5 2.5,70 51.25,107.5 75,125 50-21.25-110-66.25 17.5-322.5z"/>
+</g>
+</g>
+</svg>

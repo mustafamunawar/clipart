@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg3115"
+    sodipodi:docname="New document 5"
+    viewBox="0 0 450 700"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="55"
+      pagecolor="#ffffff"
+      inkscape:window-height="931"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.35"
+      inkscape:window-x="101"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="246.91137"
+      inkscape:cy="485.78855"
+      inkscape:window-width="1117"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-128.09 -318.15)"
+    >
+    <g
+        id="g4660"
+        transform="matrix(-.85020 .52645 -.52645 -.85020 -668.75 1819.8)"
+      >
+      <path
+          id="rect4400"
+          sodipodi:nodetypes="ccccccccc"
+          style="stroke:#000000;stroke-width:4;fill:#a7baaf"
+          d="m-1530.2 119.06c4.0579-10.505 12.936-11.369 20.506-14.849 31.7-10.376 65.714-12.654 101.18-9.8464 19.661 4.8131 36.594 12.353 48.726 24.696v414.2c-23.364 33.294-42.355 22.858-60.104 0l-2.1213-381.05h-108.19v-33.154z"
+      />
+      <path
+          id="rect4392"
+          sodipodi:nodetypes="ccccccccccccc"
+          style="stroke:#000000;stroke-width:4;fill:#c60c0d"
+          d="m-1519.7 214.05h156.66c16.874-0.54882 2.199 1.0805 17.2 9.8958 8.7086 20.263 12.208 39.111 2.1207 59.374-6.9463 1.3984-6.7597 10.143-19.321 9.6573l-74.662 1.4443v78.274l44 0.72318v31.342l-44 8.619-16 400.66c-24.304 19.662-20.89 22.859-49.994 0l-16-599.99z"
+      />
+      <rect
+          id="rect4395"
+          style="stroke:#000000;stroke-width:4;fill:#d9f1e4"
+          height="21.92"
+          width="100.41"
+          y="192.52"
+          x="-1530.2"
+      />
+      <path
+          id="rect4397"
+          sodipodi:nodetypes="ccccccccc"
+          style="stroke:#000000;stroke-width:4;fill:#7d8b83"
+          d="m-1436.6 322.63c-3.4088-5.6168 3.3294-21.244 20.445-19.32h52.387c12.677 0.52241 22.761 3.1588 20.506 18.613v21.213c2.7302 11.825-4.4824 23.88-20.564 20.704h-52.924c-20.087 5.0806-22.08-12.872-19.85-20.704v-20.506z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Pipe Wrench</dc:title
+        >
+        <dc:date
+          >2010-03-25T04:24:13</dc:date
+        >
+        <dc:description
+          >A pipe wrench.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/33967/pipe-wrench-by-bnielsen</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >bnielsen</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >pipe</rdf:li
+            >
+            <rdf:li
+              >tool</rdf:li
+            >
+            <rdf:li
+              >wrench</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

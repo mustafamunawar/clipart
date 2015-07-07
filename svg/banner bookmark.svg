@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 800" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.228" x="-.114" y="-.217" height="1.434" color-interpolation-filters="sRGB" id="filter3899">
+<feGaussianBlur stdDeviation="3.31109"/>
+</filter>
+<filter color-interpolation-filters="sRGB" id="filter3918">
+<feGaussianBlur stdDeviation="1.38582"/>
+</filter>
+<filter width="1.635" x="-.318" y="-.349" height="1.698" color-interpolation-filters="sRGB" id="filter3874">
+<feGaussianBlur stdDeviation="4.91661"/>
+</filter>
+<filter color-interpolation-filters="sRGB" id="filter3972">
+<feGaussianBlur stdDeviation="1.86634"/>
+</filter>
+<filter width="19.883" x="-9.441" y="-.014" height="1.027" color-interpolation-filters="sRGB" id="filter3946">
+<feGaussianBlur stdDeviation="3.93396"/>
+</filter>
+<filter color-interpolation-filters="sRGB" id="filter3924">
+<feGaussianBlur stdDeviation="2.81707"/>
+</filter>
+<linearGradient id="linearGradient3914" y1="354.36" y2="964.36" x1="472" gradientUnits="userSpaceOnUse" x2="466.3">
+<stop offset="0" stop-color="#c00"/>
+<stop offset="1" stop-color="#a40000"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.76466 0 0 .76466 448.77 36.482)" id="linearGradient3880" y1="658.08" x1="-86.101" y2="652.81" gradientUnits="userSpaceOnUse" x2="87.525">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#a40000"/>
+</linearGradient>
+</defs>
+<g transform="translate(-371.56 -133.57)">
+<path fill="#d3d7cf" filter="url(#filter3972)" d="m431.44,173.94c-18.994,0-34.281,15.287-34.281,34.281v720.88l87.125-100 87.156,100v-720.88c0-18.994-15.287-34.281-34.281-34.281h-105.72zm54.031,70.031c16.108,0 29.156,13.08 29.156,29.188s-13.049,29.156-29.156,29.156c-16.108,0-29.156-13.049-29.156-29.156 0-16.108 13.049-29.188 29.156-29.188z"/>
+<path fill="url(#linearGradient3914)" d="m413.44,159.94c-18.994,0-34.281,15.287-34.281,34.281v720.88l87.125-100 87.156,100v-720.88c0-18.994-15.287-34.281-34.281-34.281h-105.72zm54.031,70.031c16.108,0 29.156,13.08 29.156,29.188s-13.049,29.156-29.156,29.156c-16.108,0-29.156-13.049-29.156-29.156 0-16.108 13.049-29.188 29.156-29.188z"/>
+<path fill="#fff" filter="url(#filter3874)" d="m409.93,167.02c-14.524,0-26.214,11.689-26.214,26.214v7.5032c1.0766,.0916 2.17,.1195 3.2737,.1195 .3683,0 .7337-.0135 1.0992-.0239v-5.6872c0-13.572 10.921-24.493 24.493-24.493l104.43-1.7678-1.7327-3.6322-105.35,1.7678z"/>
+<path fill="url(#linearGradient3880)" filter="url(#filter3874)" d="m367.93,165.02c-14.524,0-26.214,11.689-26.214,26.214v7.5032c1.0766,.0916 2.17,.1195 3.2737,.1195 .3683,0 .7337-.0135 1.0992-.0239v-5.6872c0-13.572 10.921-24.493 24.493-24.493h8.2679c-.008-1.2342-.0923-2.4375-.2629-3.6322h-10.657z" transform="matrix(-.86828 0 0 .86828 844.11 22.183)"/>
+</g>
+<g fill-rule="evenodd" color="#000" transform="translate(-371.56 -133.57)">
+<path fill="#750000" d="m467.85,227.35c-16.108,0-29.158,13.05-29.158,29.158 0,.5034 .002,.9961 .0271,1.4932 .8215-15.372 13.554-27.583 29.131-27.583s28.309,12.211 29.131,27.583c.0252-.4971 .0271-.9898 .0271-1.4932 0-16.108-13.05-29.158-29.158-29.158z"/>
+<path fill="#fff" filter="url(#filter3899)" d="m467.56,298c-19.261,0-34.866-15.605-34.866-34.866 0-.6019 .002-1.1911 .0324-1.7855 .9824,18.381 16.207,32.983 34.833,32.983s33.851-14.601 34.833-32.983c.0301,.5944 .0324,1.1836 .0324,1.7855 0,19.261-15.605,34.866-34.866,34.866z"/>
+<path fill="#a40000" filter="url(#filter3899)" d="m467.56,238c-19.261,0-34.866-15.605-34.866-34.866 0-.6019 .002-1.1911 .0324-1.7855 .9824,18.381 16.207,32.983 34.833,32.983s33.851-14.601 34.833-32.983c.0301,.5944 .0324,1.1836 .0324,1.7855 0,19.261-15.605,34.866-34.866,34.866z" transform="matrix(1 0 0 -1 0 457.34)"/>
+</g>
+<g transform="translate(-371.56 -133.57)">
+<path fill="#fff" filter="url(#filter3924)" d="m473.05,821.14 82.024,87.681-2.8284,5.6569-79.196-93.338z"/>
+<path fill="#730000" filter="url(#filter3918)" d="m468.1,811.24 82.024,87.681-2.8284,5.6569-79.196-93.338z" transform="matrix(-1 0 0 1 929.14 9.8995)"/>
+</g>
+<g fill="none" stroke="#a40000" stroke-width="4" transform="translate(-371.56 -133.57)">
+<path filter="url(#filter3946)" d="m384,213.36-1,694"/>
+<path filter="url(#filter3946)" d="m548,207.36-1,694"/>
+</g>
+</svg>

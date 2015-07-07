@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<g transform="translate(0 -988.36)">
+<path fill-opacity=".196" d="m16,1044.4 30-30h13l-30,30h-13z"/>
+</g>
+<g transform="translate(0 -988.36)">
+<path fill="#6595b9" d="m31,1029.4-10-10v-5l20-20 10,10-5,10-15,15z"/>
+<path fill="#da786c" d="m6,1034.4 10,10 15-15v-5l-10-10-10,10-5,10z"/>
+<path fill="#e3dbc8" d="m9,1028.4-1,2 10,10 30-30 1-2-11-11-27,27-2,4z"/>
+<path fill="#6595b9" d="m21,1016.4 10,10 18-18 2-4-10-10-20,20v2z"/>
+<path fill="#da786c" d="m9,1028.4 10,10 12-12v-2l-10-10-10,10-2,4z"/>
+<path fill-opacity=".078" d="m6,1034.4 5-10 10,10-5,10-10-10z"/>
+<path fill-opacity=".235" d="m16,1044.4 30-30 5-10-30,30-5,10z"/>
+</g>
+<g transform="translate(0 -988.36)">
+<g opacity=".9" transform="matrix(.70068 -.70068 .70068 .70068 -739.15 349.69)">
+<g transform="matrix(.54545 0 0 .54545 30.545 464.21)">
+<path d="m59,1031.4v-5l1-3 1,3v5h-2z"/>
+<path fill="none" stroke="#000" d="m55,34h10v10h-10z" transform="translate(0 988.36)"/>
+</g>
+<g transform="matrix(.54545 0 0 .54545 40.273 456.57)">
+<path d="m59,1045.4v-4h.6352l-.6352-2 1-2 1,2-.5213,1.9917 .5213,.01v4h-2v.0001z"/>
+<path fill="none" stroke="#000" d="m55,1036.4h10v10h-10z"/>
+</g>
+</g>
+</g>
+</svg>

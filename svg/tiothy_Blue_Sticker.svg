@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clipPath5498" clipPathUnits="userSpaceOnUse">
+<path fill="#fff" d="m321.25,281.69c-43.96,16.99-75.17,59.67-75.17,109.59 0,64.84 52.62,117.46 117.45,117.46 64.84,0 117.46-52.62 117.46-117.46 0-6.31-.49-12.51-1.45-18.56l-158.29-91.03z"/>
+</clipPath>
+<clipPath id="clipPath5474" clipPathUnits="userSpaceOnUse">
+<path d="m300.56,245.5c-65.49,25.31-112,88.89-112,163.28 0,96.6 78.4,175 175,175s175-78.4 175-175c0-9.41-.72-18.64-2.15-27.66l-235.85-135.62z"/>
+</clipPath>
+<clipPath id="clipPath5536" clipPathUnits="userSpaceOnUse">
+<path fill="#fff" d="m300.56,245.5c-65.49,25.31-112,88.89-112,163.28 0,96.6 78.4,175 175,175s175-78.4 175-175c0-9.41-.72-18.64-2.15-27.66l-235.85-135.62z"/>
+</clipPath>
+<filter id="filter5460">
+<feGaussianBlur stdDeviation="5.16211"/>
+</filter>
+<filter id="filter5482">
+<feGaussianBlur stdDeviation="2.87391"/>
+</filter>
+<linearGradient gradientTransform="translate(-792.36 165.48)" id="linearGradient5570" xlink:href="#linearGradient5502" y1="404.11" y2="54.92" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient id="linearGradient5502">
+<stop offset="0" stop-color="#457ca9"/>
+<stop offset=".769" stop-color="#457ca9"/>
+<stop offset=".912" stop-color="#40749e"/>
+<stop offset="1" stop-color="#457ca9"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(25 30.859)" id="linearGradient5555" y1="345.92" x1="418.48" y2="327.04" gradientUnits="userSpaceOnUse" x2="428.93">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#d9d9d9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.4899 0 0 1.4899 -178.08 -174.21)" spreadMethod="reflect" id="linearGradient5550" y1="207.51" y2="402.48" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="363.83" cy="390.78" id="radialGradient5548" xlink:href="#linearGradient5502" r="108.21" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(-188.56 -245.5)">
+<path filter="url(#filter5460)" d="m325.56,276.36c-65.49,25.31-112,88.89-112,163.28 0,96.6 78.4,175 175,175s175-78.4 175-175c0-9.41-.72-18.64-2.15-27.66l-235.85-135.62z"/>
+<path fill="#fff" d="m325.56,276.36c-65.49,25.31-112,88.89-112,163.28 0,96.6 78.4,175 175,175s175-78.4 175-175c0-9.41-.72-18.64-2.15-27.66l-235.85-135.62z"/>
+<path fill="url(#radialGradient5548)" d="m472.04,390.78a108.21,108.21 0 1,1 -216.41,0 108.21,108.21 0 1,1 216.41,0z" clip-path="url(#clipPath5498)" transform="matrix(1.4899 0 0 1.4899 -153.08 -143.35)"/>
+<path fill="url(#linearGradient5550)" d="m361.98,249.82c-62.81-.19-122.86,41.62-145.27,100.24-22.65,55.94-9.33,124.1 32.78,167.16 41.06,44.11 108.07,60.53 164.89,40.87 59.78-19.39 104.41-77.16 107.53-139.91 4.75-60.97-29.86-122.23-84.18-150.2-23.27-12.29-49.44-18.56-75.75-18.16z" clip-path="url(#clipPath5536)" transform="translate(25 30.859)"/>
+<path filter="url(#filter5482)" d="m473.41,393.45c22.21,0 43.44-4.16 63-11.72l-235.85-135.62c13.28,83.46 85.66,147.34 172.85,147.34z" clip-path="url(#clipPath5474)" transform="translate(25 30.859)"/>
+<path fill="url(#linearGradient5555)" d="m498.41,424.31c22.21,0 43.44-4.16 63-11.72l-235.85-135.63c13.28,83.47 85.66,147.35 172.85,147.35z"/>
+<path fill="url(#linearGradient5570)" d="m-217.23,220.4h125.3v349.19h-125.3z" transform="matrix(0 -1 1 0 0 0)"/>
+<text x="399.261" y="149.166" font-family="DejaVu Sans" line-height="125%" xml:space="preserve" font-size="19.028px"><tspan x="402.29" y="149.166" text-anchor="middle" text-align="center">recolor this gradient </tspan><tspan x="399.261" y="172.95" text-anchor="middle" text-align="center">to change the sticker color</tspan>
+</text>
+</g>
+</svg>

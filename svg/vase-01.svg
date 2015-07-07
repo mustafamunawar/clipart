@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" sodipodi:docname="vase_02.png" viewBox="0 0 800 800" version="1.1" inkscape:version="0.48.2 r9819">
+  <defs id="defs6">
+    <filter id="filter3923" height="1.3835" width="1.0176" y="-.19176" x="-.0087848" inkscape:collect="always">
+      <feGaussianBlur id="feGaussianBlur3925" stdDeviation="2.1107218" inkscape:collect="always"/>
+    </filter>
+    <filter id="filter4092" height="1.3888" width="1.0563" y="-.19440" x="-.028137" inkscape:collect="always">
+      <feGaussianBlur id="feGaussianBlur4094" stdDeviation="5.6841727" inkscape:collect="always"/>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="namedview4" bordercolor="#666666" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" gridtolerance="10" inkscape:window-maximized="0" inkscape:zoom="0.25191891" objecttolerance="10" borderlayer="true" borderopacity="1" inkscape:current-layer="svg2" inkscape:cx="448.80455" inkscape:cy="500.85491" inkscape:window-y="-16" inkscape:window-x="165" inkscape:window-width="1481" showgrid="false" inkscape:pageopacity="0" inkscape:window-height="819"/>
+  <g id="g4859">
+    <g id="g4827">
+      <path id="path4028" sodipodi:rx="242.42496" sodipodi:ry="35.087822" style="filter:url(#filter4092);stroke-width:0;fill-opacity:.64706;fill:#030000" sodipodi:type="arc" d="m2507.2 356.62a242.42 35.088 0 1 1 -484.85 0 242.42 35.088 0 1 1 484.85 0z" transform="matrix(.83560 0 0 1.0546 -1482.4 340.68)" sodipodi:cy="356.61752" sodipodi:cx="2264.7595"/>
+      <path id="path2987" sodipodi:nodetypes="cccccccccccssscccccccccsscccccccccccccssccsccccccccccccc" style="stroke-width:0;fill:#a03d3d" inkscape:connector-curvature="0" d="m265.06 91.723-0.89759 5.1444 1.5778 6.343 14.616 12.125 6.1443 21.444 1.844 28.784-13.498 37.891-19.861 43.144-22.721 41.339-17.878 40.948-18.259 53.1s-5.4417 23.79-7.896 45.904c-2.0793 18.735-1.2336 36.141-1.2336 38.171 0 2.4781 0.0972 28.995 2.6168 51.456 1.9795 17.646 6.5128 32.618 6.5128 32.618l8.85 31.099 5.9856 12.044 15.644 36.543 23.797 44.161 5.0649 6.689 20.171 17.912 35.4 12.638 57.015 6.1906s38.053-0.23441 44.9-0.23441c6.8472 0 51.354-2.2125 58.201-2.2125 6.8472 0 36.45-5.0844 36.45-5.0844l21.615-6.6375 25.734-20.501 23.125-31.434 18.607-41.437 13.694-44.25 12.553-44.25 2.2824-57.525-3.4236-48.675-11.412-51.994-25.106-61.95-18.259-36.506-19.4-34.294s-15.977-28.762-15.977-33.187-7.9884-36.506-6.8472-40.931 1.1412-25.444 1.1412-25.444l6.167-14.828s2.7434-9.0844 8.4494-12.403c5.706-3.3187 5.638-12.386 5.638-12.386l-4.7057-4.4644-6.0909-1.4126-7.4757-0.69799-16.47-0.50466-42.572-0.87182-53.052-0.02665-43.95 0.02665-53.052 0.56644-27.973 2.0929-15.977 1.7656-5.2495 0.44119z"/>
+      <path id="path2989" style="filter:url(#filter3923);stroke-width:0;fill:#100000" d="m1952.6-125.3s76.798-1.5756 103.74-1.5756c34.47 0 133.26 0.86207 116.48 0.86207-9.809 0 39.436-1.2091 96.55-1.2091 9.669 0 25.228 1.8896 49.83 0.74367 8.4694-0.39449 26.937-2.4364 35.978-3.5869 10.426-1.3267 18.634-2.6146 18.634-2.6146l9.7265-5.5497-1.5404-8.94-22.927-3.1862-58.955-0.13861-107.08 0.28714-128.98 0.92886-56.264-0.32836-55.74-1.6229-53.553-0.48642h-42.279l-28.241 2.0069-19.948 4.3134-1.1356 10.154 17.007 5.9613 24.07 3.1699 42.203-0.55207z" sodipodi:nodetypes="cssssscccccccccccccccccc" inkscape:connector-curvature="0" transform="matrix(.33892 0 0 .32854 -304.65 143.32)"/>
+      <g id="g4593" style="fill:#f3f3f3" transform="matrix(1.1114 0 0 2.3176 24.64 -421.83)">
+        <g id="g4471" style="fill:#f3f3f3" transform="matrix(.00016747 .74527 .71026 -.00012875 -14.282 185.66)">
+          <text id="text4447" style="font-size:40px;font-family:CHRISTINA;letter-spacing:0px;word-spacing:0px;line-height:125%;fill:#f3f3f3" xml:space="preserve" y="296.56558" x="212.92209" sodipodi:linespacing="125%">
+            <tspan id="tspan4449" sodipodi:role="line" x="212.92209" y="296.56558">vase</tspan>
+            <tspan id="tspan4451" sodipodi:role="line" x="212.92209" y="346.56558">vase</tspan>
+            <tspan id="tspan4453" sodipodi:role="line" x="212.92209" y="396.56558">vase</tspan>
+            <tspan id="tspan4455" sodipodi:role="line" x="212.92209" y="446.56558">vase</tspan>
+            <tspan id="tspan4457" sodipodi:role="line" x="212.92209" y="496.56558">vase</tspan>
+            <tspan id="tspan4459" sodipodi:role="line" x="212.92209" y="546.56555">vase</tspan>
+            <tspan id="tspan4461" sodipodi:role="line" x="212.92209" y="596.56555">vase</tspan>
+            <tspan id="tspan4463" sodipodi:role="line" x="212.92209" y="646.56555">vase</tspan>
+            <tspan id="tspan4467" sodipodi:role="line" x="212.92209" y="696.56555">vase</tspan>
+            <tspan id="tspan4469" sodipodi:role="line" x="212.92209" y="746.56555">vase</tspan>
+            <tspan id="tspan4465" sodipodi:role="line" x="212.92209" y="796.56555"/>
+          </text>
+        </g>
+        <g id="g4471-8" style="fill:#f3f3f3" transform="matrix(-.00016830 .80218 -.71379 -.00013858 700.75 172.42)">
+          <text id="text4447-4" style="font-size:40px;font-family:CHRISTINA;letter-spacing:0px;word-spacing:0px;line-height:125%;fill:#f3f3f3" xml:space="preserve" y="296.56558" x="212.92209" sodipodi:linespacing="125%">
+            <tspan id="tspan4449-9" sodipodi:role="line" x="212.92209" y="296.56558">vase</tspan>
+            <tspan id="tspan4451-6" sodipodi:role="line" x="212.92209" y="346.56558">vase</tspan>
+            <tspan id="tspan4453-3" sodipodi:role="line" x="212.92209" y="396.56558">vase</tspan>
+            <tspan id="tspan4455-7" sodipodi:role="line" x="212.92209" y="446.56558">vase</tspan>
+            <tspan id="tspan4457-8" sodipodi:role="line" x="212.92209" y="496.56558">vase</tspan>
+            <tspan id="tspan4459-8" sodipodi:role="line" x="212.92209" y="546.56555">vase</tspan>
+            <tspan id="tspan4461-2" sodipodi:role="line" x="212.92209" y="596.56555">vase</tspan>
+            <tspan id="tspan4463-9" sodipodi:role="line" x="212.92209" y="646.56555">vase</tspan>
+            <tspan id="tspan4467-1" sodipodi:role="line" x="212.92209" y="696.56555">vase</tspan>
+            <tspan id="tspan4469-3" sodipodi:role="line" x="212.92209" y="746.56555">vase</tspan>
+            <tspan id="tspan4465-5" sodipodi:role="line" x="212.92209" y="796.56555"/>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

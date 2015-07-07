@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg11832"
+    sodipodi:docname="Cotter pin.svg"
+    viewBox="0 0 367.59 78.192"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <sodipodi:namedview
+      id="namedview11836"
+      fit-margin-left="0"
+      inkscape:zoom="0.43415836"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="270.71879"
+      inkscape:cy="177.1604"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      units="in"
+      inkscape:document-units="in"
+      bordercolor="#666666"
+      inkscape:window-x="65"
+      inkscape:window-y="24"
+      fit-margin-bottom="0"
+      inkscape:window-width="1215"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:window-height="776"
+      fit-margin-top="0"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-219.28 -483.97)"
+    >
+    <path
+        id="path11272-2"
+        style="color:#000000;stroke:#1a1a1a;fill:#333333"
+        d="m330.41 514.82s16.339 9.634 28.29 2.2902c13.778-8.466 37.911-34.092 47.11-32.363 19.736 4.9272 37.253 28.692 57.446 29.953 9.6603-2.0108 31.039-29.573 41.067-29.953 11.47-0.43408 23.381 23.585 37.02 25.706 9.2541 1.4389 31.307-18.841 44.539-25.706 0.29215 3.2528 0.49272 14.645 0.49272 14.645s-35.362 27.945-44.539 27.945c-14.174 0-27.402-27.393-38.872-26.959-10.028 0.37951-28.664 25.574-38.604 26.959-22.05 3.0726-40.594-22.597-58.56-28.889-15.563 0.88933-29.024 22.584-43.388 28.889-11.117 4.8793-19.973 2.485-31.713 0-3.5065-0.74219-38.178-18.954-38.178-18.954-8.1302-4.7815-42.529-18.234-54.462 0.78079-7.7998 13.779-9.2702 32.608 1.0717 37.102 28.326 3.7795 40.942 2.5317 55.907 2.5317 7.4394-0.0671 9.8632-0.0829 14.847-0.0825l242.49 0.87528c9.1771 0.0331 26.977-0.33364 33.51-0.0612 0.25204 3.6332-0.10958 5.7294 0 10.298-2.9972-0.12686-15.266 0.26579-33.62 0.26462l-242.71-0.0155c-7.6904-0.15103-11.514 0.13194-14.796-0.0734-21.721 0-50.228 4.3311-59.872-1.06-22.462-12.555-15.584-44.307-6.7682-57.426 23.389-29.934 68.179-4.336 68.179-4.336z"
+        inkscape:export-ydpi="90"
+        sodipodi:nodetypes="cscccsccssscsscccccsccsccsccc"
+        inkscape:export-filename="/home/pw/Downloads/Cotter pin.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="90"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
